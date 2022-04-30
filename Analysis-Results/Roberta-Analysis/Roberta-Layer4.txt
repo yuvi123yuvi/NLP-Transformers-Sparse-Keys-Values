@@ -1,0 +1,302 @@
+Results for Roberta - Layer 4
+-------------------------------
+Key:  [' five', 'att', ' session', ' estate', ' African', ' played', ' proposed', 'hen', ' knowledge', ' Three']
+Value:  [' carry', 'qu', ' seeking', ' elections', ' Party', ' cars', ' Times', ' removed', ' placed', ' them'] 
+#################################################
+Key:  ['att', ' five', ' defense', 'an', ' steps', ' cuts', ' dark', ' finance', ' Mac', ' York']
+Value:  [' twice', ' meet', '29', ' wish', 'ings', 'se', 'ach', ' book', 'uf', ' completely']
+#################################################
+Key:  [' defense', ' played', ' Three', ' Matt', ' offensive', ' five', ' seeking', ' |', ' East', ' Coast']     
+Value:  [' leader', ' Google', ' placed', ' People', ' Sh', ' Group', ' Of', ' session', ' Although', ' focused']
+#################################################
+Key:  [' played', ' steps', 'att', ' wall', ' stars', ' five', ' joint', ' Under', ' How', ' older']
+Value:  [' twice', ' looking', ' kids', ' helping', 'ka', ' Attorney', 'ally', ' provides', 'nd', ' capital']
+#################################################
+Key:  ['att', ' played', ' William', ' five', ' defense', ' connection', ' stars', ' Services', ' 300', ' increasing']
+Value:  [' kids', ' documents', ' protection', ' goals', ' contact', ' stars', ' Robert', ' funds', ' increasing', ' connection']
+#################################################
+Key:  ['att', ' five', ' defense', ' played', ' college', ' @', ' outside', ' perfect', ' session', ' almost']
+Value:  ['als', ' programs', ' book', ' Foundation', ' William', ' dropped', "'", 'A', '."', ' assets']
+#################################################
+Key:  ['ation', ' played', ' her', ' foot', ' proud', ' Aug', 'ala', ' Fox', ',', ' Ministry']
+Value:  ['ens', ' worked', ' Attorney', '_', ' Lee', ' special', ' attacks', ' allowed', ' committed', ' victims']
+#################################################
+Key:  [' Capital', ' goal', ' Three', '45', ' played', 'ell', ' valued', 'hen', '".', ' long']
+Value:  [' kids', ' funds', ' focus', ' June', 'j', ' status', ' south', ' quarterback', ' Peter', ' pre']
+#################################################
+Key:  ['att', ' played', ' five', ' feeling', ' steps', ' defense', 'ation', ' check', 'iz', ' talent']
+Value:  ['uf', ' funds', ' Army', '�', ' kids', ' twice', 'al', ' Houston', 'l', ' process']
+#################################################
+Key:  ['att', ' played', 'ala', ' children', ' losses', ' your', 'ë', ' speak', ' Facebook', ' ad']
+Value:  [' standards', ' Facebook', ' daily', ' moved', ' Tuesday', ' mental', 'day', ' losses', ' Real', ' described']
+#################################################
+Key:  [' William', ' commitment', ' watching', ' solution', 'pl', ' fellow', ' along', ' w', ' Texas', ' stars']
+Value:  [' kids', ' rising', ' along', ' Real', ' accused', 'res', ' Wall', ' corporate', ' Lee', ' Sc']
+#################################################
+Key:  [' defense', 'att', ' played', ' five', ' 300', ' session', ' P', ' stopped', ' draw', ' decisions']
+Value:  ['als', ' States', ' one', ' twice', ' son', 'ED', ' looking', 'month', ' street', ' documents']
+#################################################
+Key:  [' defense', ' played', ' five', 'att', ' team', ' same', ' offered', ' accused', 'ot', ' rather']
+Value:  [' doing', ' Google', ' valued', ' thought', ' 2009', ' due', ' however', ' feeling', '45', ' Jones']
+#################################################
+Key:  [' talent', ' standards', '+', 'att', ' doing', ' trade', ' concern', ' request', ' lack', ' five']
+Value:  [' spend', ' risks', ' moving', ' presence', ' file', 'ger', ' book', ' brain', ' kids', ' Island']
+#################################################
+Key:  [' five', ' played', ' session', 'att', ' follow', ' Chicago', ' (@', ' Star', ' partners', ' word']
+Value:  [' kids', 'ack', ' scheduled', 'ings', ' one', 'za', 'ens', ' Since', '21', ' estate']
+#################################################
+Key:  ['att', ' played', ' defense', 'ens', ' William', ' stuff', ' session', ' People', ' valued', '300']
+Value:  ['300', ' lack', 'als', ' programme', ' accused', ' evening', ' sc', ' segment', ' programs', ' children']
+#################################################
+Key:  ['att', ' five', ' defense', ' played', ' Capital', ' valued', ' Daniel', 'ier', ' annual', ' one']
+Value:  ['als', ' kids', ' Community', ' wait', ' Virginia', ' fired', 'j', ' son', ' segment', ' Jones']
+#################################################
+Key:  [' five', 'att', ' played', ' steps', ' accused', 'her', ' Of', ' necessary', ' student', ' assets']
+Value:  [' House', ' kids', ' visit', ' Sc', ' student', 'io', ' shut', ' core', ' determined', ' Of']
+#################################################
+Key:  ['att', ' played', ' five', ' defense', ' fall', "'t", 'ger', ' Africa', ' ch', '60']
+Value:  [' kids', ' doing', ' central', ' parties', ' remained', ' #', ' nation', ' follow', ' fall', 'ies']
+#################################################
+Key:  [' stars', ' stuff', ' catch', ' lack', 'att', ' played', ' five', ' documents', ' was', ' Robert']
+Value:  [' documents', ' Robert', ' stars', ' lack', ' was', 'ort', ' are', ' contact', ' session', ' reporting']
+#################################################
+Key:  ['att', ' played', ' steps', ' stars', ' session', ' 20', ' alleged', ' called', ' speak', ' secure']
+Value:  [' funds', ' feeling', ' kids', ' does', ' condition', ' article', ' feels', 'ens', ' difference', ' Year']
+#################################################
+Key:  ['att', ' five', ' 34', ' African', ' fellow', ' Three', ' those', ' Morgan', ' Daily', ' still']
+Value:  [' chairman', ' kids', 'ort', ' save', ' version', ' book', ' baby', ' 34', 'ED', 'off']
+#################################################
+Key:  [' played', ' defense', 'att', 'g', ' driving', ' Of', ' removed', ' stars', ' (@', ' city']
+Value:  [' kids', ' recovery', ' Army', 'P', ' Coast', ' in', ' attacks', ' provides', ' Chinese', ' manufacturing']
+#################################################
+Key:  ['+', ' played', ' 300', ' Capital', ' session', ' posted', 'nd', ' second', ' Three', 'ul']
+Value:  [' standards', ' attacks', ' were', ' overall', ' Sp', ' Jack', ' account', 'air', ' sent', ' Lee']
+#################################################
+Key:  ['att', ' Energy', 'om', ' five', 'ens', ' traded', ' I', ' Canada', ' remaining', ' Miller']
+Value:  [' funds', ' 300', ' internet', ' book', ' how', ' investment', ' Image', ' emergency', ' Share', ' feeling']
+#################################################
+Key:  [' played', ' talent', ' session', 'ling', ' Of', ' such', '<pad>', 'oy', ' name', ' responsible']
+Value:  [' twice', 'ens', ' we', ' son', ' process', ' Capital', ' Chicago', 'l', ' quickly', ' e']
+#################################################
+Key:  [' played', 'att', ' stopped', ' session', ' seek', ' mind', ' remaining', ' knowledge', 'IC', ' well']
+Value:  [' States', ' second', 'le', ' details', ' thinking', ' exactly', 'ig', ' growth', ' version', ' himself']
+#################################################
+Key:  [' feeling', ' Three', ' items', ' five', ' seek', 'It', ' Jones', ' defense', ' proposal', '<pad>']
+Value:  [' session', ' Te', ' Lee', ' traffic', ' Commission', ' Star', ' trade', ' above', ' residents', ' attempt']
+#################################################
+Key:  [' five', ' played', 'go', ' down', ' squad', ' removed', 'AL', ' toward', ' host', ' built']
+Value:  ['berg', ' standards', ' squad', ' proposed', ' medical', ' book', '?', 'S', ' 22', ' push']
+#################################################
+Key:  [' played', ' five', 'att', '+', ' toward', ' time', ' control', 'ot', ' standards', ' steps']
+Value:  ['S', 'ID', ' Daniel', ' friends', ' transfer', ' Division', ' documents', ' if', ' Of', 'ens']
+#################################################
+Key:  ['att', ' five', ' played', ' African', ' valued', ' 300', ' definitely', ' recently', ' victim', ' Aug']
+Value:  [' book', ' kids', ' w', '15', 's', ' Colorado', ' does', 'ians', ' we', ' helping']
+#################################################
+Key:  [' defense', ' five', 'att', ' played', ' Bank', ' high', ' trade', ' front', ' college', ' related']
+Value:  [' kids', ' tax', ' Peter', ' far', ' costs', ' sides', ' added', ' del', ' debt', ' perform']
+#################################################
+Key:  [' African', ' played', ' latest', ' euros', ' Br', 'ala', '+', ' cloudy', ' talent', ' committed']
+Value:  ['We', 'ron', ' period', 'u', ' accused', 'age', ' a', ' ensure', ' commitment', '�']
+#################################################
+Key:  [' session', ' played', ' adding', ' assets', ' necessary', 'air', ' consumer', ' more', 'ating', ' Three']
+Value:  ['al', ' chairman', 'et', 'D', ' Capital', ' medical', ' Te', ' session', ' spend', ' May']
+#################################################
+Key:  [' five', ' 22', ' played', 'ens', ' stars', ' control', ' straight', 'att', 'ry', ' 300']
+Value:  [' kids', ' spend', ' looking', 'berg', ' catch', ' twice', ' one', ' £', ' sides', ' conference']
+#################################################
+Key:  [' defense', ' feeling', ' five', ' played', 'att', ' candidates', ' response', ' designed', ' le', 'ies']
+Value:  [' People', ' process', ' reports', ' decisions', 'yard', ' removed', ' Jackson', '/', ' Southern', ' 300']
+#################################################
+Key:  [' five', 'att', ' session', ' played', ' assets', ' Jack', ' baby', ' placed', ' version', ' looking']
+Value:  [' challenge', ' assets', ' funds', ' placed', ' leader', ' character', ' sixth', ' personal', 'ians', ' reason']
+#################################################
+Key:  [' five', ' defense', ' Br', ' stars', ' losses', 'ier', ' played', ' cases', ' Capital', ' information']
+Value:  [' standards', ' ready', ' date', ' Te', ' Minister', ' cases', ' article', 'wa', ' carried', 'K']
+#################################################
+Key:  [' defense', ' played', ' five', 'wood', ' table', ' talent', ' majority', '45', ' African', ' mind']
+Value:  [' protection', ' funds', ' risks', ' g', ' dropped', 'for', ' Saudi', ' fired', ' role', ' table']
+#################################################
+Key:  ['att', ' five', ' played', ' steps', ' defense', ' can', ' 300', ' moving', ' York', 'iting']
+Value:  [' stuff', ' makes', ' book', ' central', ' Real', 'ah', ' alleged', 'uf', ' poll', ' fired']
+#################################################
+Key:  ['att', ' five', ' played', 'ier', ' defense', 'ek', ' African', ' player', ' Robert', ' squad']
+Value:  [' Robert', ' kids', ' ad', ' attacks', ' contact', ' Th', ' time', '300', ' fall', 'ek']
+#################################################
+Key:  [' five', 'att', ' played', ' steps', ' millions', ' strength', ' Road', ' street', ' boy', ' internet']
+Value:  [' kids', ' looking', ' one', ' 21', ' boy', ' ago', ' reporting', ' Jim', 'j', ' second']
+#################################################
+Key:  ['att', ' played', ' run', ' steps', ' proud', ' children', ' planned', ' organization', ' businesses', 'iv']
+Value:  [' Army', ' u', ' feeling', ' For', 'za', ' @', ' estimated', '...', ' provides', 'iv']
+#################################################
+Key:  [' five', ' played', ' decisions', ' Of', ' Br', ' York', ' one', ' Rob', ' third', ' African']
+Value:  [' quickly', ' medical', ' expressed', ' 300', ' added', ' above', ' Gold', ' Los', ' estate', ' central']
+#################################################
+Key:  [' played', 'io', ' Chief', ' Coast', ' cars', 'att', ' defense', ' decisions', 'qu', ' stopped']
+Value:  ['For', ' programs', ' described', ' corporate', ' funds', ' Mexico', ' Research', 'There', 'AY', ' Three']
+#################################################
+Key:  [' steps', ' five', '15', 'att', ' bond', ' influence', ' result', ' approximately', 'no', ' follow']
+Value:  [' leader', ' placed', ' son', ' period', ' Texas', ' Commission', ' tournament', ' We', ' quarterback', 'In']
+#################################################
+Key:  [' defense', ' five', 'att', ' played', 'ens', ' wearing', 'news', ' Of', ' cars', ' quickly']
+Value:  [' kids', ' stuff', 'ally', ' States', ' joint', 'ka', ' spend', ' risks', ' ready', ' file']
+#################################################
+Key:  [' five', ' played', ' defense', 'att', ' Capital', ' between', ' safety', ' standards', 'wood', ' cloudy']
+Value:  ['wood', ' spend', ' in', ' protection', ' risks', ' treated', ' once', ' warned', ' choice', ' adding']
+#################################################
+Key:  [' Three', '+', ' five', ' defense', ' cloudy', ' responsible', 'ach', ' talent', ' Party', ' Capital']
+Value:  [' feeling', ' Three', ' faces', 'ford', ' Attorney', ' individual', ' responsible', ' x', ' video', ' of']
+#################################################
+Key:  [' played', ' feeling', ' seek', 'ab', ' committed', ' short', ' hot', ' 20', 'In', ' use']
+Value:  ['ED', ' session', 'ness', ' move', ' goal', ' deliver', ' Tuesday', ' Mal', ' son', ' street']
+#################################################
+Key:  [' five', ' defense', 'att', ' feeling', ' core', ' session', ' 35', 'iting', ' accused', ' items']
+Value:  ['ens', ' session', ' kids', ' twice', ' core', 'ians', ' remain', ' page', 'uk', ' Minister']
+#################################################
+Key:  ['att', ' five', ' steps', ' Three', 'ne', 'ge', ' children', ' process', ' save', ' domestic']
+Value:  [' difference', ' Real', ' business', ' sc', ' Houston', ' Three', "'ve", ' push', ' creating', ' course']
+#################################################
+Key:  [' talent', ' African', '+', ' road', ' session', ' played', 'ed', ' accused', ' picked', ' 15']
+Value:  [' Three', ' NBA', ' treated', ' chairman', ' session', ' carry', 'ata', ' bar', ' @', ' Chicago']
+#################################################
+Key:  [' played', ' corporate', ' assets', 'wood', ' Court', ' steps', ' 20', ' By', '�', ' Party']
+Value:  [' election', ' Virginia', 'aw', ' completed', ' carry', 'af', ' goes', ' central', ' chairman', ' employees']
+#################################################
+Key:  [' played', ' Minister', ' REUTERS', ' Share', ' welcome', ' signed', ' usually', ' 300', ' holiday', ' C']
+Value:  [' limited', ' Attorney', ' AP', ' version', ' feeling', 'nd', ' valued', 'ings', ' star', ' restaurant']
+#################################################
+Key:  ['att', ' played', ' feeling', ' Singapore', ' majority', ' Well', ' Commission', ' several', ' stay', ' items']
+Value:  [' Instead', ' States', ' researchers', '5', ' documents', ' ago', ' independent', ' Spain', ' Peter', ' majority']
+#################################################
+Key:  [' Three', ' played', ' signed', 'an', ' park', ' talent', ' took', ' happening', ' fit', ' session']
+Value:  ['/', ' manufacturing', 'wa', ' helping', ' added', 'led', ' definitely', ' G', ' funds', 'ford']
+#################################################
+Key:  ['att', ' difference', ' Three', ' On', '15', '+', 'et', ' giant', ' parts', ' looks']
+Value:  [' difference', ' owns', ' 22', ' parts', 'j', ' g', ' once', ' twice', 'x', 'nd']
+#################################################
+Key:  [' played', ' ride', ' behind', ' proud', ' culture', ' attempt', ' foot', ' defense', ' trial', ' assets']
+Value:  [' accused', ' kids', 'ens', ' video', 'men', ' removed', 'j', ' account', ' Commission', ' produce']
+#################################################
+Key:  ['att', ' 14', ' steps', ' played', ' Three', 'ul', ' telling', ' name', ' defense', ' remaining']
+Value:  [' investment', ' removed', ' ahead', ' playing', ' kids', ' confidence', ' looking', ' recent', ' twice', 'za']
+#################################################
+Key:  [' five', ' played', ' William', ' control', ' Ben', 'att', ' MORE', ' Virginia', ' decisions', ' accused']
+Value:  ['AY', '300', ' running', ' control', ' evidence', ' nature', ' men', ' Miami', ' university', ' eyes']
+#################################################
+Key:  [' five', 'att', ' steps', ' defense', ' challenge', '+', ' played', ' programs', ' Energy', ' lack']
+Value:  [' protection', ' kids', ' Foundation', ' minutes', ' party', ' violence', ' forced', 'als', ' land', ' played']
+#################################################
+Key:  ['att', ' played', 'ick', ' stopped', ' launched', ' offensive', ' trade', ' host', ' Even', 'ge']
+Value:  [' attacks', ' Attorney', 'ack', ' sector', ' Even', ' kids', ' host', ' funds', 'berg', ' States']
+#################################################
+Key:  [' played', ' defense', 'att', ' William', ' cloudy', ' Energy', ' second', ' Andrew', 'wood', ' seat']
+Value:  [' book', ' accused', ' Texas', ' @', ' finish', ' of', ' attacks', ' 300', ' Chris', 'AC']
+#################################################
+Key:  [' played', ' corporate', 'att', ' placed', ' difference', ' 18', ' responsible', ' certain', ' dividend', ' file']
+Value:  [' funds', ' placed', ' leader', ' kids', ' L', ' talent', ' game', ' below', ' 300', ' election']
+#################################################
+Key:  ['att', ' defense', ' played', ' five', ' Capital', ' 15', ' book', ' rep', ' steps', ' one']
+Value:  [' book', ' Ohio', 'S', ' of', 'qu', ' doing', '<pad>', ' Great', '29', ' Day']
+#################################################
+Key:  [' 300', ' played', ' Park', ' stars', 'att', ' force', ' talent', ' 35', ' seek', ' Capital']
+Value:  [' Bank', ' mental', 'ig', ' considering', ' @', 'og', ' debt', ' announced', ' committed', ' Minister']
+#################################################
+Key:  [' defense', ' played', ' attacks', ' credit', ' five', 'att', 'of', 'wood', ' key', ' standards']
+Value:  [' Te', ' attacks', ' The', 'air', ' chairman', ' challenge', ' book', ' Th', ' Minister', ' Sp']
+#################################################
+Key:  [' played', 'att', ' five', ' offered', ' her', ' talent', 'ation', 'If', 'ab', ' feeling']
+Value:  [' Great', ' ended', ' twice', ' carry', ' Coast', ' data', ' condition', ' alleged', ' dark', ' Virginia']
+#################################################
+Key:  [' played', ' session', ' Capital', ' fit', ' seeking', ' Rob', ' crime', ' defence', 'the', ' Young']
+Value:  ['+', ' Conference', ' provides', ' Te', ' short', ' stopped', ' Par', ' REUTERS', ' removed', ' stuff']
+#################################################
+Key:  [' defense', ' played', 'If', 'att', ' protect', '<pad>', ' nation', 'co', ' Br', "'ve"]
+Value:  [' carry', 'ack', ' talks', 'aw', ' spend', ' Houston', 'ge', ' quickly', ' domestic', ' competition']
+#################################################
+Key:  [' Three', ' Then', ' insurance', ' played', ' stand', ' driving', ' remained', 'ack', '�', ' recent']
+Value:  [' centre', ' lead', ' contact', ' non', ' and', ' Robert', ' alleged', ' funds', ' warning', ' Tuesday']
+#################################################
+Key:  [' finance', ' her', ' five', ' knowledge', ' series', 'att', ' steps', ' Since', ' intelligence', ' period']
+Value:  ['8', ' thought', ' able', ' 17', ' Public', '6', ' Google', ' healthy', ' traffic', ' book']
+#################################################
+Key:  [' played', ' steps', 'att', ' defense', ' concern', ' stars', ' Three', 'ka', ' annual', ' ride']
+Value:  ['ness', 'ens', ' ended', 'land', 'line', ' book', ' reached', ' decisions', ' support', ' annual']
+#################################################
+Key:  ['att', 'ation', ' played', 'wood', 'to', ' stars', 'ach', ' accused', '.', 'us']
+Value:  [' necessary', ' quality', ' u', ' focus', '(', ' feeling', ' 7', ' Let', ' baby', ' industrial']
+#################################################
+Key:  [' five', ' played', ' feeling', 'nd', 'att', ' Gr', ' Three', ' no', 'ation', ' Most']
+Value:  [' Texas', ' added', ' carry', 'ge', ' behind', ' latest', ' military', ' Tuesday', 'ens', ' happening']
+#################################################
+Key:  [' five', ' defense', ' played', 'att', ' accused', ' assets', ' William', ' Great', ' Coast', ' businesses']
+Value:  ['ry', ' catch', 'ond', ' parents', ' changing', ' star', ' still', ' campaign', ' however', ' carry']
+#################################################
+Key:  [' played', 'att', ' five', ' defense', ' E', ' driver', ' |', ' kids', ' steps', ' move']
+Value:  ['We', ' E', ' kids', ' played', ' application', ' deliver', 'als', ' campaign', ' image', ' work']
+#################################################
+Key:  [' played', 'att', ' feeling', ' Ben', ' won', ' Mary', ' Japan', '...', ' Korean', ' survey']
+Value:  [' book', 'market', ' whatever', ' feeling', ' citizens', ' street', ' leader', ' time', '60', ' owns']
+#################################################
+Key:  [' mind', ' goal', ' intelligence', 'att', ' played', ' Capital', ' knowledge', ' serving', ' those', ' scored']
+Value:  [' kids', ' looking', ' ad', 'al', ' quarterback', ' determined', ' challenge', ' lead', ' husband', 'ings']
+#################################################
+Key:  [' defense', 'att', ' played', ' five', '<pad>', ' attacks', ' 300', ' feeling', 'ed', ' NBA']
+Value:  [' leader', ' placed', ' Day', ' Southern', 'ary', ' C', ' Research', ' video', ' book', ' mid']
+#################################################
+Key:  ['att', ' played', ' cloudy', ' feeling', ' require', 'ort', 'son', 'IC', 'x', ' units']
+Value:  [' kids', ' charged', 'io', ' multiple', ' individuals', ' amid', 'j', 'S', 'ED', ' looking']
+#################################################
+Key:  [' funds', 'att', ' sale', ' area', 'ron', ' played', ' those', ' protection', ' Development', ' peace']
+Value:  [' funds', ' protection', 'als', ' Community', ' Committee', ' looked', 'ron', ' looking', ' Development', ' close']
+#################################################
+Key:  [' stopped', 'ing', ' Br', ' How', ' played', ' current', 'She', ' stars', ' adding', ' perhaps']
+Value:  ['men', ' talks', ' star', ' Robert', ' Jackson', ' Chicago', ' Chief', ' victims', ' amid', ' Jones']
+#################################################
+Key:  [' five', ' played', 'att', ' well', ' talent', ' opened', ' owns', ' doing', ' begin', ' cloudy']
+Value:  ['pe', ' star', ' owns', ' Br', 'ally', ' once', ' Tuesday', ' nearly', ' in', 'S']
+#################################################
+Key:  ['att', ' steps', ' played', ' lawsuit', ' easier', ' Chicago', ' success', ' index', ' lawmakers', ' direct']
+Value:  [' kids', ' Attorney', ' protection', ' nation', ' Real', ' dropped', ' doesn', ' spend', ' g', ' squad']
+#################################################
+Key:  [' knowledge', 'att', ' finance', ' Capital', 'qu', 'ation', ' road', ' Coast', ' stopped', ' offensive']
+Value:  [' carry', ' funds', ' running', 'uk', ' Boston', ' data', ' Star', ' are', ' Las', 'st']
+#################################################
+Key:  [' Three', ' five', ' Los', ' rest', ' don', ' accused', 'ary', 'res', ' played', ' steps']
+Value:  [' period', '&', ' Te', ' Tom', ' Tuesday', ' w', 'res', 'q', ' together', ' feeling']
+#################################################
+Key:  [' defense', ' played', ' seek', ' five', 'att', '+', ' provides', ' stand', ' h', ' York']
+Value:  [' follow', ' £', ' goes', ' qu', ' Another', ' charges', ' 300', ' Press', ' kids', ' years']
+#################################################
+Key:  [' five', 'x', ' carry', ' fall', ' Under', 'ier', ' Of', ' expressed', ' knowledge', ' limited']
+Value:  ['<pad>', 'D', ' Investment', 'ach', ' anyone', ' Jim', ' plays', 'TV', ' Texas', ' i']
+#################################################
+Key:  ['att', ' five', ' played', ' steps', ' defense', ' stars', ' happening', ' human', ' world', ' problem']
+Value:  ['wood', ' documents', 'ians', ' charged', ' Under', ' York', ' stay', ' Thomas', ' was', ' solid']
+#################################################
+Key:  [' session', ' five', 'If', ' seek', ' buying', ' necessary', ' starts', ' talent', ' feeling', ' basketball']
+Value:  [' standards', '29', 'ians', ' special', ' del', ' Under', ' road', ' focused', ' search', ' tax']
+#################################################
+Key:  [' defense', ' five', ' played', ' usually', ' let', ' h', ' strike', ' improve', 'ack', ' steps']
+Value:  [' Real', ' file', ' doing', ' version', ' Jordan', ' Facebook', ' #', ' crowd', ' kids', ' door']
+#################################################
+Key:  [' five', 'att', ' defense', ' played', ' feeling', ' Under', ' stars', 've', ' stopped', ' leaving']
+Value:  [' Under', 'ians', 'j', ' straight', 'als', 'S', ' Inc', ' attacks', ' declared', ' supporters']
+#################################################
+Key:  [' session', ' five', 'att', ' defense', ' steps', ' maybe', ' ch', ' killed', ' District', ' students']
+Value:  [' book', ' investment', ' leaving', ' decisions', ' (@', ' said', ' Russia', ' stopped', ' however', '+']
+#################################################
+Key:  [' played', ' William', ' Chief', ' trade', ' Capital', ' accounts', ' stars', ' York', ' several', ' 35']
+Value:  [' documents', ' kids', ' stars', '60', ' Te', ' street', ' figure', ' Real', ' w', ' remain']
+#################################################
+Key:  [' talent', ' five', ' 300', ' tweeted', ' played', ' survey', ' African', '6', ' seek', ' fellow']
+Value:  [' challenge', 'ge', 'q', ' L', ' above', ' Facebook', ' determined', ' 20', '45', ' States']
+#################################################
+Key:  ['att', ' conversation', ' played', ' discuss', ' steps', ' defense', ' population', ' owners', 'ation', ' driver']
+Value:  [' discuss', ' conversation', '�', ' That', ' population', 'AM', ' kids', ' marketing', ' opinion', ' taken']
+#################################################
+Key:  [' played', ' defense', ' 300', ' steps', 'att', ' five', ' assets', 'ation', ' speak', ' survey']
+Value:  [' carry', 'q', ' States', ' couldn', 'ne', ' twice', ' nature', ' minutes', '45', ' •']
+#################################################
+Key:  [' played', ' five', ' defense', 'att', ' catch', ' talent', 'ger', ' closer', ' mind', ' free']
+Value:  [' kids', 've', ' Daniel', 'w', ' one', ' talent', ' Women', ' under', ' feeling', ' arrested']
+#################################################

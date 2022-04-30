@@ -1,0 +1,302 @@
+Results for BERT - Layer 11
+-------------------------------
+Key:  ['n a t i o n a l', 'ʾ', 'ツ', 'm o u t h', '‑', '[ u n u s e d 8 0 0 ]', '[ u n u s e d 2 7 6 ]', '食', '[ u n u s e d 6 7 8 ]', '[ u n u s e d 2 1 0 ]']
+Value:  ['r e t u r n', '[ u n u s e d 5 4 6 ]', '1 9 9 9', '[ u n u s e d 4 0 3 ]', 'ᵇ', '£', 'w e r e', '[ u n u s e d 7 8 6 ]', '[ u n u s e d 7 1 2 ]', '[ u n u s e d 1 7 3 ]']
+#################################################
+Key:  ['[ u n u s e d 8 7 2 ]', '日', '[ u n u s e d 6 6 2 ]', '[ u n u s e d 2 4 6 ]', 'モ', '∨', 'ᆯ', 'მ', '[ u n u s e d 8 6 1 ]', 't']
+Value:  ['金', 'g i r l s', 'n u m b e r', '# # i n g', 'l i f e', 'c u t', '公', 'н', 'n e v e r', 'w i l l i a m']
+#################################################
+Key:  ['e p i s o d e', 'w i d e', '[ u n u s e d 4 7 2 ]', 'a l s o', '[ u n u s e d 5 7 2 ]', '[ u n u s e d 8 2 5 ]', '#', 'ش', '⁹', 's p e n t']
+Value:  ['# # e n', '学', '[ u n u s e d 7 7 0 ]', 'c o u l d', '[ u n u s e d 5 3 5 ]', 'l o o k', 's i z e', '[ u n u s e d 5 1 ]', '地', '[ u n u s e d 8 7 9 ]']
+#################################################
+Key:  ['不', '[ u n u s e d 3 8 5 ]', '[ u n u s e d 4 5 2 ]', 'ӏ', '[ u n u s e d 3 8 4 ]', '‿', '[ u n u s e d 8 9 4 ]', 'z', '[ u n u s e d 5 7 2 ]', '[ u n u s e d 2 2 4 ]']
+Value:  ['c o m m u n i t y', '[ u n u s e d 2 2 5 ]', '[ u n u s e d 5 5 4 ]', '[ u n u s e d 3 0 9 ]', 'f a t h e r', '面', '[ u n u s e d 2 3 9 ]', '宇', 's a t', '[ u n u s e d 2 0 7 ]']
+#################################################
+Key:  ['[ u n u s e d 9 2 9 ]', '2 0 1 2', '[ u n u s e d 3 0 8 ]', 'c h i l d', '[ u n u s e d 9 3 8 ]', '[ u n u s e d 5 5 2 ]', '[ u n u s e d 7 3 ]', 'ᄋ', '⁺', 'd e s i g n e d']
+Value:  ['1 9 9 9', 't h u s', '[ u n u s e d 2 7 4 ]', '[ u n u s e d 2 3 9 ]', '1 9 8 9', '古', 'w a r', '[ u n u s e d 5 1 9 ]', 'w e r e', '[ u n u s e d 2 0 5 ]']
+#################################################
+Key:  ['m a y', 'y o u r', '# # 6', '[ u n u s e d 1 1 0 ]', 'w i t h i n', '∞', 'i t s', '辶', '[ u n u s e d 5 8 5 ]', 'm y s e l f']
+Value:  ['p u l l e d', '[ u n u s e d 8 0 5 ]', '[ u n u s e d 5 8 0 ]', 'd e a t h', '# # n', 'ə', '[ u n u s e d 9 6 2 ]', 'd e c i d e d', '[ u n u s e d 5 9 1 ]', '[ u n u s e d 7 1 8 ]']
+#################################################
+Key:  ['ய', '[ u n u s e d 3 2 5 ]', 'n a m e d', '[ u n u s e d 9 5 0 ]', '≥', '[ u n u s e d 8 2 0 ]', 'ा', '[ u n u s e d 2 2 8 ]', 'g e t t i n g', 'ᆸ']
+Value:  ['[ u n u s e d 5 5 2 ]', '[ u n u s e d 9 5 3 ]', '# # e n', 'f o r c e s', 'l o o k', '[ u n u s e d 8 8 4 ]', '[ u n u s e d 9 8 6 ]', '[ u n u s e d 3 3 9 ]', 'チ', '[ u n u s e d 1 6 5 ]']
+#################################################
+Key:  ['w a n t e d', 'ح', '±', 'ན', '仁', '[ u n u s e d 6 9 1 ]', 'a v a i l a b l e', '[ u n u s e d 2 2 0 ]', 'r e a c h e d', '[ u n u s e d 1 2 6 ]']
+Value:  ['ت', '[ u n u s e d 3 2 0 ]', 'l o o k e d', '五', 'h e r', 'o u t', '宇', '[ u n u s e d 3 9 8 ]', '# # r', '[ u n u s e d 7 4 4 ]']
+#################################################
+Key:  ['[ u n u s e d 1 1 1 ]', '[ u n u s e d 5 0 2 ]', '[ u n u s e d 2 3 3 ]', '# # l e y', 'b e s t', 'i n s t i t u t e', '京', 'g o d', '[ u n u s e d 3 9 ]', 'м']
+Value:  ['[ u n u s e d 4 9 3 ]', '天', '[ u n u s e d 9 5 ]', 'এ', 'r o c k', '[ u n u s e d 3 8 2 ]', 'ս', '[ u n u s e d 5 1 8 ]', 'ᄉ', 'ள']
+#################################################
+Key:  ['[ u n u s e d 2 9 6 ]', '[ u n u s e d 3 9 0 ]', 'f r e e', '[ u n u s e d 5 5 2 ]', 'm', '[ u n u s e d 6 2 8 ]', '[ u n u s e d 3 2 9 ]', '[ u n u s e d 8 3 2 ]', 'i n v o l v e d', 'r e c e i v e d']
+Value:  ['1 9 9 9', '[ u n u s e d 3 0 7 ]', '☉', 's a i n t', 'b e e n', '[ u n u s e d 8 7 4 ]', '[ u n u s e d 1 0 0 ]', 'm a n', '¿', 'o n c e']
+#################################################
+Key:  ['c h i n a', 'w h i t e', 'υ', '³', '[ u n u s e d 3 3 8 ]', 'l a t e r', '[ u n u s e d 1 5 5 ]', 'ي', '原', 'd a y']
+Value:  ['f o r m', '4', '[ u n u s e d 2 5 1 ]', '[ u n u s e d 8 1 2 ]', '# # e s', 'མ', 'n o', '‰', '[ u n u s e d 6 6 6 ]', 'p u b l i c']
+#################################################
+Key:  ['c l a s s', '[ u n u s e d 1 8 5 ]', '[ u n u s e d 2 8 7 ]', 'c h r i s t i a n', '政', 's h o t', '⺩', '[ u n u s e d 2 5 7 ]', 'r e a c h e d', '[ u n u s e d 4 5 7 ]']
+Value:  ['y o u n g', 's t o p p e d', '2 0 0 8', 'd o e s', 'b o o k s', '[ u n u s e d 2 0 6 ]', 'כ', '# # i e', 'त', 'ख']
+#################################################
+Key:  ['# # m', '[ u n u s e d 9 4 7 ]', '史', 'c h i e f', 'a r m', '[ u n u s e d 8 4 9 ]', 'e v e n t', '[ u n u s e d 5 0 7 ]', 'd e v e l o p e d', 'n e x t']
+Value:  ['c o n t i n u e d', '[ u n u s e d 3 9 8 ]', 'w o r l d', '[ u n u s e d 1 4 8 ]', 'h e n r y', 'r o l e', 'я', 'z', '[ u n u s e d 8 2 2 ]', '[ u n u s e d 2 4 ]']
+#################################################
+Key:  ['c o m p a n y', '[ u n u s e d 3 1 5 ]', 'ψ', '[ u n u s e d 6 1 5 ]', '°', 'j', 'p h o n e', 'p o i n t s', 'ต', 'c h r i s t i a n']
+Value:  ['ク', '[ u n u s e d 9 1 4 ]', '[ u n u s e d 9 4 3 ]', '忄', '# # y', '[ u n u s e d 9 8 9 ]', '# # i n g', '貝', 'w o u l d', 't h r e e']
+#################################################
+Key:  ['[ u n u s e d 8 5 7 ]', '高', 'e x a m p l e', 'y o u n g', 'l i t t l e', '# # 1', 'l i v i n g', 'p r o f e s s i o n a l', '[ u n u s e d 7 4 3 ]', 'פ']
+Value:  ['m a t c h', 'p o l i c e', 'վ', '鈴', 'モ', 'ω', '[ u n u s e d 1 0 0 ]', 'व', '空', 'は']
+#################################################
+Key:  ['d a u g h t e r', 'n a t i o n a l', '⁷', '街', 'れ', '訁', '2 0 0 2', 'd i d n', '# # 0', '[ u n u s e d 3 1 7 ]']
+Value:  ['भ', 'w e r e', '1 9 9 9', '[ u n u s e d 7 6 ]', '# # l e y', '№', '[ u n u s e d 7 1 7 ]', '[ u n u s e d 2 1 7 ]', '[ u n u s e d 3 2 5 ]', 'ツ']
+#################################################
+Key:  ['t o o', 'l o w e r', '美', '[ u n u s e d 9 4 ]', 'p a r t', '[ u n u s e d 3 6 3 ]', 'ʋ', '[ u n u s e d 2 3 8 ]', 'c a p t a i n', 'a d d i t i o n']
+Value:  ['p a r i s', '日', 'w o r l d', '[ u n u s e d 1 0 4 ]', 'f o r c e s', '1 9 9 9', 'ড', '[ u n u s e d 8 6 4 ]', '[ u n u s e d 1 2 5 ]', '[ u n u s e d 1 2 7 ]']
+#################################################
+Key:  ['夏', 'h e a r d', 'ד', '[ u n u s e d 2 1 5 ]', '[ u n u s e d 2 9 ]', 'l e a v i n g', '[ u n u s e d 3 8 ]', '⊗', 'c a n a d i a n', '[ u n u s e d 7 4 0 ]']
+Value:  ['[ u n u s e d 9 5 9 ]', '[ u n u s e d 9 2 6 ]', 'n i g h t', '[ u n u s e d 7 4 5 ]', 'l a t e', 'f i n a l', 't h o m a s', 'r a i l w a y', '[ u n u s e d 3 3 0 ]', '{']
+#################################################
+Key:  ['[ u n u s e d 2 7 ]', '[ u n u s e d 5 0 0 ]', 'd e s i g n', 'p o l i c e', 'b a t t l e', 'y e s', 'ø', 'a i r', '太', '[ u n u s e d 5 1 4 ]']
+Value:  ['[ u n u s e d 1 6 5 ]', '# # i n g', '[ u n u s e d 4 3 3 ]', '1 9 9 9', '[ u n u s e d 7 3 5 ]', 'ᵇ', 'p l a c e', '[ u n u s e d 3 9 9 ]', 'p e r f o r m e d', 'j u l y']
+#################################################
+Key:  ['m o d e l', 's p a n i s h', '‚', 'a c a d e m y', '½', '[ u n u s e d 7 7 4 ]', 'h e a r d', 'c u p', '食', 'n e w']
+Value:  ['f o r m', '八', '[ u n u s e d 8 1 9 ]', '[ u n u s e d 9 6 5 ]', '[ u n u s e d 9 6 0 ]', '2 0 0 2', 'ி', 'l e a d e r', 'ة', 'r e c o r d']
+#################################################
+Key:  ['s a i n t', '亻', '[ u n u s e d 7 4 5 ]', 's i t e', '[ u n u s e d 8 3 2 ]', '¬', 'х', '[ u n u s e d 6 9 2 ]', 'c a p t a i n', 'a r e a']
+Value:  ['w e r e', 'भ', 'b u i l d i n g', '[ u n u s e d 3 3 9 ]', 'ส', '[ u n u s e d 4 4 3 ]', '[ u n u s e d 1 1 7 ]', 'c e n t r e', 'a t t a c k', 'd e b u t']
+#################################################
+Key:  ['m a r k e t', '[ u n u s e d 9 1 7 ]', '都', 'n i g h t', 'f a t h e r', '‿', 'l o w', 't h o u g h', '‖', 'ন']
+Value:  ['1 9 9 9', 'm i l l i o n', '[ u n u s e d 3 4 1 ]', '[ u n u s e d 4 6 7 ]', '[ u n u s e d 8 2 8 ]', '[ u n u s e d 6 2 2 ]', '文', 'g e t', 'f o r m', 'b o r n']
+#################################################
+Key:  ['n a t i o n a l', '[ u n u s e d 2 5 4 ]', 'c a p t a i n', '正', 'c o u r t', '₄', '[ u n u s e d 5 5 5 ]', 'h a d n', '[ u n u s e d 1 1 6 ]', 's t o o d']
+Value:  ['5', 'h e n r y', 'ந', '# # 5', '[ u n u s e d 4 8 9 ]', '[ u n u s e d 5 5 7 ]', 'ᵍ', '₊', '¢', 'c o u n c i l']
+#################################################
+Key:  ['ˢ', '[ u n u s e d 4 9 7 ]', '[ u n u s e d 4 5 2 ]', 't i m e', 'դ', 'ョ', '北', '[ u n u s e d 1 3 1 ]', '[ u n u s e d 6 7 6 ]', '♠']
+Value:  ['[ u n u s e d 9 2 ]', 'f a l l', '[ u n u s e d 2 3 0 ]', 'd e s c r i b e d', 'आ', 'や', 'p r o c e s s', '№', 'g e n e r a l', '[ u n u s e d 9 7 5 ]']
+#################################################
+Key:  ['উ', '[ u n u s e d 8 0 4 ]', 'f a r', 'ლ', 'ᅴ', 'δ', '[ u n u s e d 6 1 9 ]', 'f e a t u r e s', '[ u n u s e d 8 9 ]', 'đ']
+Value:  ['a w a y', '[ u n u s e d 9 2 ]', '•', '健', 'm i c h a e l', 'ो', 'ᴵ', 'f e e t', 'म', 'u s e d']
+#################################################
+Key:  ['ₚ', '[ u n u s e d 5 2 8 ]', 'm u s t', 'm a j o r', '[ u n u s e d 6 9 8 ]', 'n a t i o n a l', '# # o s', '[ u n u s e d 6 5 7 ]', 'n i g h t', '[ u n u s e d 6 3 ]']
+Value:  ['[ u n u s e d 6 5 ]', '[ u n u s e d 2 8 8 ]', '2 0', 'i n d i a', '[ u n u s e d 3 7 1 ]', 'კ', '加', '元', 'e n d', '忠']
+#################################################
+Key:  ['s e v e n', 'ナ', 'w o u l d', '[ u n u s e d 8 2 5 ]', 'け', '[ u n u s e d 4 1 6 ]', '[ u n u s e d 4 2 9 ]', '光', 'o c t o b e r', 'a p p e a r e d']
+Value:  ['[ u n u s e d 1 7 ]', '[ u n u s e d 3 5 0 ]', '〈', 'm i n e', '[ u n u s e d 4 0 9 ]', '宇', 'ி', '王', '[ u n u s e d 7 5 4 ]', '[ u n u s e d 2 8 9 ]']
+#################################################
+Key:  ['i n t e r n a t i o n a l', '[ u n u s e d 6 8 9 ]', '[ u n u s e d 3 9 8 ]', '# # i e', '[ u n u s e d 9 8 0 ]', 's t y l e', 'm o d e l', '[ u n u s e d 5 0 ]', 'g e r m a n', 'r e a l l y']
+Value:  ['l a n d', '# # e s', '[ u n u s e d 3 7 7 ]', '[ u n u s e d 5 4 ]', '[ u n u s e d 3 3 9 ]', 'c h u r c h', '日', '[ u n u s e d 2 8 9 ]', 'h o w', '[ u n u s e d 2 7 4 ]']
+#################################################
+Key:  ['く', 'f i n a l', 'o p e n', 'm e t', '# # e r', 'o r i g i n a l l y', 'c e n t r e', 'h e r', '河', 'ス']
+Value:  ['[ u n u s e d 7 8 6 ]', '[ u n u s e d 4 7 ]', '義', 'd o n e', '日', 'm u s t', 's t o p p e d', 'ɫ', 'w e r e', '[ u n u s e d 6 0 9 ]']
+#################################################
+Key:  ['[ u n u s e d 4 8 8 ]', '口', '# # t a', 'm o t h e r', 't h o u g h', 'f e a t u r e s', 's t r o n g', '司', 'l a t e', '[ u n u s e d 6 7 3 ]']
+Value:  ['ᴮ', 'm i l e s', 'キ', '[ u n u s e d 6 5 4 ]', '志', '[ u n u s e d 7 6 7 ]', '[ u n u s e d 3 7 0 ]', 'h e', 'ル', '宇']
+#################################################
+Key:  ['[ u n u s e d 6 1 4 ]', 'м', '[ u n u s e d 8 3 8 ]', '[ u n u s e d 6 7 2 ]', '[ u n u s e d 5 1 4 ]', 'ᵉ', '2 0', '京', '[ u n u s e d 8 5 2 ]', 'r a d i o']
+Value:  ['[ u n u s e d 6 0 1 ]', 'l a r g e', '[ u n u s e d 5 8 4 ]', '[ u n u s e d 9 5 4 ]', '[ u n u s e d 8 0 2 ]', 'i n s t e a d', '里', 'f r e n c h', '[ u n u s e d 9 ]', '[ u n u s e d 1 6 6 ]']
+#################################################
+Key:  ['s e r i e s', 'f o o d', '[ u n u s e d 9 6 6 ]', '¶', '∨', 'g a v e', 'ग', 'y e a r', '[ u n u s e d 1 5 3 ]', '[ u n u s e d 5 6 7 ]']
+Value:  ['b r i d g e', '# # r e', 'u s', '[ u n u s e d 4 2 3 ]', 'd a r k', '≈', 'v e', 'a g e', '# # l', 's t a r t']
+#################################################
+Key:  [')', '[ u n u s e d 6 4 ]', '[ u n u s e d 8 9 0 ]', '[ u n u s e d 9 4 6 ]', '戦', '[ u n u s e d 2 2 7 ]', '[ u n u s e d 9 5 9 ]', 's e a t', 'b e s t', 'e n g l i s h']
+Value:  ['t o', '[ u n u s e d 5 3 6 ]', '[ u n u s e d 3 1 7 ]', '金', '2 0 0 2', '，', 'め', '[ u n u s e d 9 2 ]', 'n e a r', '[ u n u s e d 6 9 0 ]']
+#################################################
+Key:  ['ⁿ', 'p r o f e s s i o n a l', '[ u n u s e d 6 4 3 ]', '子', '[ u n u s e d 2 2 3 ]', '# # e r', 'h o u r s', '[ u n u s e d 7 7 8 ]', 'ₕ', '寺']
+Value:  ['[ u n u s e d 2 8 9 ]', 'ɲ', '[ u n u s e d 1 4 4 ]', 'モ', 'γ', 'ـ', '[ u n u s e d 3 5 4 ]', '4 0', '疒', 'r i g h t']
+#################################################
+Key:  ['# # f', '[ u n u s e d 1 6 0 ]', '[ u n u s e d 7 8 0 ]', '⇄', '[ u n u s e d 3 8 8 ]', 'ट', '[ u n u s e d 1 1 3 ]', 'i n t e r e s t', '# # i e', 'p a r t']
+Value:  ['1 9 9 9', '[ u n u s e d 3 3 9 ]', 'a u s t r a l i a', '[ u n u s e d 7 5 1 ]', '[ u n u s e d 8 9 5 ]', 'ᅩ', 'ム', 'a i r', 'd a r k', 'þ']
+#################################################
+Key:  ['–', '2 5', '[ u n u s e d 2 2 4 ]', '[ u n u s e d 2 6 3 ]', 'u s', '学', 's h o w s', 'ट', 'l o w', 'r o u n d']
+Value:  ['[ u n u s e d 6 5 0 ]', '[ u n u s e d 2 8 4 ]', 's e e', '# # 5', '亻', 'c', '[ u n u s e d 8 6 7 ]', 'm o s t', 'ᵘ', '章']
+#################################################
+Key:  ['忠', 'i m p o r t a n t', '# # r a', '[ u n u s e d 4 7 4 ]', 'b o o k s', '[ u n u s e d 6 4 ]', 'n o n', 'w a n t e d', 'e v e r y o n e', 'c i v i l']
+Value:  ['b e h i n d', '¢', 'b e l i e v e', '⁴', 'p r e s i d e n t', '[ u n u s e d 9 5 9 ]', '[ u n u s e d 4 6 3 ]', '[ u n u s e d 7 5 6 ]', '[ u n u s e d 4 3 3 ]', '[ u n u s e d 9 8 ]']
+#################################################
+Key:  ['ต', '[ u n u s e d 4 7 9 ]', '[ u n u s e d 1 8 0 ]', '[ u n u s e d 3 1 0 ]', '版', '♭', '[ u n u s e d 1 5 6 ]', 'ʼ', '# # g', '[ u n u s e d 6 0 8 ]']
+Value:  ['h u m a n', 'ি', '[ u n u s e d 3 8 2 ]', 's t u d i e s', 'f a c t', 'w e r e', '陳', 'њ', '[ u n u s e d 5 2 5 ]', 'э']
+#################################################
+Key:  ['[ u n u s e d 3 7 2 ]', 'コ', '[ u n u s e d 4 7 5 ]', '<', 'a v a i l a b l e', '街', '[ u n u s e d 7 5 6 ]', '[ u n u s e d 7 7 1 ]', '# # z', '[ u n u s e d 1 1 9 ]']
+Value:  ['[ u n u s e d 3 3 9 ]', 'm i l e s', '∨', '[ u n u s e d 4 3 ]', '[ u n u s e d 2 8 9 ]', 'k n e w', '[ u n u s e d 6 2 6 ]', '1 9 9 9', '[ u n u s e d 4 0 8 ]', 't o u r n a m e n t']
+#################################################
+Key:  ['# # o s', '# # f', 'b r o u g h t', '[ u n u s e d 6 6 3 ]', 'n a t i o n a l', 'p u t', 'w o u l d n', 'c a p t a i n', '[ u n u s e d 3 9 0 ]', 'w i t h i n']
+Value:  ['c a n', '[ u n u s e d 7 5 1 ]', '[ u n u s e d 7 8 9 ]', '[ u n u s e d 9 2 ]', '¿', '[ u n u s e d 6 5 8 ]', '[ u n u s e d 3 0 ]', '[ u n u s e d 7 2 4 ]', '王', 's t a n d i n g']
+#################################################
+Key:  ['ム', '[ u n u s e d 4 3 7 ]', '[ u n u s e d 6 0 9 ]', '[ u n u s e d 5 6 ]', '»', '[ u n u s e d 1 2 ]', '[ u n u s e d 8 2 ]', 'ن', 'ョ', 'c a l l e d']
+Value:  ['[ u n u s e d 3 3 9 ]', '[ u n u s e d 4 5 5 ]', '[ u n u s e d 9 7 9 ]', 'g r o u p s', '[ u n u s e d 5 1 8 ]', '[ u n u s e d 3 5 1 ]', 't a b l e', 'b u i l d i n g', 'd a r k', 'a n y t h i n g']
+#################################################
+Key:  ['[ u n u s e d 7 2 1 ]', '1 0 0', '∪', 'g i v e n', '[ u n u s e d 3 8 2 ]', '[ u n u s e d 6 7 8 ]', 'p r o g r a m', 'f o l l o w e d', '[ u n u s e d 5 6 1 ]', '[ u n u s e d 6 2 4 ]']
+Value:  ['[ u n u s e d 5 4 8 ]', 'h a p p e n e d', '星', '# # i e', 'る', '[ u n u s e d 9 1 7 ]', 'o n', '[ u n u s e d 7 9 7 ]', '[ u n u s e d 9 3 6 ]', '# # a r']
+#################################################
+Key:  ['[ u n u s e d 8 7 5 ]', 'r e t u r n', 'ʂ', 'り', '[ u n u s e d 7 6 5 ]', 'ヘ', '[ u n u s e d 5 7 0 ]', '[ u n u s e d 5 1 1 ]', '×', 'd e e p']
+Value:  ['鈴', '[ u n u s e d 9 7 2 ]', '# # v', 'y o r k', '氷', 'b e i n g', '∆', '₄', '竹', '[ u n u s e d 9 3 0 ]']
+#################################################
+Key:  ['[ u n u s e d 6 1 5 ]', '[ u n u s e d 5 5 9 ]', '[ u n u s e d 8 1 9 ]', '•', 'h e l p', 's c i e n c e', 'c o m p a n y', 'g a v e', 'c o n s i d e r e d', '陳']
+Value:  ['[ u n u s e d 2 2 6 ]', 'भ', '>', 'p r i v a t e', '[ u n u s e d 7 6 7 ]', '[ u n u s e d 4 6 2 ]', '[ u n u s e d 5 8 0 ]', '年', '夏', '[ u n u s e d 1 8 1 ]']
+#################################################
+Key:  ['h e a r', 'ს', '[ u n u s e d 7 2 2 ]', '[ u n u s e d 2 7 2 ]', 'r e', 'и', 'b o y', 'm a r k e t', 'f o u n d', '[ u n u s e d 9 0 ]']
+Value:  ['i n d e p e n d e n t', '[ u n u s e d 9 9 3 ]', 'g r e a t', '成', 'w e r e', 'ன', 'a r t s', '[ u n u s e d 4 4 3 ]', 'ನ', '[ u n u s e d 2 6 ]']
+#################################################
+Key:  ['[ u n u s e d 1 9 4 ]', 'к', '# # u', '[ u n u s e d 7 9 ]', 'a l l o w e d', '[ u n u s e d 8 5 2 ]', '⁺', '[ u n u s e d 4 3 8 ]', '[ u n u s e d 8 4 1 ]', '石']
+Value:  ['კ', '# # n', '[ u n u s e d 0 ]', 'k i n g d o m', '郡', 'm o r e', '[ u n u s e d 6 2 3 ]', 'c a l l e d', '2 0 1 6', 'כ']
+#################################################
+Key:  ['d a u g h t e r', '# # f', 'n a t i o n a l', 't o d a y', '[ u n u s e d 6 9 0 ]', 's p e n t', '[ u n u s e d 5 4 0 ]', 'ʀ', '[ u n u s e d 2 4 ]', '）']
+Value:  ['[ u n u s e d 9 2 ]', 'ท', '[ u n u s e d 3 3 9 ]', '[ u n u s e d 1 0 5 ]', '[ u n u s e d 8 2 8 ]', 'ʊ', 'т', 'f o r', 'f o u r', '[ u n u s e d 6 7 8 ]']
+#################################################
+Key:  ['[ u n u s e d 3 7 2 ]', 'վ', '[ u n u s e d 1 2 3 ]', '[ u n u s e d 3 9 0 ]', '1 9 9 7', 'l a k e', '[ u n u s e d 2 7 ]', 's e l f', '[ u n u s e d 9 8 9 ]', 'c o m p a n y']
+Value:  ['f r e e', '[ u n u s e d 6 6 4 ]', '天', '[ u n u s e d 5 8 8 ]', '+', 'm e d i c a l', '[ u n u s e d 0 ]', 'n e v e r', '[ u n u s e d 4 3 2 ]', '[ u n u s e d 5 1 7 ]']
+#################################################
+Key:  ['ᅧ', '[ u n u s e d 6 4 4 ]', '# # t o n', '[ u n u s e d 1 0 5 ]', 'p o p u l a t i o n', '1 0', 'յ', 's p e c i e s', '[ u n u s e d 9 1 3 ]', 'せ']
+Value:  ['[ u n u s e d 1 9 2 ]', 't i t l e', 'キ', 'd e e p', '# # i n g', '[ u n u s e d 6 5 4 ]', 't h u s', '[ u n u s e d 5 0 8 ]', '≡', 'द']
+#################################################
+Key:  ['m a n y', 'v a r i o u s', '．', 'த', 'p e r f o r m e d', '# # h', 'n a t i o n a l', 't h e y', '[ u n u s e d 6 7 3 ]', '星']
+Value:  ['[ u n u s e d 2 8 9 ]', 'c e n t r e', '# # i t y', '[ u n u s e d 3 3 9 ]', '[ u n u s e d 8 5 1 ]', 'ท', '[ u n u s e d 3 2 4 ]', 'г', ',', 's t a t e']
+#################################################
+Key:  ['n a t i o n a l', '[ u n u s e d 3 9 2 ]', 'f a l l', 'き', 's a m e', 'ᵇ', '[ u n u s e d 3 8 6 ]', 'i i', 'o u t s i d e', 'e v e n t u a l l y']
+Value:  ['[ u n u s e d 8 7 2 ]', '[ u n u s e d 8 2 3 ]', 'ད', 'ი', '上', 'l e a d i n g', '2 0 1 4', 'ط', 'ø', '[ u n u s e d 1 2 7 ]']
+#################################################
+Key:  ['e x a m p l e', '[ u n u s e d 2 2 8 ]', 'd a u g h t e r', 'n a t i o n a l', '[ u n u s e d 9 3 8 ]', 'g r o u p', 'ɑ', '₍', 'ᅪ', '[ u n u s e d 1 9 1 ]']
+Value:  ['ज', 'd e p a r t m e n t', '# # r e', '[ u n u s e d 2 1 1 ]', '₱', 'c h a n g e', 'ᄋ', 'ম', 'ᴬ', '[ u n u s e d 2 9 8 ]']
+#################################################
+Key:  ['‘', 'ʾ', 'ν', 't w o', 's o m e o n e', '[ u n u s e d 2 7 4 ]', 'r e d', 'n a m e d', '[ u n u s e d 2 8 6 ]', '[ u n u s e d 3 9 7 ]']
+Value:  ['[ u n u s e d 9 2 ]', 'l i p s', '[ u n u s e d 4 7 1 ]', '花', 'u k', '介', '[ u n u s e d 2 4 4 ]', 'e y e s', 't v', 'հ']
+#################################################
+Key:  ['r e c e i v e d', '[ u n u s e d 2 8 6 ]', '[ u n u s e d 8 2 8 ]', '[ u n u s e d 2 9 1 ]', '空', '[ u n u s e d 5 9 3 ]', '●', 'ᶜ', 'd e s i g n', '[ u n u s e d 5 9 1 ]']
+Value:  ['t h u s', '♭', '1 9 9 9', '艹', '[ u n u s e d 5 1 0 ]', '[ u n u s e d 9 4 9 ]', 'a w a r d e d', 'r e d', '₄', 'ハ']
+#################################################
+Key:  ['[ u n u s e d 6 5 7 ]', '[ u n u s e d 5 9 9 ]', 'c o', '[ u n u s e d 9 8 9 ]', '[ u n u s e d 3 4 5 ]', '॥', 'p a r t s', '[ u n u s e d 8 7 9 ]', '8', 'm o d e l']
+Value:  ['[ u n u s e d 3 3 9 ]', '[ u n u s e d 8 6 0 ]', 'এ', 'भ', '‡', '[ u n u s e d 2 7 2 ]', 'p l a y', 'க', 'ի', 'd i v i s i o n']
+#################################################
+Key:  ['[ u n u s e d 7 8 4 ]', '[ u n u s e d 8 6 8 ]', 'w e n t', 'c h a r a c t e r', 'چ', '∩', '[ u n u s e d 5 4 8 ]', 'g e r m a n', 'y e a r', '北']
+Value:  ['[ u n u s e d 8 1 2 ]', 't v', 'w e r e', '[ u n u s e d 3 2 7 ]', 'ᵥ', '古', 'ω', '1 4', '[ u n u s e d 2 8 9 ]', '[ u n u s e d 1 8 7 ]']
+#################################################
+Key:  ['[ u n u s e d 9 7 3 ]', 'b a s e d', '[ u n u s e d 1 3 1 ]', '[ u n u s e d 7 6 7 ]', 's e e', 's q u a r e', '[ u n u s e d 4 2 8 ]', 'c h i l d', '崎', '[ u n u s e d 4 2 9 ]']
+Value:  ['1 9 9 9', 'f o r m', '[ u n u s e d 8 3 9 ]', 'め', '[ u n u s e d 4 3 ]', '[ u n u s e d 6 9 5 ]', '[ u n u s e d 6 3 2 ]', 's t a r', 'u s', 'p u t']
+#################################################
+Key:  ['n a t i o n a l', '疒', 'o f f i c e r', 's e e n', '青', 'a w a y', '2 8', '♭', 's i r', '[ u n u s e d 1 4 7 ]']
+Value:  ['[ u n u s e d 3 3 9 ]', '# # f', '[ u n u s e d 9 2 ]', '[ u n u s e d 2 5 1 ]', 'ɯ', 'ท', '[ u n u s e d 9 5 8 ]', '[ u n u s e d 9 3 8 ]', '[ u n u s e d 3 4 1 ]', '[ u n u s e d 2 3 7 ]']
+#################################################
+Key:  ['[ u n u s e d 6 9 8 ]', '信', 'f i r e', '[ u n u s e d 8 8 3 ]', 'p r o f e s s i o n a l', '[ u n u s e d 5 2 7 ]', 'w r i t i n g', 'g o t', '⊕', '[ u n u s e d 7 4 0 ]']
+Value:  ['[ u n u s e d 9 2 ]', 'α', '₹', 'ュ', 's e c o n d', 'u s', '# # u m', 'մ', '1 9 9 9', '[ u n u s e d 3 5 9 ]']
+#################################################
+Key:  ['x', '[ u n u s e d 3 7 1 ]', 'l e a d i n g', '# # f', '[ u n u s e d 4 7 4 ]', '∅', 'h o u r s', 'a c r o s s', '宿', 'ф']
+Value:  ['1 9 9 7', '[ u n u s e d 4 9 ]', '[ u n u s e d 6 1 0 ]', '≡', '[ u n u s e d 2 8 1 ]', '[ u n u s e d 5 4 0 ]', 'd e a l', '[ u n u s e d 2 8 5 ]', '疒', '[ u n u s e d 2 1 5 ]']
+#################################################
+Key:  ['[ u n u s e d 9 4 4 ]', 's t o p p e d', '[ u n u s e d 6 6 9 ]', '[ u n u s e d 9 1 2 ]', '．', '忄', 's h i p', 'q u i c k l y', '[ u n u s e d 1 9 1 ]', '代']
+Value:  ['თ', 's i n g l e', 'm e n', 'l a', '[ u n u s e d 3 5 4 ]', '[ u n u s e d 4 8 0 ]', 'a l b u m', '2 4', '[ u n u s e d 3 7 9 ]', 'm i l e s']
+#################################################
+Key:  ['[ u n u s e d 7 9 5 ]', '「', 'b o o k s', 'w i t h', '古', '[ u n u s e d 1 4 8 ]', 'ள', '[ u n u s e d 2 3 2 ]', 'ن', '島']
+Value:  ['[ u n u s e d 6 3 ]', '[ u n u s e d 7 5 1 ]', '張', 's o u t h', '[ u n u s e d 5 7 6 ]', '[ u n u s e d 2 5 1 ]', '[ u n u s e d 6 ]', '⺩', '₹', 'a m e r i c a']
+#################################################
+Key:  ['b o y', 'ী', '2 6', '[ u n u s e d 1 6 5 ]', '寺', '[ u n u s e d 7 2 9 ]', '‐', '西', 'ை', 'h u m a n']
+Value:  ['m i l e s', '[ u n u s e d 3 3 9 ]', 's t u d i o', '（', '॥', '[ u n u s e d 7 5 1 ]', 'w e s t e r n', 'ʋ', 'f o r m', '# # r a']
+#################################################
+Key:  ['[ u n u s e d 9 1 5 ]', '[ u n u s e d 9 8 0 ]', '⺩', '# # a s', 'i t s', '# # c h', 'g e t t i n g', 'ħ', '食', '[ u n u s e d 5 9 9 ]']
+Value:  ['[ u n u s e d 3 5 8 ]', 'm i l i t a r y', '人', '[ u n u s e d 3 9 7 ]', 'ェ', '[ u n u s e d 9 6 7 ]', 's t u d i o', 'r o u n d', '[ u n u s e d 8 0 5 ]', 'ბ']
+#################################################
+Key:  ['[ u n u s e d 5 6 3 ]', 's c i e n c e', 'م', '[ u n u s e d 2 4 ]', 'v o c a l s', '[ u n u s e d 8 3 0 ]', '[ u n u s e d 7 0 3 ]', '[ u n u s e d 2 5 0 ]', '[ u n u s e d 3 5 3 ]', 'e n g l a n d']
+Value:  ['# # i n g', '艹', 'a p r i l', 'ད', '[ u n u s e d 1 5 3 ]', '[ u n u s e d 8 8 3 ]', 'g', 'v a r i o u s', 'र', 'b e c a m e']
+#################################################
+Key:  ['漢', '# # o s', '[ u n u s e d 2 0 4 ]', '忄', '[ u n u s e d 4 1 2 ]', 'b r o u g h t', '[ u n u s e d 3 4 1 ]', 'g r o u p s', '[ u n u s e d 2 1 ]', '₎']
+Value:  ['m o r e', 'h e a d', '[ u n u s e d 6 3 8 ]', 'l i g h t', '[ u n u s e d 7 4 8 ]', 'c l u b', 'ᄑ', '[ u n u s e d 6 9 7 ]', 'פ', 'm o s t']
+#################################################
+Key:  ['n a t i o n a l', 'w i l l i a m', 'd a v i d', 'w i t h', '³', 'ɒ', '白', 'm e a n s', 'ᴬ', '[ u n u s e d 1 5 1 ]']
+Value:  ['f a m i l y', '里', '[ u n u s e d 6 6 7 ]', '# # i n g', 'r e a l l y', '[ u n u s e d 3 7 5 ]', '# # g', '[ u n u s e d 2 4 0 ]', '[ u n u s e d 6 8 6 ]', '[ u n u s e d 3 1 2 ]']
+#################################################
+Key:  ['l', '[ u n u s e d 2 4 4 ]', '[ u n u s e d 7 2 5 ]', 'c e n t e r', '[ u n u s e d 4 3 7 ]', '1 7', 'c o m p a n y', '[ u n u s e d 3 8 ]', '[ u n u s e d 5 5 0 ]', '[ u n u s e d 2 4 3 ]']
+Value:  ['1 9 9 9', '[ u n u s e d 3 5 5 ]', 'µ', '[ u n u s e d 9 2 ]', 'ʼ', '2 1', 'ˤ', '坂', 'ম', '[ u n u s e d 1 1 9 ]']
+#################################################
+Key:  ['a c c o r d i n g', 'დ', 'l e v e l', 'e v e r y', 'r o u n d', '青', 'g', '[ u n u s e d 9 4 ]', '≥', '[ P A D ]']
+Value:  ['t i m e s', '[ u n u s e d 8 3 9 ]', '小', 'y o r k', 'i n', 'p r o g r a m', '[ u n u s e d 9 2 ]', '[ u n u s e d 3 3 ]', 'o f', '# # i n g']
+#################################################
+Key:  ['n a t i o n a l', 'd u r i n g', 'l e a v e', '# # f', 'g r o u p s', 'f a m i l y', '[ u n u s e d 9 7 9 ]', '[ u n u s e d 9 4 3 ]', 'w i d e', 'l i k e']
+Value:  ['s h o r t', '≡', 'b e l o w', 'ի', 't h u s', '[ u n u s e d 8 8 1 ]', 'त', '[ u n u s e d 2 8 9 ]', 'ア', '[ u n u s e d 6 9 0 ]']
+#################################################
+Key:  ['ի', 'p r o v i n c e', 'c u t', '[ u n u s e d 8 5 5 ]', '《', '[ u n u s e d 2 7 5 ]', 'a s k e d', '[ u n u s e d 4 6 9 ]', 'l e f t', 's y s t e m s']
+Value:  ['# # n e', '[ u n u s e d 1 7 2 ]', 'ש', 's u p p o r t', 'p o w e r', '[ u n u s e d 7 5 1 ]', 'g u i t a r', '[ u n u s e d 7 9 0 ]', '[ u n u s e d 9 2 5 ]', '4']
+#################################################
+Key:  ['n a t i o n a l', '# # b', 'b o t h', '[ u n u s e d 2 0 6 ]', 'ს', '[ u n u s e d 3 4 8 ]', 'w h i c h', '[ u n u s e d 1 7 9 ]', '[ u n u s e d 7 1 4 ]', 'b a s e d']
+Value:  ['f o r m', '[ u n u s e d 2 8 6 ]', '合', 'l o o k', 'ュ', '[ u n u s e d 8 9 4 ]', '[ u n u s e d 6 8 2 ]', 'க', 'भ', 'h']
+#################################################
+Key:  ['⁺', 'm e t', 'c o u r s e', '保', '[ u n u s e d 7 9 5 ]', 't h r e e', 'd e b u t', '[ u n u s e d 5 8 7 ]', '[ u n u s e d 6 0 6 ]', 'l o v e']
+Value:  ['պ', 'h u m a n', 'ᴮ', 'm o v i n g', 'a s s o c i a t i o n', '龍', '[ u n u s e d 9 7 1 ]', '1 0 0', 'δ', '[ u n u s e d 3 9 3 ]']
+#################################################
+Key:  ['l o n g e r', '[ u n u s e d 3 8 3 ]', '[ u n u s e d 5 3 6 ]', '[ u n u s e d 5 3 1 ]', 's t o n e', '[ u n u s e d 3 7 7 ]', '[ u n u s e d 8 5 4 ]', '京', 'c a m p a i g n', 'f e m a l e']
+Value:  ['[ u n u s e d 2 3 7 ]', 'h i t', '加', '[ u n u s e d 8 4 2 ]', '[ u n u s e d 4 2 7 ]', 'n o r t h e r n', 'ག', '@', 'ム', '[ u n u s e d 4 4 9 ]']
+#################################################
+Key:  ['c a s e', 'h e a r d', '2 6', 'g o d', 'd a y s', '[ u n u s e d 4 8 6 ]', '[ u n u s e d 7 4 7 ]', 'a l s o', '亻', '[ u n u s e d 5 8 9 ]']
+Value:  ['n e t w o r k', 'ʂ', '@', '[ u n u s e d 6 5 ]', '[ u n u s e d 6 4 0 ]', '[ u n u s e d 3 3 9 ]', '[ u n u s e d 4 8 0 ]', 'h o w', 'v i d e o', '本']
+#################################################
+Key:  ['ᴮ', 'ო', '宗', '公', 'i s l a n d', 'd i r e c t o r', '[ u n u s e d 3 5 9 ]', 'm e m b e r s', 'm o d e l', 'チ']
+Value:  ['भ', '[ u n u s e d 6 3 2 ]', 'a c t', '¹', '1 9 9 9', '[ u n u s e d 7 4 5 ]', '[ u n u s e d 1 6 5 ]', 's p a n i s h', '[ u n u s e d 9 2 ]', '1 9 9 1']
+#################################################
+Key:  ['t h i r d', '氷', 's a m e', 't e l e v i s i o n', '宗', '[ u n u s e d 1 9 6 ]', 'o n', 'n a t i o n a l', 'ᄎ', '清']
+Value:  ['[ u n u s e d 3 9 0 ]', '[ u n u s e d 8 1 9 ]', 'в', 'w e r e', '[ u n u s e d 2 2 2 ]', 'w o r d s', 'w o u l d n', 'ᅧ', 'ا', '[ u n u s e d 6 7 8 ]']
+#################################################
+Key:  ['வ', '青', 'կ', '[ u n u s e d 7 1 6 ]', '伊', '#', '[ u n u s e d 5 6 7 ]', 'l o o k', 'ה', 'd e g r e e']
+Value:  ['[ u n u s e d 9 5 3 ]', '།', 'p r e v i o u s', '[ u n u s e d 8 5 3 ]', '[ u n u s e d 6 3 4 ]', 'm o v e d', 'দ', '[ u n u s e d 5 9 7 ]', '分', '[ u n u s e d 2 7 7 ]']
+#################################################
+Key:  ['उ', 'u n d e r', 'ق', 't h r o u g h', '[ u n u s e d 6 2 8 ]', '門', 'f e m a l e', 's a m e', '[ u n u s e d 3 7 0 ]', '[ u n u s e d 4 8 8 ]']
+Value:  ['v i l l a g e', 'उ', 'a l r e a d y', '[ u n u s e d 5 0 7 ]', '下', 'ノ', '[ u n u s e d 9 1 6 ]', 'ʔ', '# # r e', '[ u n u s e d 3 1 0 ]']
+#################################################
+Key:  ['[ u n u s e d 7 9 8 ]', 'ᵢ', 't', '彳', 'p l a c e', 'p r o g r a m', 'f o r c e', '[ u n u s e d 2 7 ]', '[ u n u s e d 3 1 2 ]', 'l o t']
+Value:  ['[ u n u s e d 3 3 9 ]', 'ग', 'b a n k', 'w i l l i a m', 'p u l l e d', 'ว', 'こ', 'r e l e a s e', 'w o m e n', '[ u n u s e d 8 8 2 ]']
+#################################################
+Key:  ['e n t i r e', 'f i n a l', '[ u n u s e d 7 2 2 ]', '[ u n u s e d 5 9 3 ]', 'ʔ', '[ u n u s e d 8 6 9 ]', '2 4', '[ u n u s e d 6 8 0 ]', '[ u n u s e d 1 9 2 ]', '’']
+Value:  ['[ u n u s e d 3 3 9 ]', '三', 'm a y b e', '[ u n u s e d 2 4 8 ]', 'p l a c e d', 's q u a r e', 'p a r t s', '1 9 9 5', 'ต', 'm y s e l f']
+#################################################
+Key:  ['仮', 'থ', 'w r i t i n g', 'p o l i c e', '•', 't h e i r', 's a w', '[ u n u s e d 4 3 7 ]', '‚', '1 3']
+Value:  ['[ u n u s e d 3 3 9 ]', 's o m e t i m e s', '[ u n u s e d 9 4 3 ]', '[ u n u s e d 7 9 3 ]', 'w e r e', 'd o n', 'k e p t', '[ u n u s e d 2 3 8 ]', 'گ', 'd e e p']
+#################################################
+Key:  ['u s u a l l y', '♭', 'm e t', '[ u n u s e d 6 9 4 ]', '[ u n u s e d 9 4 4 ]', 'b o o k s', 'つ', '[ u n u s e d 8 2 3 ]', 'a r t s', '₍']
+Value:  ['キ', 's u r e', 'j a p a n', '[ u n u s e d 7 1 4 ]', '[ u n u s e d 5 6 3 ]', '[ u n u s e d 3 7 0 ]', '[ u n u s e d 5 7 5 ]', '[ u n u s e d 4 7 6 ]', 'r a c e', 't h u s']
+#################################################
+Key:  ['朝', 't r y', 'ն', 'p r i v a t e', '[ u n u s e d 2 9 8 ]', 'o r i g i n a l', '[ u n u s e d 9 8 1 ]', '+', 'l e d', '₇']
+Value:  ['[ u n u s e d 9 2 ]', 'f o r m', '橋', 'ट', '[ u n u s e d 1 2 1 ]', '学', '南', 'u s', 'd i e d', 'ש']
+#################################################
+Key:  ['[ u n u s e d 4 1 6 ]', '[ u n u s e d 1 1 9 ]', '[ u n u s e d 4 2 8 ]', '•', '[ u n u s e d 3 9 1 ]', '[ u n u s e d 6 9 1 ]', '∨', '[ u n u s e d 4 2 1 ]', 'c u r r e n t', '[ u n u s e d 1 0 6 ]']
+Value:  ['ᆯ', 's a w', '[ u n u s e d 8 7 2 ]', 'n e t w o r k', '‰', '[ u n u s e d 6 1 0 ]', '[ u n u s e d 3 3 9 ]', '「', '# # l y', 'm e m b e r s']
+#################################################
+Key:  ['# # o n', '岡', '[ u n u s e d 7 2 7 ]', '³', '[ S E P ]', 'm e a n s', '[ u n u s e d 7 8 3 ]', 'ᵏ', 'a w a r d e d', '[ u n u s e d 2 3 6 ]']
+Value:  ['1 9 9 9', 'भ', 'l a t e', '忠', '金', 'm a n', 'হ', '⁹', '[ u n u s e d 2 4 5 ]', '[ u n u s e d 2 8 6 ]']
+#################################################
+Key:  ['ম', '[ u n u s e d 9 5 1 ]', '[ u n u s e d 7 3 6 ]', '[ u n u s e d 6 7 8 ]', '[ u n u s e d 4 7 ]', '[ u n u s e d 2 8 8 ]', '―', '[ u n u s e d 3 7 1 ]', '[ u n u s e d 3 3 ]', 'm e a n s']
+Value:  ['[ u n u s e d 9 1 9 ]', '[ u n u s e d 2 2 7 ]', '♣', '1 9 9 9', 'i n t e r e s t', '[ u n u s e d 4 2 6 ]', 'c h i l d r e n', 'ч', '[ u n u s e d 3 3 2 ]', 's a i n t']
+#################################################
+Key:  ['f o r m e r', 'ე', '[ u n u s e d 6 8 6 ]', '№', 'l o s t', 'g a v e', 'ض', 'ʲ', 'w i l l i a m', 'g o i n g']
+Value:  ['u s', '⇄', '[ u n u s e d 8 7 9 ]', 'w e r e', '語', 'm o v i n g', 'c a n', '[ u n u s e d 7 1 1 ]', '有', 'এ']
+#################################################
+Key:  ['発', 'ま', 'ы', '# # f', 'm i n e', '[ u n u s e d 3 2 4 ]', 'm i l l i o n', 'コ', '[ u n u s e d 8 8 4 ]', '[ u n u s e d 3 6 2 ]']
+Value:  ['d e', 'e v e r y', '[ u n u s e d 9 0 9 ]', '[ u n u s e d 2 0 8 ]', '[ u n u s e d 3 0 3 ]', 'm a n y', 'ى', '方', 'p u l l e d', 'হ']
+#################################################
+Key:  ['[ u n u s e d 1 0 9 ]', ';', 'c h r i s t i a n', 'w h a t', 'র', 's i g n e d', 'w a n t e d', 'u', '[ u n u s e d 8 8 4 ]', '॥']
+Value:  ['郡', '[ u n u s e d 7 9 4 ]', '# # i n g', '[ u n u s e d 5 8 5 ]', '[ u n u s e d 9 7 7 ]', 'y e a r', '1 9 9 9', '[ u n u s e d 7 8 6 ]', '[ u n u s e d 4 7 6 ]', '[ u n u s e d 3 7 1 ]']
+#################################################
+Key:  ['八', '[ u n u s e d 3 5 8 ]', '疒', '[ u n u s e d 7 4 0 ]', '[ u n u s e d 4 6 8 ]', 'ז', 'c h r i s t i a n', '[ u n u s e d 6 8 6 ]', '♠', 'ى']
+Value:  ['m o v i n g', 's t a r', 'a r e a', '[ u n u s e d 2 0 2 ]', '⁺', 'a b l e', '[ u n u s e d 1 7 6 ]', 'e s p e c i a l l y', 't o l d', 'ு']
+#################################################
+Key:  ['f e e t', 'e a s t e r n', 'ј', '[ u n u s e d 6 1 1 ]', 's p e n t', '[ u n u s e d 5 2 8 ]', 'u s e', '[ u n u s e d 6 6 3 ]', '[ u n u s e d 5 0 7 ]', '[ u n u s e d 4 2 8 ]']
+Value:  ['e v e r', '[ u n u s e d 3 8 4 ]', 'º', '[ u n u s e d 5 0 8 ]', '[ u n u s e d 8 5 3 ]', '&', 'b e h i n d', '[ u n u s e d 8 1 8 ]', 'চ', '[ u n u s e d 2 5 0 ]']
+#################################################
+Key:  ['w r i t t e n', 'f i n a l', '宿', '[ u n u s e d 8 9 8 ]', 'o u t s i d e', '愛', '[ u n u s e d 3 5 0 ]', '1 9 8 8', '[ u n u s e d 7 1 4 ]', '！']
+Value:  ['[ u n u s e d 3 3 9 ]', '[ u n u s e d 7 0 ]', '[ u n u s e d 1 3 3 ]', '⁵', '[ u n u s e d 1 2 8 ]', '2 0 0 7', '忠', 'r o l e', 'ए', '[ u n u s e d 6 8 3 ]']
+#################################################
+Key:  ['i n c l u d e', '[ u n u s e d 4 2 0 ]', 'ف', 'c o m p a n y', 'ի', '[ u n u s e d 1 9 8 ]', '[ u n u s e d 3 3 5 ]', '[ u n u s e d 5 6 3 ]', 'a p p o i n t e d', '[ u n u s e d 6 3 9 ]']
+Value:  ['p o s t', '日', 'त', 'ལ', '[ u n u s e d 3 3 1 ]', 'd e c e m b e r', '加', 'ს', 'ظ', 'r e s t']
+#################################################
+Key:  ['[ u n u s e d 9 6 5 ]', 'r a i l w a y', '# # 0', 'w i l l i a m', '[ u n u s e d 7 6 4 ]', '西', '[ u n u s e d 1 9 4 ]', 's u c h', '[ u n u s e d 7 1 5 ]', '[ u n u s e d 1 4 4 ]']
+Value:  ['c o m m i t t e e', '皇', '[ u n u s e d 9 8 ]', '[ u n u s e d 7 2 9 ]', '7', '[ u n u s e d 6 6 9 ]', 'w e r e', 'भ', '[ u n u s e d 2 0 6 ]', '[ u n u s e d 4 9 8 ]']
+#################################################
+Key:  ['n a t i o n a l', 'd i f f e r e n t', 'w a s', 't', '村', 'h o w', 'h a v i n g', 'ع', 'w', 'ₐ']
+Value:  ['[ u n u s e d 3 3 9 ]', 'm i l e s', 'ท', '[ u n u s e d 9 2 ]', 'ケ', '[ u n u s e d 7 5 1 ]', '★', 'f i r s t', 'उ', '4 0']
+#################################################
+Key:  ['[ u n u s e d 5 1 9 ]', 'm i l i t a r y', '[ M A S K ]', '[ u n u s e d 2 2 8 ]', 'o u r', 's t r e e t', 'c h r i s t i a n', 'a r t', '₃', '[ u n u s e d 2 5 ]']
+Value:  ['ष', '1 9 9 9', 'ے', 'l o w e r', '«', '[ u n u s e d 2 8 8 ]', 'ग', 's p e n t', 'm e t', '[ u n u s e d 7 9 1 ]']
+#################################################
+Key:  ['[ u n u s e d 3 3 8 ]', 'n a t i o n a l', 'ぬ', 'α', '正', 'b u t', 'a l o n e', '海', 's o o n', 'd o n e']
+Value:  ['[ u n u s e d 4 2 4 ]', 'e', '[ u n u s e d 2 8 9 ]', 'a b l e', 'ŋ', 'h e r', 'a l s o', 'տ', '[ u n u s e d 6 6 4 ]', '[ u n u s e d 6 2 3 ]']
+#################################################
+Key:  ['[ u n u s e d 8 6 6 ]', '平', '宀', 'a c a d e m y', 'h e a r d', 'm a r k', '# # r e', '[ u n u s e d 4 6 6 ]', 'ტ', '[ u n u s e d 7 9 5 ]']
+Value:  ['[ u n u s e d 7 5 1 ]', '[ u n u s e d 4 6 3 ]', '[ u n u s e d 9 2 ]', '馬', '[ u n u s e d 3 3 9 ]', 'מ', 'w h e n', '₃', '宣', '[ u n u s e d 8 1 3 ]']
+#################################################
+Key:  ['o f t e n', 'o u r', 'd e v e l o p e d', '[ u n u s e d 3 8 ]', '[ u n u s e d 1 4 7 ]', 'ก', '}', 'b l u e', 'ɡ', '戸']
+Value:  ['[ u n u s e d 8 5 3 ]', 'c a m e', '[ u n u s e d 9 2 ]', '[ u n u s e d 7 0 4 ]', '₈', 'a w a r d s', 'f o u r', 'も', '1 9 9 5', 'ד']
+#################################################

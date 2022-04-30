@@ -1,0 +1,302 @@
+Results for GPT2 - Layer 7 - Without Sparsity
+-----------------------------------------
+Key:  [' held', ' Pr', 'ED', '�', 'hood', '[', ' init', 'rent', ' red', 'rown']
+Value:  ['ard', ' will', ' cons', ' qu', 'N', '\x00', 'ine', 'ater', ' just', '�']
+#################################################
+Key:  ['p', ' interview', ' Red', ' President', 'ague', 'pper', '�', ' service', ' expl', ' recogn']
+Value:  ['�', 'oll', 'ly', '�', 'j', '01', ' ha', ' will', 'pe', '�']
+#################################################
+Key:  ['�', ' pol', ' Cal', '%', ' claim', ' front', ' right', 'rict', 'ably', ' &']
+Value:  ['�', ' will', 'q', 'Z', '�', '#', '�', ' h', 'ite', 'ally']
+#################################################
+Key:  [' bill', ' lat', ' section', 'qu', ' associ', 'itional', ':', '70', 'rem', ' takes']
+Value:  ['�', ' will', ' ch', ' was', ' qu', '�', ' how', '�', '�', '\x1c']
+#################################################
+Key:  ['28', '�', ' Sm', 'oot', '****', '�', ' those', 'du', '........', 'ft']
+Value:  [' will', '�', ' 1', ' ag', ' was', 'form', 'ents', '�', '�', '!']
+#################################################
+Key:  [' diff', ' deb', ' Apr', 'What', ' War', 'all', 'ad', ' hard', ' allow', ' Spe']
+Value:  ['�', ' will', ' was', '�', 'nd', '"', '�', 'clud', '�', '�']
+#################################################
+Key:  ['ma', ' mis', ' compet', 'irc', 'ground', 'C', 'ones', ' held', 'ort', ' follow']
+Value:  ['ut', 'q', '�', 'able', '�', 'rou', '\x01', ' wh', ' 1', 'age']
+#################################################
+Key:  [' El', ' v', ' What', 'ost', ' users', 'Pro', ' line', ' war', ' ke', ' of']
+Value:  ['�', '�', ' is', ' bec', '(', ' do', ' U', ' pe', 'ul', '\x00']
+#################################################
+Key:  [' Apr', ' year', ' original', '\x17', 'urs', '":', 'un', ' may', 'ashing', ' up']
+Value:  ['7', 'est', 'nd', ' act', '�', 'h', '�', 'ist', 'N', 'own']
+#################################################
+Key:  [' began', ' put', ' meet', ' believe', ' Rep', ' there', ' Fr', '…', 'stand', 'resent']
+Value:  [' will', 'h', 'ong', 'ind', '�', 'act', '\r', 'igh', 'vers', ' t']
+#################################################
+Key:  ['________', 'gin', 'aced', ' Now', ' longer', 'ent', ' There', ' there', ' belie', ' close']
+Value:  [' will', '�', ' att', '�', ' again', 'du', ' there', 'ur', 'igh', 'ers']
+#################################################
+Key:  ['W', ' increase', 'any', '�', ' kill', ' spec', 'hood', ' <', ' direct', 'id']
+Value:  ['�', '&', 'ack', 'ang', 'O', '}', ' app', '\x18', 'P', 'ic']
+#################################################
+Key:  [' unt', 'ener', 'ween', ' aff', ' probably', ' running', ' felt', 'ten', 'cy', ' soon']
+Value:  ['j', '.', 'ud', 'ob', 'ick', 'oc', ' cont', 'et', 're', 'ich']
+#################################################
+Key:  ['****', '14', ' role', ' good', 'mer', ' create', ' bill', ' mom', 'aced', 'ure']
+Value:  ['�', '_', 'ven', '�', "'t", 'ood', ' c', 'form', ' dis', '\x06']
+#################################################
+Key:  [' His', ' By', 'W', 'un', ' St', ' she', ' model', 'id', ' poss', 'back']
+Value:  ['om', ' your', ' bl', 'le', ' wh', '3', ' than', '\x0c', ' them', 'ition']
+#################################################
+Key:  ['G', ' group', '_', ' deep', ' El', ' tool', '�', 'vert', ' cl', 'els']
+Value:  [' will', '�', '"', ' has', 'in', 'ake', 'est', 'ome', 'ity', '~']
+#################################################
+Key:  ['ashing', ' code', 'istic', 'the', 'rit', ' Pr', 'rict', 'oor', 'itten', '^']
+Value:  ["'t", ' 201', '�', 'r', ' cons', 'ings', '�', ' k', ' ha', '\x06']
+#################################################
+Key:  ['7', 'ler', 'ord', ' link', ' ed', 'ment', ' Fr', '�', 'fore', ' John']
+Value:  [' will', 'ain', '�', 'om', 'ct', '\n', ' ne', ' k', '\x18', '�']
+#################################################
+Key:  ['ided', ' lo', '40', 'aging', 'bor', 'aced', '�', ' com', '�', ' four']
+Value:  ['if', '�', ' L', ' up', ' Th', ' but', ' my', '�', '�', ' J']
+#################################################
+Key:  ['he', ').', ' By', ' break', '!"', 'ren', ' direct', 'ler', '�', ' released']
+Value:  [' po', '�', 'T', '�', ' only', 'ro', ' ro', 'ia', 'own', 'ere']
+#################################################
+Key:  [' believe', ' By', 'ark', ' until', 'RE', ' stand', ' unt', ' link', ' round', 'le']
+Value:  [' b', ' her', 'ight', 'ide', ' f', ' your', 'ast', 'The', '\x18', ' u']
+#################################################
+Key:  ['�', 'ruct', 'gr', 'ten', ' or', ' best', 'uthor', ' deb', ' loss', 'ri']
+Value:  [' po', '�', 'ord', 'se', ' K', ' l', '5', '\x10', 'ood', 'll']
+#################################################
+Key:  ['ways', 'ec', 'ud', ' Post', ' su', ' best', ' Now', ' easy', 'anc', ' group']
+Value:  ['om', 'ia', 'it', 'iss', 'amp', 'le', '�', 'ust', '�', ' wor']
+#################################################
+Key:  [' behav', ' seems', 'ect', 'ener', 'ment', ' policy', ' job', ' im', ' port', '80']
+Value:  [' will', ' s', '�', 've', '�', ' which', 'um', '\x1b', 'qu', '\x11']
+#################################################
+Key:  [' interview', ' 2014', ' follow', '28', ' Do', ' word', ' Ag', ' art', ' qu', ' taking']
+Value:  ['�', 'in', '�', 'ch', 'th', ' was', '�', 'ol', 'f', ' I']
+#################################################
+Key:  [' close', ' dam', 'acebook', ' thought', ' will', ' Act', 'eral', ' Dav', 'rest', ' ty']
+Value:  ['"', '�', 'ers', 'ou', 'ire', 'act', ' K', '�', ' will', ' qu']
+#################################################
+Key:  [' comb', ' decl', ' interview', 'a', ' Pr', ' *', ' you', ' above', ' targ', 'ord']
+Value:  ['�', '$', ' I', 'ra', 'N', ' pre', ' tr', ' tw', '*', ' first']
+#################################################
+Key:  ['�', ' sold', 'rist', ' dis', '40', 'atur', 'ring', 'ashington', 'ure', '�']
+Value:  [' will', '�', ' like', 'og', ' P', ' C', 'rom', 'ace', ').', 'ain']
+#################################################
+Key:  ['ared', 'ins', '14', ' fav', ' comm', ' list', 'vious', 'ink', 'action', ' Sp']
+Value:  [' will', '�', '\x1e', ' just', ' know', 'ud', ' R', ' int', ' po', 'ark']
+#################################################
+Key:  [' equ', ' favor', 'oor', ' process', ' War', '�', 'itive', 'pe', ' Con', ' original']
+Value:  [' will', 'du', 'iz', 'est', ' C', 'ro', 'te', 'ther', ' k', '�']
+#################################################
+Key:  ['nes', ' sur', ' El', 'ents', ' alleg', ' fe', '�', '�', ' rele', 'oor']
+Value:  ['�', ' I', ' will', '�', 'm', 'and', ' was', 'X', 'ace', ' 1']
+#################################################
+Key:  [' own', ' does', 'S', ' cho', 'Al', ' favor', 'f', 'ual', ' turned', '17']
+Value:  ['c', 'f', ' will', ' att', ' back', '�', '�', '�', ' O', ' j']
+#################################################
+Key:  ['sy', ' yet', 'ven', 'C', 'per', ' comp', ' keep', ' she', ' enough', ' say']
+Value:  ['P', 've', ' $', ' N', ' was', '�', 'orm', ' wh', '�', 'ter']
+#################################################
+Key:  [' unt', '�', ' num', ' currently', 'qu', ' Spe', ' Americ', ' sense', 'ky', 'yn']
+Value:  ['u', '�', 'ven', ' over', 'ch', ' will', 'ing', 'amp', ' u', ' D']
+#################################################
+Key:  ['el', 'ten', ' card', 'ales', 'To', ' road', 'tr', 'th', 'ale', ' National']
+Value:  [' bet', 'ack', '\r', 'ace', 'ew', '�', 'ade', ' M', 'o', '�']
+#################################################
+Key:  ['\x17', '03', ' Ge', ' spe', 'old', ' how', ' something', ' back', ' stop', '--------']
+Value:  [' will', ' other', '|', ' po', ' him', 'per', 'gh', ' not', ' $', '�']
+#################################################
+Key:  [' play', ' life', ' money', 'ops', ' Count', '\x01', ' for', 'ison', 'pro', 'art']
+Value:  [' will', ' were', ' re', '�', '�', ' ag', 'o', ' ne', '�', '.']
+#################################################
+Key:  ['(', 'uary', ' original', ' col', 'rist', 'sy', 'iple', 'ird', '34', ' put']
+Value:  ['�', 'im', '�', 'int', '�', ' their', '�', '�', 've', 'ks']
+#################################################
+Key:  ['g', ' o', ' there', 'ided', ' West', ' bring', 'ven', ' ask', 'pite', 'ener']
+Value:  ['ce', '\x1f', ' their', '�', '�', '�', '01', ' be', ' after', '�']
+#################################################
+Key:  [' want', ' when', 'irc', 'ien', ' Black', ' ext', ',', ' often', ' Jan', ' room']
+Value:  ['�', ' will', 'h', '�', ' im', '�', 'L', '�', 'c', '�']
+#################################################
+Key:  [' El', '//', ' received', ' review', ' began', ' 2018', 'qu', 'ose', 'at', 'ess']
+Value:  ['oll', 'ak', 'ink', ' kn', ' will', 'ob', 'ast', 'os', 'ine', ' be']
+#################################################
+Key:  [' R', 'ie', ' same', 'ier', 'ison', 'cle', ' prov', 'a', ' view', ' among']
+Value:  ['�', 'G', 'we', 'ove', ' like', '�', ' about', ' O', ' $', '0']
+#################################################
+Key:  [' Aust', 'omb', 'ri', 'ure', ' low', '�', ' 29', '50', ' believe', 'ry']
+Value:  [' St', ' whe', 'ation', '�', ' v', ' B', ' need', 'ake', ' F', 'per']
+#################################################
+Key:  ['gh', ' tool', ' cap', 'eral', ' Post', ' certain', ' dest', 'epend', 'erv', ' An']
+Value:  ['�', ' c', 'ous', '�', 'our', 'o', ' comm', '�', ' your', 'res']
+#################################################
+Key:  [' specific', ' El', ' Don', ' said', ' II', 'ew', 'G', ' health', 'out', 'ights']
+Value:  [' will', '�', ' one', '\x1e', '�', '(', 'q', ' res', ' first', ' s']
+#################################################
+Key:  ['qu', 'ically', ' hold', '________', ' ref', ' half', ' #', ' that', 'aking', 'ming']
+Value:  ['X', '~', 'hed', '\x1e', 'The', ' will', 'ue', '�', ' a', '\x1a']
+#################################################
+Key:  ['ame', 'ER', ' team', '40', ' cho', ' months', ' tre', '........', ' 16', ' only']
+Value:  ['very', ' -', ' p', 'ark', 'ail', ' will', '�', ' qu', ' po', ' which']
+#################################################
+Key:  [' pretty', 'ure', ' interview', 'fect', ' ]', ' University', 'yle', ' net', '�', 'ition']
+Value:  ['ment', 'ont', 'ide', 'B', 'ate', 'ade', 'int', '�', ' their', '\x1b']
+#################################################
+Key:  ['!"', ' few', ' Af', 'apan', ' health', ' size', ' news', ' pr', 'op', 'ate']
+Value:  [' will', 'ad', ' pre', '^', ' pe', ' whe', 'ra', '\x16', 'ious', '\x10']
+#################################################
+Key:  ['reat', 'ided', 'ital', 'Al', 'our', 'itions', ' commun', ' Post', 'ences', ' its']
+Value:  ['�', ' tw', 'b', ' go', '~', '}', ' some', 'ical', ' sp', '�']
+#################################################
+Key:  [' interview', 'id', ' food', ' nothing', ' pay', ' block', 'ars', 'urd', ' view', ' you']
+Value:  [' will', 'ict', ' D', 'ver', 'ark', 've', ' no', ' part', 'h', ' an']
+#################################################
+Key:  [' believe', ' still', ' met', ' Sy', ' model', ' 2017', ' vol', ' happ', '�', ' party']
+Value:  ['�', ' po', ' wh', ' sh', ' de', 'ip', ' ch', '�', ' will', 'ok']
+#################################################
+Key:  [' sa', 'X', 'ins', ' end', ' after', 'ened', 'ff', 'qu', ' running', 'book']
+Value:  [' will', 'y', 'ub', 'ut', '�', 'if', ' on', 'ain', '<', ' for']
+#################################################
+Key:  ['01', 'ER', ' comes', 'ven', 'able', 'So', 'ings', 'al', 'atur', 'ten']
+Value:  [' will', ' was', '�', '\x00', '�', '01', ' at', 'ents', '�', 'ation']
+#################################################
+Key:  ['ways', ' Her', ' sit', ' ;', '_', '*', ' invest', '�', '27', ' do']
+Value:  ['�', ' one', ' will', 'urn', '�', '�', 'ian', 'ated', '\x1b', 'um']
+#################################################
+Key:  [' AM', ' mess', ' these', 'ips', 'lic', ' aff', 'ows', ' imm', 'ribut', ' value']
+Value:  [' ad', '�', '\x1e', 'ood', 'w', 'ces', 'll', '�', ' as', ' it']
+#################################################
+Key:  ['iple', 'K', ' win', 'ent', 'ood', 'y', ' opp', ' everything', ' shall', 'pl']
+Value:  [' will', ' spe', '�', ' an', ' K', ' int', ' ne', 'ident', 'et', ' st']
+#################################################
+Key:  ['urity', 'arch', ' anim', ' comb', ' News', ' 29', ' across', ' wrote', 'uff', ' between']
+Value:  [' will', '\x06', '�', '�', '4', ' T', '�', '�', 'ction', '�']
+#################################################
+Key:  [' div', 'ister', "'", ' current', ' redu', ' pe', '":"', 'RE', 'ky', ' original']
+Value:  [' pre', ' K', ' ', 'ul', 'ase', '%', '�', 'ff', ' 3', 'ical']
+#################################################
+Key:  ['39', 'down', ' easy', ' –', ' large', ' best', 'oor', 'man', ' stay', ' turned']
+Value:  [' will', 'oc', 'l', '�', ' un', ' R', 'rou', 'ind', ' whe', ' its']
+#################################################
+Key:  [' Fr', ' bl', 'ule', '**', ' There', ' country', ' �', 'dd', 'aking', ' Y']
+Value:  ['�', ' will', '�', 'itt', 'th', 'ag', 'iss', ' U', 'end', ' your']
+#################################################
+Key:  ['ways', '28', '\x01', 'to', 'work', ' Be', 'amed', 'el', 'anks', 'apan']
+Value:  ['�', 'am', ' be', ' an', ':', 'T', ' b', 'ail', '%', ' B']
+#################################################
+Key:  ['omm', ' living', ' longer', ' on', 'qu', 'ohn', 'oor', ' single', ' code', ' text']
+Value:  ['amp', 'W', 'G', ' will', 'are', '�', 'F', '."', 'Y', 'X']
+#################################################
+Key:  ['29', ' aff', ' released', ' probably', 'ign', ' col', ' German', ' ed', ' recogn', 'ume']
+Value:  [' will', 'du', 'ol', 'ary', ' us', '�', 'av', 'c', '(', 'sel']
+#################################################
+Key:  [' upon', 'aim', ' present', ' ways', ' Will', ' Gr', ' Spe', 'ably', ' Apr', ' Qu']
+Value:  [' will', '�', 'ound', 'ing', 'ad', '�', '�', ' their', '�', '\\']
+#################################################
+Key:  [' Cong', 'ont', ' bu', 'rop', ' A', 'ang', ' ann', 'yl', 'ai', ' polit']
+Value:  [' will', '�', ' could', '�', 'h', ' In', '�', 'ang', '�', 'p']
+#################################################
+Key:  [' including', '29', ' believe', 'iple', ' involved', '________', 'ion', '�', ' w', 'cher']
+Value:  [' 201', 'ing', ' will', '\x1b', ' 7', 'se', ' cl', 'iv', 'j', ').']
+#################################################
+Key:  [' compet', 'ric', ' Now', ' no', '�', 've', ' met', 'aper', 'bo', ' popular']
+Value:  [' man', ' It', 'The', '\x1e', ' A', 'Z', ' j', 'ig', 'ink', '�']
+#################################################
+Key:  ['imes', 'ch', 'ues', 'ri', ' separ', '66', ' qu', 'ince', ' there', 'rit']
+Value:  [' will', ',', ' ab', '%', '\x12', '\x0e', '�', '\x05', '�', 'ree']
+#################################################
+Key:  [' field', ' best', ' due', '@', ' polit', ' applic', 'Al', ' exact', '~', ' claim']
+Value:  [' will', '�', '�', 'ine', '�', 'as', '�', 'ence', 'I', '�']
+#################################################
+Key:  ['ia', ' ask', ' decided', ' ill', 'ite', ' loss', '�', '�', ' ]', ' next']
+Value:  ['�', ' from', '�', ' s', ' only', 'ap', '�', ' rec', ' 0', 'oc']
+#################################################
+Key:  [' Em', 'mer', '�', ' hot', ' Be', ' [', 'ious', 'end', ' pres', ' attack']
+Value:  [' from', 'ers', '-', ' tw', 'on', '�', '\x06', ' do', 'ade', ' sc']
+#################################################
+Key:  ['ged', ' 28', 'lling', '36', ' since', 'ites', ' certain', ' Mar', ' too', ' cur']
+Value:  ['�', 'oc', '�', '�', '[', '�', ' will', ' kn', '�', 'ft']
+#################################################
+Key:  ['21', ' estab', 'ones', ' *', 'ience', 'iting', ' Ear', ' pack', ' form', 'ame']
+Value:  ['�', '`', '�', 'ose', ' im', 'ike', ' 201', 'l', 'ade', 'ens']
+#################################################
+Key:  ['ont', ' Red', 'ow', ' behind', 'ael', 'her', '11', 'Al', 'year', 'od']
+Value:  ['ain', 'ed', '�', ').', ' his', 'k', 'n', '�', 'ou', ' her']
+#################################################
+Key:  ['ards', ' lat', 'ore', ' pie', ' taking', 'and', ' belie', ' 5', 'ches', ' service']
+Value:  [' see', 'ew', 'ac', 'pp', '�', 'sel', ' will', 'ru', '�', '�']
+#################################################
+Key:  ['ener', ' Z', ' received', 'bit', ' Def', ',', 'our', ' our', 'ark', ' police']
+Value:  [' will', '�', 'og', '�', 'ack', ' B', 'V', '�', '�', ' r']
+#################################################
+Key:  [' fire', 'ince', '�', 'ents', ' begin', '14', 'eral', 'als', ' 2016', ' him']
+Value:  ['}', 'ates', 'ven', 'ry', ' att', "'", ' he', ' ag', ' 2', '\x06']
+#################################################
+Key:  ['unk', ' By', 'used', ' block', 'av', 'ings', 'un', ' social', ' unt', 'ced']
+Value:  ['$', 'h', 'cc', 'T', '�', '�', 'ont', '�', 'am', '\x02']
+#################################################
+Key:  ['ign', ' or', ' 13', ' p', 'uments', ' ed', 'ask', ' close', ' rep', ' she']
+Value:  ['ult', 'pe', '.', 'iss', ' am', 'ate', 'so', '\x14', 'ents', '\x04']
+#################################################
+Key:  ['ener', ' ]', 'leg', 'ard', 'eral', 'pect', ' prim', '\x16', 'se', ' try']
+Value:  [' only', 'hed', '}', ';', 'at', 'vel', ' said', '8', ' will', 'k']
+#################################################
+Key:  [' bill', 'cing', 'Wh', 'ra', 'ge', 'ified', ' Be', '36', 'uthor', ' currently']
+Value:  ['th', 'ays', ' cont', 'ain', ' not', 'g', ' is', 'us', 'st', ' G']
+#################################################
+Key:  [' Post', 'Q', ' interview', ' walk', ' York', ' deal', ' specific', ' someone', ' ]', ' together']
+Value:  [' $', 'ish', '�', ' re', 'ke', '�', 'pe', ' see', 'ment', ' L']
+#################################################
+Key:  ['ashing', 'urs', 'rict', ' stre', ' started', ' )', 'ional', ' range', 'irt', '�']
+Value:  [' bl', '�', '�', 'oc', ' ha', ' sc', ' will', ' 19', 'nd', 'ens']
+#################################################
+Key:  ['oor', 'irc', 'epend', "'", 'ind', 'igh', ' back', ' child', 'ith', ' family']
+Value:  [' will', '�', 'ack', 'ad', '�', 'ater', ' res', 'as', ' acc', '-']
+#################################################
+Key:  [' Post', 'ajor', ' By', ' needs', ' r', ' need', ' accept', 'light', 'ation', 'ren']
+Value:  [' B', '�', 'ven', 'oc', 'au', 'form', ' were', ' R', 'ig', '�']
+#################################################
+Key:  [' x', 'ler', 'cing', ' Pr', ' cases', 'qu', 'oor', 'The', 'aging', ' trans']
+Value:  ['�', 'if', 'ow', '�', 'ib', 'O', 'iv', '�', '0', 'V']
+#################################################
+Key:  [' Gr', ' ways', ' upon', ' end', ' Will', ' present', ' 2011', 'ook', ' user', ' camp']
+Value:  ['�', ' said', ' play', ' I', 'q', ' want', ' O', ';', ' wh', 'ia']
+#################################################
+Key:  [' aff', 'gh', ' L', 'o', 'ents', ' add', ' V', '\\', ' stri', ' goal']
+Value:  [' will', ' ar', ' ab', ',"', 'ab', '�', '�', 'red', 'round', ' I']
+#################################################
+Key:  ['�', '29', 'ian', ' week', '�', ' cre', ' present', ' following', 'ashing', ' function']
+Value:  [' will', 'ro', 'rom', '\x1e', 'ie', 'ass', 'round', '�', 'ice', 'xt']
+#################################################
+Key:  ['port', ' Z', ' increase', 'artment', ' equ', ' life', ' service', 'he', '50', ' police']
+Value:  [' the', 'ust', 'ace', ' could', '�', ' N', 'ew', ' my', '\n', 'ec']
+#################################################
+Key:  ['ur', ' ann', ' interview', 'You', 'vert', 'ting', ' must', ' mess', 'ick', ' Ab']
+Value:  ['\x13', 'lic', '�', ' first', 'ra', '5', 're', 'The', 'pe', '\x7f']
+#################################################
+Key:  [' interview', ' e', 'f', 'ool', 'ate', 'arter', '12', ' via', ' 24', ' 2017']
+Value:  ['pp', 'ors', '�', '\x1b', 'ang', 'S', 'so', 'tern', '�', 'am']
+#################################################
+Key:  [' moment', ' affect', ' were', ' players', ' students', '."', '01', 'LE', 'ast', ' rec']
+Value:  ['at', '�', ' ad', '�', 'oll', ' comp', ').', '\x15', 'are', '�']
+#################################################
+Key:  [' Trump', 'et', 'oor', 'lam', ' Aust', 'ix', '�', 'ohn', '�', ' mark']
+Value:  [' like', 'sel', '\x1f', 'ive', ' qu', 'port', 'W', '0', 'ents', ' about']
+#################################################
+Key:  [' ]', 'ently', 'con', 'aim', ' him', ' Aust', ' x', '�', ' ser', ' down']
+Value:  [' see', 'age', '--', '(', ' as', ' app', ' play', 'd', 'wn', '.']
+#################################################
+Key:  ['ient', ' agre', ' word', ' Che', ' Now', ' For', ' certain', ' different', '==', 'ades']
+Value:  ['�', ' will', 'I', 'form', '�', ' has', 'ld', '\x0f', '�', '�']
+#################################################
+Key:  ['�', ' reported', ' the', ' compet', 'ed', ' 100', ' mis', ' allow', '7', 'ale']
+Value:  ['J', ' an', 'f', ' only', ' was', '\x1d', ' about', '�', ' K', '�']
+#################################################
+Key:  [' company', 'unk', '40', ' let', ' our', ' German', ' prof', ' El', '�', 'ef']
+Value:  ['ation', ' do', ' l', '�', '?', ' It', '�', '�', ' con', ' acc']
+#################################################
+Key:  ['LE', 'att', ' more', ' whe', ' gen', ' house', ' away', ' percent', 'vert', 'he']
+Value:  ['t', 'ant', '\x11', '}', ' you', ' which', 'ast', '\x1c', ' were', 'am']
+#################################################

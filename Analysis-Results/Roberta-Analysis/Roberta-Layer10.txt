@@ -1,0 +1,301 @@
+Results for Roberta - Layer 10
+Key:  [' work', ' lived', ' England', '@', ' learned', ' own', ' Israel', ' word', ' manager', ' Island']
+Value:  [' developed', ' Arizona', ' Sports', ' 48', ' Island', ' tells', ' achieve', ' charged', 'ating', 'When']
+#################################################
+Key:  [' keep', ' everything', ' demand', ' Dan', ' workers', ' door', 'itt', 'u', ' Mexico', ' 90']
+Value:  [' Jordan', ' speak', ' production', ' ruling', ' walking', ' customer', ' manufacturing', ' 7', ' already', ' important']
+#################################################
+Key:  [' everything', ' keep', ' At', ' seeing', 'el', ' extra', ' forecast', ' zone', ' Nov', ' card']
+Value:  [' Jordan', ' given', ' far', ' plenty', ' parts', ' While', ' want', ' the', ' Th', ' actual']
+#################################################
+Key:  [' keep', ' fighting', ' account', ' everything', ' Two', ' surprise', ' three', ' American', '…', ' far']
+Value:  [' production', ' Jordan', ' little', ' anything', ' Prince', ';', 'Photo', ' Just', ' Let', "'s"]
+#################################################
+Key:  ['When', ' tough', ' vehicle', ' R', ' rate', ' elections', 'ier', 'il', ' Open', ' ban']
+Value:  ['When', ' R', ' parts', 'air', ' weather', ' enforcement', ' spot', ' rate', ' financial', ' learned']
+#################################################
+Key:  [' extra', ' Canada', 'el', ' customers', ' learned', ' catch', ' giving', ' The', ' cause', 'ier']
+Value:  [' groups', ' anything', ' Arizona', ' Street', ' extra', ' customers', ' manager', ' victory', ' needs', 'ma']
+#################################################
+Key:  [' loss', ' admitted', ' partners', '",', ' Cor', ' Bill', ' forecast', 'ne', ' read', ' dark']
+Value:  [' loss', ' starts', ' Island', 'ett', 'a', ' projects', '�', ' economy', ' died', ' meet']
+#################################################
+Key:  [' keep', ' border', ' assault', ' Martin', ' 70', ' growing', ' Times', ' Cor', ' sold', ' nine']
+Value:  [' 34', ' opportunity', ' stocks', '26', ' Japanese', ' Kelly', ' choose', ' anything', 'es', ' answer']
+#################################################
+Key:  [' Home', ' elections', ' from', ' 48', '…', ' Church', ' keep', ' Har', ' Martin', ' statement']
+Value:  ['ised', ' parts', ' miss', ' played', ' aren', ' surgery', ' Energy', ' Just', ' THE', ' Man']
+#################################################
+Key:  [' required', ' cool', ' keep', ' mark', '200', 'G', ' considered', 'ize', ' 80', ' rep']
+Value:  [' Martin', ' season', ' commitment', ' services', ' King', '�', ' winter', ' lose', ' produced', ' enforcement']
+#################################################
+Key:  [' saying', ' balance', ' Ltd', ' growth', '26', 'ay', 'au', ' everything', ' minute', ' boost']
+Value:  [' answer', '26', ' parts', 'al', ' production', ' guard', ' education', ' units', 'When', ' does']
+#################################################
+Key:  [' everything', ' keep', ' Arizona', ' /', ' data', ' elections', ' amount', ' move', ' us', ' Williams']
+Value:  [' Amazon', 'When', ' move', ' R', ' again', '(', ' /', ' bringing', ' really', ' Jordan']
+#################################################
+Key:  [' forecast', ' Carolina', ' on', ' keep', ' sure', ' men', ' 48', ' word', ' Chinese', ' company']
+Value:  [' spending', ' failure', '75', 'AN', ' F', ' own', ' near', ' But', ' posted', ' West']
+#################################################
+Key:  ['(', ' keep', ' King', ' Great', ' American', ' Thomas', 'k', ' Of', ' everything', ' Premier']
+Value:  [' Jordan', ' King', ' resources', 'il', ' request', ' economy', 'When', ' em', ' grand', ' O']
+#################################################
+Key:  [' 60', ' assets', 'ah', ' 300', ' keep', ' nuclear', ' American', ' Saturday', ' basis', 'ise']
+Value:  ['per', ' tells', 'mer', ' mentioned', ' balance', ' Island', ' State', ' turn', ' solid', ' But']
+#################################################
+Key:  [' largest', 'k', ' child', ' killing', ' release', ' keep', ' nine', '&', ' primary', ' facility']
+Value:  [' Arizona', ' King', ' killing', ' loss', ' largest', ' aren', ';', ' speak', ' production', ' manufacturing']
+#################################################
+Key:  [' foreign', ' El', ' open', ' Bay', ' keep', ' influence', ' championship', ' Valley', ' scheduled', ' Chicago']
+Value:  [' Jordan', ' groups', ' solution', ' speech', ' strong', ' Iran', ' production', ' El', ' far', 'ale']
+#################################################
+Key:  [' work', ' After', ' workers', ' enjoy', 'ed', ' Sept', ' treatment', ' works', 'k', ' title']
+Value:  [' Jordan', ' production', ' To', ' avoid', 'twitter', ' answer', ' posted', ' Health', ' efforts', ' version']
+#################################################
+Key:  [' received', ' Thomas', ' scheduled', ' par', 'ce', ' work', ' Singapore', ' British', ' bringing', ' Reuters']
+Value:  [' national', ' Arizona', ' sides', ' benefits', ' Jordan', ' names', 'ering', ' Asia', 'ee', ' truck']
+#################################################
+Key:  [' Of', 'US', ' it', 'ah', ' Chinese', 'al', ' everything', 'es', ' Investment', ' Just']
+Value:  ['When', ' E', ' again', ' R', 'al', ' Investment', ';', ' answer', '(', ' move']
+#################################################
+Key:  [' keep', ' tell', ' Nov', ' weather', ' R', ' fifth', ' high', ' Texas', ' Good', ' Gr']
+Value:  ['in', ' ago', ' developed', ' Health', ' 13', ' push', ' blue', ' You', ' California', ' Director']
+#################################################
+Key:  [' keep', ' everything', ' elections', ' Me', ' 48', ' tell', ' extra', ' construction', ' businesses', ' Committee']
+Value:  [' Jordan', ' Energy', ' 34', ' 33', ' of', 'G', ' party', ' seeking', ' signed', ' nine']
+#################################################
+Key:  ['u', ' 48', ' 17', ';', 'By', ' ha', ' Me', ' Michael', ' -', ' patients']
+Value:  [' admitted', '27', ' parts', ' produced', ' production', ' trend', ' rep', 'u', ' about', ' fiscal']
+#################################################
+Key:  [' keep', ' every', ' open', ' return', ' operating', ' software', ' construction', 'ON', ' green', ' rep']
+Value:  [' Arizona', ' Reuters', 'ON', ' Jordan', ' aren', ' Best', ' production', ' app', ' 24', ' used']
+#################################################
+Key:  ['4', " '", ' keep', ' driver', 'When', ' pressure', ' dollar', ' Inc', ' limited', ' analyst']
+Value:  [' Best', ' Inc', ' parts', ' from', ' British', 'ism', ' Ministry', 'Q', ' campus', 'ler']
+#################################################
+Key:  [' right', ' Thomas', 'ied', ' close', ' 60', ' facility', ' doubt', ' spent', ' par', ' MORE']
+Value:  ['ah', ' Energy', ' blood', ' own', ' admitted', ' Reuters', ' Amazon', ' received', ' speak', 'a']
+#################################################
+Key:  [' keep', ' everything', ' outside', ' Michael', ' center', ' terms', ' next', 'th', 'il', ' r']
+Value:  [' developed', 'il', ' Just', ' artist', 'ip', ' goes', '�', ' provided', ' ago', '35']
+#################################################
+Key:  [' keep', ' 48', ' managed', 'ations', 'ized', ' everything', 'ne', 'ON', ' weather', ' e']
+Value:  [' Jordan', ' looks', ' answer', ' But', ' product', ' visit', ' starting', ' King', ' Media', ' didn']
+#################################################
+Key:  [' air', ' cool', ' far', ' interesting', ' owned', ' owner', ' account', ' Britain', ' men', 'iting']
+Value:  [' Arizona', ' speak', 'of', ' George', 'per', 'u', ' they', ' Sports', ' aren', ' However']
+#################################################
+Key:  ['ah', ' far', ' nation', ' primary', 'u', ' firm', ' commercial', ' places', ' Wall', ' few']
+Value:  [' Jordan', ' Inc', ' Prince', ' far', 'When', ' R', ' sit', 'ani', ' British', 'il']
+#################################################
+Key:  [' storm', ' commitment', ' April', ' places', ' group', ' choice', ' continued', ' keep', ' Bank', ' California']
+Value:  [' parts', ' doesn', ' production', ' Amazon', ' spending', ' significant', 'in', ' illegal', ' marketing', ' At']
+#################################################
+Key:  [' everything', 'Photo', ' Under', '30', ' finally', '…', ' blood', 'ins', ' office', ' herself']
+Value:  [' Jordan', ' creating', ' thinking', ' child', ' produce', ' died', ' track', ' next', ' immigration', ' Mc']
+#################################################
+Key:  ['u', ' R', ' zone', ' hopes', ' seven', ' mark', ' human', ' Under', '"', ' tell']
+Value:  [' Financial', ' Brazil', ' tried', 'il', ' i', ' UN', 'ner', ' blood', ' the', ' speak']
+#################################################
+Key:  [' keep', 'ile', ' Best', ' debt', ' aren', ' parties', ' o', ' allowing', ' FBI', 'ats']
+Value:  [' cities', ' points', ' h', ' w', ' member', ' computer', 'ys', 'l', ' produced', 'ering']
+#################################################
+Key:  [' tell', ' enforcement', ' keep', ' primary', ' review', ' weather', ' die', ' Dan', ' be', ' approximately']
+Value:  ['ci', ' near', ' Arizona', ' herself', ' After', 'g', ' early', ' appear', 'oh', ' signs']
+#################################################
+Key:  [' everything', ' keep', ' workers', ' elections', ' injuries', ' reporters', 'na', ' marketing', ' understand', ' 70']
+Value:  ['our', ' discovered', ' Of', ' States', ' blue', ' game', ' Jordan', ' meet', ' campus', ' LLC']
+#################################################
+Key:  [' keep', ' influence', ' Of', ' learned', ' nine', ' How', ' Just', ' base', ' guard', 'She']
+Value:  [';', ' After', ' Jordan', ' drop', ' does', ' believe', ' notes', ' worked', ' strong', ' section']
+#################################################
+Key:  [' keep', ' Bill', ' Russia', ' close', ' Al', ' bottom', ' debt', ' valued', ' Robert', 'itt']
+Value:  [' sides', ' missed', ' must', ' marketing', ' commercial', ' developed', ' land', 'ic', ' market', ' keeping']
+#################################################
+Key:  [' developed', ' risk', ' parts', ' Germany', 'ier', ' door', ' tough', ' Cor', ' 21', ' choose']
+Value:  [' parts', ' developed', ' Jordan', ' R', 'When', ' victory', ' speak', ' often', 'per', ' fans']
+#################################################
+Key:  [' keep', ' everything', ' tell', ' Valley', 'b', 'ne', ' lived', ' word', ' scheduled', ' Nov']
+Value:  [' Se', ' reduce', ' rating', ' spending', ' Energy', ' Financial', ' Reuters', ' At', 'ind', ' developed']
+#################################################
+Key:  ['per', ' foreign', ' cool', ' 48', ' increased', 'al', 'ised', ' telling', ' Investment', ' moved']
+Value:  [' Jordan', 'le', ' E', ' cool', 'per', '@', ' This', ' really', ' user', ' Se']
+#################################################
+Key:  [' everything', 'ism', ' medical', ' happening', ' Mac', ' declared', 'oc', ' soon', ' miles', ' cases']
+Value:  [' Jordan', ' parts', ' speak', ' space', 'ism', ' Inc', ' without', ' E', ' rate', ' projects']
+#################################################
+Key:  [' runs', ' extra', ' amount', ' keep', ' 2016', ' cross', ' R', ' developed', '27', ' FBI']
+Value:  [' speak', ' Red', ' storm', 'N', ' year', ' 33', ' to', 'of', ' des', ' projects']
+#################################################
+Key:  [' everything', ' keep', ' sell', ' tell', ' High', ' 5', ' Martin', ' young', ' normal', ' on']
+Value:  [' Arizona', ' Robert', ' units', ' Even', 'el', 'ES', ' alongside', ' missing', ' United', 'ale']
+#################################################
+Key:  [' keep', ' fifth', ' How', ' tells', ' who', ' product', ' works', ' V', 'k', ' despite']
+Value:  ['in', ' Jordan', ' marketing', ' strong', ' Asia', ' developed', ' family', ' who', ' un', ' residents']
+#################################################
+Key:  [' keep', ' 300', ' missed', 'ere', ' tells', 'AR', ' weather', ' inflation', ' director', 'ani']
+Value:  [' officer', ' admitted', ' perfect', ' Stadium', ' le', 'ah', ' 13', ' from', 'ee', ' J']
+#################################################
+Key:  [' everything', ' keep', ' elections', ' balance', ' directly', ' Church', ' But', ' production', ' average', ' progress']
+Value:  [' Jordan', ' Reuters', ' commercial', ' developed', ' net', ' signed', ' O', 'ani', ' report', ' required']
+#################################################
+Key:  [' everything', ' keep', ' Cor', 'ado', ' Ltd', ' Committee', ' local', ' second', '(', ' lead']
+Value:  ['When', ' R', ' strong', ' opportunity', ' Cor', ' Long', ' place', ' spot', ' Miller', ' self']
+#################################################
+Key:  [' everything', ' England', ' keep', ' extra', ' zone', 'When', ' next', ' Women', ' yet', ' marketing']
+Value:  ['AN', 'UR', ' extra', 'My', ' Arizona', 'ful', 'el', ' high', ' watching', ' hospital']
+#################################################
+Key:  [' keep', ' loss', ' care', ' price', '7', ' Best', 'uh', 'ger', ' worked', ' analyst']
+Value:  [' Jordan', ' Arizona', ' price', 'ad', ' Inc', ' At', ' media', ' Another', ' statements', 'ate']
+#################################################
+Key:  [' keep', ' application', ' 300', ' blood', ' far', ' elections', ' United', '%.', ' urged', 'ra']
+Value:  [' Arizona', ' developed', 'twitter', ' block', ' production', ' far', ' Lake', ';', ' Inc', ' down']
+#################################################
+Key:  [' keep', 'ang', 'ino', ' rain', ' Ltd', ' information', ' surprise', 'm', ' elections', ' half']
+Value:  [' Jordan', ' increased', ' answer', ' Reuters', ' equity', ' price', ' worked', ' federal', ' door', 'ON']
+#################################################
+Key:  ['k', ' Korean', ' runs', ' increased', ' Matt', ' saying', ' tell', 'ne', ' maybe', ' allowing']
+Value:  [' production', ' lose', ' complete', ' via', ' Health', ' begin', 'u', ' Martin', '!"', ' Arizona']
+#################################################
+Key:  [' keep', ' bringing', ' avoid', ' everything', ' Angeles', ' close', ' After', ' possible', '@', ' numbers']
+Value:  [' used', ' ago', 'ised', ' effects', ' computer', ' starting', ' Brazil', '27', ' Jordan', ' Three']
+#################################################
+Key:  [' items', ' keep', ' enjoy', ' drive', ' major', ' against', ' Most', ' brain', ' Australia', ' starts']
+Value:  ['.', 'UR', ' Jordan', 'mer', ' Judge', ' Red', ' usually', ' strong', ' including', ' bad']
+#################################################
+Key:  [' na', 'uf', ' keep', ' survey', 'es', ' regular', ' Their', ' 2', ' extra', 'ized']
+Value:  [' entire', ' urged', ' percent', ' outside', ' film', ' answer', ' related', 'Photo', ' tells', ' notes']
+#################################################
+Key:  [' keep', ' everything', ' High', ' Har', ' falling', ' seen', ' local', ' generation', ' Church', ' items']
+Value:  [' strong', ' aren', ' travel', ' production', 'ics', ' the', ' helping', ' Martin', ' a', ' rep']
+#################################################
+Key:  [' workers', ' keep', ' Ltd', 'ere', 'ied', ' herself', ' should', ' here', ' overall', ' Arizona']
+Value:  [' quality', ' track', ' update', ' sub', ' Law', ' Se', ' USA', ' di', ' move', ' Canada']
+#################################################
+Key:  [' the', ' Korean', ' tied', ' makes', ' pull', 'By', ' contact', ' construction', ' everything', ' bringing']
+Value:  [' the', ' marketing', '�', '26', ' match', ' happy', 'T', ' third', 'in', ' answer']
+#################################################
+Key:  [' keep', 'ah', ' sure', 'ani', ' O', ' An', ' na', 'ations', ' areas', ' spoke']
+Value:  [' near', ' Reuters', ' parts', ' update', ' found', ' Financial', ' West', ' teachers', ' Arizona', 'es']
+#################################################
+Key:  [' Bay', ' achieve', 'ani', ' Canada', ' American', ' But', ' 2013', ' Meanwhile', ' there', ' Army']
+Value:  [' developed', ' marketing', ' debut', ' family', ' return', ' legal', ' customers', 'When', 'Â', ' Brazil']
+#################################################
+Key:  [' everything', ' King', ' Facebook', ' fall', ' 70', 'org', ' loans', ' highest', 'k', 'IT']
+Value:  [' parts', ' recovery', ' England', ' highest', '&', ' sides', ' entered', ' groups', 'ating', ' drug']
+#################################################
+Key:  [' forecast', ' cool', ' everything', ' normal', ' simple', ' partners', ' fans', 'pm', 'ES', 'en']
+Value:  ['le', ' cool', ' Three', ' season', ' words', ' Sam', ' sides', ' border', 'So', ' agree']
+#################################################
+Key:  [' keep', 'k', ' increased', ' largest', ' During', ' THE', ' believe', ' food', ' American', ' learned']
+Value:  [' Inc', 'ah', ' After', ' black', ' Jordan', 'ised', 'twitter', ' child', ' AP', ' Europe']
+#################################################
+Key:  [' everything', ' coverage', ' both', ' finding', ' extra', ' box', 'By', ' knew', 'men', ' progress']
+Value:  [' want', ' production', ' far', ' strong', '@', ' Red', ' looks', '�', ' Thomas', ' Carolina']
+#################################################
+Key:  [' summer', ' Church', ' continue', 'u', ' England', ' Two', ' same', ' trying', ' extra', ' nine']
+Value:  [' the', ' Sports', ' miss', ' inflation', ' Sunday', ' Just', ' Singapore', ' England', ' But', 'il']
+#################################################
+Key:  [' keep', 'ah', ' everything', 'By', ' sell', ' defense', 'line', ' men', ' Mexico', ' air']
+Value:  [' arrested', ' parts', ' Jordan', ' Commission', 'UR', ' proposal', ' beautiful', ' Se', ' my', ' Brown']
+#################################################
+Key:  [' everything', ' us', ' Let', ' believe', ' At', ' businesses', ' Germany', ' facility', ' child', ' Financial']
+Value:  [' At', 'il', 'ale', ' Jordan', ' devices', '@', 'AN', 'off', ' parts', ' strong']
+#################################################
+Key:  [' na', ' 34', ' It', 'By', ' possible', ' Now', ' What', ' analyst', ' crude', ' than']
+Value:  [' S', ' Game', ' attended', ' countries', ' qu', ' intelligence', ' Let', ' stay', ' product', ' very']
+#################################################
+Key:  [' keep', ' who', ' debt', 'so', ' sell', 'ats', ' tell', ' crash', ' Jose', ',']
+Value:  [' walk', ' the', ' parts', ' father', ' Media', ' oil', 'ness', 'qu', ' urged', ' TV']
+#################################################
+Key:  [' extra', ' lived', ' keep', ' Institute', ' protect', ' Two', ' na', ' however', ' fifth', ' REUTERS']
+Value:  [' answer', ' Brazil', ' next', ' cross', ' nine', ' Best', 'el', ' 34', 'ien', ' end']
+#################################################
+Key:  [' their', ' Royal', ' keep', ' United', 'Reporting', ' changes', ' history', ' Cup', ' Court', ' and']
+Value:  [';', ' read', 'When', ' produced', ' Health', ' Jordan', ' services', ' answer', ' present', 'ani']
+#################################################
+Key:  [' commitment', ' elections', ' He', '@', ' forecast', ' Central', ' Sept', ' 60', 'u', 'ha']
+Value:  ['il', ' don', ' demand', ' American', ' played', ' 28', ' ongoing', ' waiting', ' Jordan', ' talk']
+#################################################
+Key:  [' finally', ' American', ' energy', ' longer', 'ere', ' education', ' Dec', ' mph', 'ors', ' Martin']
+Value:  [' compared', ' i', ' Investment', ' E', ' O', ' full', ' hasn', ' Cor', ' enforcement', ' An']
+#################################################
+Key:  [' everything', ' Me', ' food', ' hard', ' bringing', ' keep', ' sale', ' go', ' R', ' between']
+Value:  [' Canada', ' 34', ' strong', ' sides', ' par', ' answer', ' It', ' directly', 'ful', 'ica']
+#################################################
+Key:  [' scheduled', ' enforcement', ' Of', ' reportedly', ' bigger', ' believe', '7', 'ion', ' marketing', ' him']
+Value:  [' answer', ' Jordan', ' street', ' next', ' broadcast', ' blood', ' believe', ' parts', 'ci', ' You']
+#################################################
+Key:  [' everything', ' keep', ' believe', ' want', ',', ' Korean', ' Court', ' After', ' Just', ' Photo']
+Value:  [' developed', ' market', 'ia', '-', ' Jordan', ' Public', ' near', ' debt', ' failure', ' units']
+#################################################
+Key:  [' everything', ' calling', ' one', 'P', 'ant', 'land', ' keep', ' elections', ' Institute', ' fan']
+Value:  [' Friday', ' keep', ' Jordan', ' Christmas', ' International', ' Mar', 'month', ' calling', '31', ' your']
+#################################################
+Key:  [' everything', ' elections', ' keep', ' weather', ' history', ' next', ' designed', ' bringing', ' usually', ' Institute']
+Value:  [' Jordan', '27', ' Inc', ' bringing', ' E', ' Amazon', ' Investment', ' victory', 'When', ' found']
+#################################################
+Key:  [' Party', ' scheduled', 'ane', ' North', ' managed', ' who', 'AN', ' O', ' cannot', ' There']
+Value:  [' bringing', ' global', '27', ' Lake', "'m", ' from', ' scheduled', ' Amazon', ' Media', ' those']
+#################################################
+Key:  [' At', ' keep', ' Reuters', ' What', '—', ' difficult', ' herself', 'ley', ' REUTERS', ' there']
+Value:  ['ering', ' speak', ' prices', ' Reuters', ' commercial', ' Their', ' Arizona', ' To', ' walking', ' lose']
+#################################################
+Key:  [' everything', ' beautiful', ' spoke', ' 5', ' keep', ' balance', ' around', 'all', ' beginning', ' cool']
+Value:  [' Arizona', ' lose', ' Stadium', ' who', ' again', ' the', 'le', ' believe', ' seven', 'A']
+#################################################
+Key:  [' risk', ' comes', ' zone', 'ating', ' parts', ' Vegas', ' problems', ' Jose', ' loans', ' trend']
+Value:  [' trend', ' Jordan', ' afternoon', ' keep', ' Ministry', ' Street', ' self', ' solution', ' four', ' Feb']
+#################################################
+Key:  [' keep', ' Sp', ' failure', ' would', ' light', ' forecast', ' weather', ' changed', ' Florida', ' through']
+Value:  [';', "'ve", ' failure', ' tough', ' h', ' necessary', ' College', 'out', ' enforcement', ' Health']
+#################################################
+Key:  [' keep', ' English', 'ing', ',"', ' Institute', ' strong', ' dead', ' product', ' finish', ' actually']
+Value:  [' gas', ' does', ' led', ' request', '19', ' answer', ' sister', ' Reuters', ' Houston', ' became']
+#################################################
+Key:  [' everything', ' keep', ' later', ' w', ' Reuters', ' Martin', ' their', ' release', 'run', ' ']
+Value:  [' Jordan', ' trend', ' next', ' often', 'Â', ' goods', ' Three', ' later', ' delivery', ' surprise']
+#################################################
+Key:  [' keep', 'ized', ' places', ' Le', 'ne', ' Women', ' American', ' despite', 'T', ' human']
+Value:  [' developed', ' facility', ' device', ' Just', ' section', ' Man', ' highest', ' employees', ' American', ' Hall']
+#################################################
+Key:  [' everything', ' storm', ' stay', ' ratings', ' He', 'uh', 'ate', ' Sept', ' 60', ' August']
+Value:  [' Jordan', ' produced', 'ile', ' surprise', ' faces', ' expand', ' Brown', ' speak', 'aj', ' To']
+#################################################
+Key:  [' Their', ' added', ' cloudy', ' secretary', ' office', ' allowed', ' word', ' mental', ' REUTERS', ' Korean']
+Value:  [' office', ' house', ' recorded', ' they', ' enforcement', 'berg', ' Taylor', ' statements', ' build', ' father']
+#################################################
+Key:  [' keep', '…', ' everything', 'per', 'Most', ' Institute', ' Y', ' same', ' weather', ' food']
+Value:  [' worked', 'in', ' legal', ' losing', ' High', ' anything', ' years', ' Bowl', ' parties', 'time']
+#################################################
+Key:  [' everything', ' waiting', 'k', ' lawyer', ' markets', ' primary', ' traditional', ' reason', ' customers', ' leg']
+Value:  [' Jordan', ' market', ' customers', ' third', 'le', ' production', ' After', 'g', 'ind', ' Premier']
+#################################################
+Key:  [' keep', ' son', ' Arizona', 'g', ' certain', ' identify', ' down', ' Washington', ' north', ' finally']
+Value:  [' increased', ' Arizona', ' production', ' Martin', ' parts', ' net', ' re', ' received', ' Cor', ' poor']
+#################################################
+Key:  [' keep', ' o', ' works', ' largely', 'let', ' Chris', ' knew', ' Hill', ' At', ' 34']
+Value:  [' parts', ' answer', ' Arizona', ' mobile', ' Cor', ' analysis', ' plan', ' Virginia', ' agreed', 'el']
+#################################################
+Key:  [' everything', ' enforcement', ' possible', ' art', ' today', ' Matt', ' Bill', ' received', ' window', ' programme']
+Value:  ['le', ' speak', ' Se', ' nearly', ' cool', '(', ' parts', '…', ' loss', ' lose']
+#################################################
+Key:  [' cool', '01', ' Corporation', ' Google', ' 2013', ' Brown', 'ha', ' man', ' effective', ' star']
+Value:  [' parts', ' Sports', ' gas', ' location', ' Z', ' looked', ' h', 'ic', ' still', ' sides']
+#################################################
+Key:  [' keep', ' analyst', ' Valley', ' It', ' environmental', ' Cup', ' Just', ' d', ' Committee', ' media']
+Value:  [' parts', ' developed', ' speak', ' admitted', ' ability', ' training', ' highest', ' devices', ' looks', ' strong']
+#################################################
+Key:  [' keep', 'Most', ' foreign', ' forecast', ' tell', ' feet', ' weather', ' remain', ' commitment', '!"']
+Value:  [' Best', 'ale', ' At', ' items', ' Why', ' developed', ' want', ' Association', 'ica', ' plan']
+#################################################
+Key:  [' Steve', ' act', ' everything', '�', ' appeal', ' powerful', ' *', ' His', ' keep', ' reporters']
+Value:  ['�', ' His', ' Jordan', ' act', ' analysis', ' parts', 'le', ' cool', ' nearly', ' respect']
+#################################################
+Key:  ['ats', ' R', ' significant', ' Matt', ' keep', ' Now', ' four', 'AN', ' He', 'By']
+Value:  [' answer', ' economic', 'When', ' un', ' Rock', ' third', ' An', ' strong', ' initial', ' Bay']
+#################################################
+Key:  [' everything', ' Con', ' Sch', 'il', ' keep', 'Photo', ' 60', ' were', 'ary', ' High']
+Value:  [' Jordan', ' near', 'es', ' parts', ' spending', ' developed', ' arrested', 'Photo', ' seven', 'ter']
+#################################################

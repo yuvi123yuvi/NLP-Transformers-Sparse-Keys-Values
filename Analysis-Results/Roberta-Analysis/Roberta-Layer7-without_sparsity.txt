@@ -1,0 +1,302 @@
+Results for Roberta - Layer 7 - Without Sparsity
+-----------------------------------------
+Key:  ['ic', ' reports', ' able', ' love', ' t', ' her', ' new', ' There', ' 13', ' according']
+Value:  [' phone', ' markets', ' Executive', ' remain', ' weekend', ' measure', ' streets', 'G', 'ings', ' der']
+#################################################
+Key:  [' love', ' U', 'R', ' little', ' F', ' One', ' 2018', ' would', ' getting', ' taking']
+Value:  [' waiting', ' Report', ' America', ' signs', ' asked', ' official', ' m', 'ry', ' r', ' weapons']
+#################################################
+Key:  [' B', ' to', ' hit', ' not', ' After', ' N', ' was', ' things', 'in', '�']
+Value:  ['ats', ' waiting', 'ir', ' official', ' markets', ' $', 'ys', ' federal', ' r', ' recovery']
+#################################################
+Key:  [' came', ' need', ' West', ' companies', ' Ch', ' go', ' post', ' women', ' me', ' very']
+Value:  [' markets', ' stock', ' m', ' actions', 'ir', ' waiting', ' federal', ' Report', ' longer', 'ide']
+#################################################
+Key:  [' However', ' due', ' were', ' right', 'z', ' minutes', ' 5', ' media', ' 2016', 'ly']
+Value:  [' markets', ' longer', ' Report', 'is', ' work', ' story', ' just', "'m", ' Arizona', ' fuel']
+#################################################
+Key:  [' as', ' U', ' 2', 'p', ' statement', ' four', 'ley', ' was', ' again', ' While']
+Value:  [' Report', 'ep', ' walking', ' Community', ' attorney', ' actions', 'is', ' communities', 'He', ' location']
+#################################################
+Key:  [' love', ' Sunday', 'the', ' hit', ' She', ' All', ' United', ' 0', ' cent', ' following']
+Value:  [' Photo', ' Miami', ' Global', ' series', ' foot', ' waiting', ' out', ' understand', ' found', 'ier']
+#################################################
+Key:  [' other', ' countries', 'y', ' 9', ' taken', ' when', ' National', ' members', ' including', ' need']
+Value:  [' systems', ' vice', 'ed', ' phone', ' treated', ' actions', ' they', ' amount', 'ep', ' Lake']
+#################################################
+Key:  [' low', ' without', 'in', ' live', ':', ' n', ' given', ' had', ' change', ' call']
+Value:  [' talks', 'ed', 'ir', ' trade', ' film', ' school', ' Re', ' Spain', ' countries', ' additional']
+#################################################
+Key:  [' federal', ' using', ' after', ' e', 'The', ' -', ' law', ' V', ' cent', ' outside']
+Value:  [' longer', ' Kevin', ' accounts', ' camera', ' sure', ' phone', ' planned', 'ne', ' doubt', ' best']
+#################################################
+Key:  [' some', ' players', ' cent', 'This', ' November', ' decision', ' from', 're', ' points', ' H']
+Value:  [' r', ' president', 'ting', ' L', ' NBA', ' environmental', 'UR', ' college', ' European', ' just']
+#################################################
+Key:  [' expected', 'ly', ' taking', 'f', ' rating', ' far', ' water', ' working', ' where', ' With']
+Value:  [' r', ' treated', ' actions', 'ed', 'og', ' computer', 'In', ' camera', ' families', ' balance']
+#################################################
+Key:  ['ad', ' two', ' Twitter', ' as', 'f', ' St', ' out', ' price', ' know', ' known']
+Value:  [' federal', ' Report', ' vice', ' amid', ' toward', 'ven', ' r', ' Inc', ' stock', 'ft']
+#################################################
+Key:  ['00', 'H', ' want', ' time', ' And', ' May', ' political', 're', ' 2018', ' k']
+Value:  [' stock', ' treated', 'Â', ' attorney', 'ep', ' president', ' estate', 'ics', ' located', ' toward']
+#################################################
+Key:  [' report', ' �', ' may', ' best', ' cost', ' S', ' You', ' T', ' To', " '"]
+Value:  [' r', ' Report', ' stock', ' actions', ' remains', 'ane', 'ir', ' through', ' receiving', ' Mexico']
+#################################################
+Key:  [' 2', ' they', '</s>', ' C', 'he', ' P', ' time', ' third', ' If', ' between']
+Value:  [' recent', "'m", ' remains', 'ians', ' details', ' professional', ' standards', 'ane', ' phone', ' however']
+#################################################
+Key:  [' president', ' going', ' Tuesday', '0', 'ar', ' seen', 'e', ' their', 'l', ' President']
+Value:  [' treated', ' toward', ' services', ' stock', ' Christmas', ' administration', ' same', ' proposed', 'ir', ' personal']
+#################################################
+Key:  [' include', ' without', ')', 'ch', 'man', ' students', ' men', ' pay', ' home', 'im']
+Value:  [' actions', ' stock', 'ir', ' vice', ' trust', ' park', 'j', 'ys', ' r', ' S']
+#################################################
+Key:  ['ak', ' China', ' decision', '4', ' �', 'k', ' V', ' New', ' looking', ' less']
+Value:  [' markets', ' Report', ' camera', ' just', ' computer', 'ide', ' foot', ' moving', ' bit', ' Group']
+#################################################
+Key:  [' 2', ' how', 'S', ' On', ' However', ' led', ' oil', 'el', ' history', ' issues']
+Value:  ['is', ' $', ' toward', ' president', 'Â', ' vice', ' Group', ' stock', ' Report', ' main']
+#################################################
+Key:  [' 2015', 'k', ' people', ' 3', ' State', 'man', ' win', ' since', ' best', ' full']
+Value:  ['My', ' camp', ' actions', 'ut', ' safe', ' r', ' save', 'ney', ' its', ' weapons']
+#################################################
+Key:  [' before', ' But', ' released', ' its', ' here', ' 2017', ' following', ' these', 'K', ' there']
+Value:  [' #', ' part', ' remain', ' 200', ' discovered', ' fun', ' session', ' camera', 'E', ' 31']
+#################################################
+Key:  [' need', ';', ' really', 'ch', ' support', ' school', ' Z', ' experience', ' added', ' side']
+Value:  [' Report', ' actions', 'ane', ' treated', ' Group', ' federal', ' m', 'ed', ' toward', ' weapons']
+#################################################
+Key:  [' need', ' here', 'am', 'man', ' is', ' State', ' together', ' team', ' C', ' New']
+Value:  [' m', ' r', ' markets', ' $', ' company', ' actions', ' stock', ' word', 'ad', 'ide']
+#################################################
+Key:  [' State', ' second', 'E', ' own', ' between', ' support', ' J', ' seen', ' they', ' 3']
+Value:  [' dividend', ' remains', ' toward', 'ons', 'ed', ' asking', ' area', ' goes', 'ina', ' Christmas']
+#################################################
+Key:  [' most', ' could', ' him', 'j', '!', ' report', ' May', ' important', ' plans', 'L']
+Value:  [' learned', ' hotel', ' host', ' Jordan', 'end', ' its', ' for', ' consumer', ' $', ' x']
+#################################################
+Key:  [' 2015', ' may', ' K', ' within', ' released', ' 21', ' help', 't', ' Department', ' police']
+Value:  ['ats', ' experienced', ' Group', ' vice', ' your', 'ner', 'our', ' one', ' How', 'ill']
+#################################################
+Key:  [' here', ' city', ' an', ' One', 'I', ' man', ' American', ' issue', ' did', ' She']
+Value:  ['E', ' estate', ' vice', ' mark', ' m', 'ide', ' part', ' treated', ' waiting', ' balance']
+#################################################
+Key:  [' year', ' support', ' total', ' history', ' New', ' I', ' -', 'This', ' whether', ' your']
+Value:  [' surgery', ' federal', ' vice', "'m", ' stock', ' treated', 'ane', ' trust', ' uses', ' leave']
+#################################################
+Key:  [' face', ' financial', ' The', ' past', ' strong', ')', ' even', ' provide', ' so', ' But']
+Value:  [' federal', ' stock', ' weapons', ' Report', ' earnings', 'ats', ' Group', 'oy', ' events', ' phone']
+#################################################
+Key:  [' If', 'ly', ' released', ' One', ' While', ' continue', ' What', ' so', ' work', ' US']
+Value:  [' federal', ' get', ' vice', ' intelligence', ' feet', ' committee', 'Photo', ' actor', ' testing', ' latest']
+#################################################
+Key:  [' State', 'k', ' members', ' 3', 'el', ' other', 'in', ' and', ' of', ' here']
+Value:  [' vice', ' word', 'ide', ' actions', ' Re', 'is', ' Is', 'ane', ' Group', ' federal']
+#################################################
+Key:  [' No', ' change', 'us', 'i', ' work', ' better', 'm', ' to', 'ak', ' That']
+Value:  [' common', ' Ch', ' Christmas', ' Christian', ' Google', 'end', ' Management', ' H', ' kids', ' homes']
+#################################################
+Key:  [' Friday', ' recently', ' own', ' its', ' latest', ' K', ' his', ' home', ' along', ' To']
+Value:  [' treated', ' attorney', ' camera', ' vice', 'ir', 'izing', ' word', ' Army', ' yet', ' markets']
+#################################################
+Key:  ['a', ' far', ' American', ' others', 'We', ' put', ' while', ' According', ' N', ' South']
+Value:  [' Group', ' treated', 'ide', ' games', 'ed', ' m', 'is', ' leave', ' experienced', ' weapons']
+#################################################
+Key:  [' expected', 'H', ' taking', ' 2', ' city', ' 30', 'ur', ' coming', ' media', ' To']
+Value:  [' cover', ' your', ' federal', ' remain', ' vice', ' fast', '7', ' waiting', ' returned', ' series']
+#################################################
+Key:  [' find', ' released', ' others', ' government', ' game', ' person', 'L', ').', ' during', ' love']
+Value:  [' markets', ' plant', ' wide', ' strong', 'end', ' deals', ' Miami', ' get', 'art', 'ire']
+#################################################
+Key:  [' able', ' market', ' over', '/', ' job', ' play', ' we', ' company', ' plan', ' development']
+Value:  [' $', 'So', ' Miami', ' weapons', ' Christmas', ' considering', ' --', ' remain', ' Lake', ' camera']
+#################################################
+Key:  [' I', ' statement', ' security', 'e', ' without', ' further', ' Monday', ' Friday', ' now', ' market']
+Value:  [' longer', 'ir', ' federal', ' toward', 'ond', ' Group', ' Report', ' power', 'way', ' Start']
+#################################################
+Key:  ['C', ' seen', ' make', ' though', ' York', ' clear', ' down', ' director', ' used', ' 18']
+Value:  [' computer', ' federal', ' m', ' proposed', ' done', 'AM', ' vice', ' found', ' wide', ' stock']
+#################################################
+Key:  [' To', 'C', ' likely', ' done', ' least', '</s>', ' S', ' market', ' total', ' local']
+Value:  [' markets', ' numbers', ' run', 'un', ' toward', ' president', ' Your', ' r', ' season', ' officers']
+#################################################
+Key:  [' told', ' record', ' members', ' next', ' national', 'up', ' December', ' 13', ' de', ' G']
+Value:  [' actions', 'ir', ' Report', ' services', ' m', ' stock', ' computer', ' Arizona', 'ane', ' country']
+#################################################
+Key:  ['<s>', ' able', ' 16', ' lot', '),', 'im', ' even', ' until', ' include', ' June']
+Value:  [' feel', ' Lake', ' blue', 'en', ' long', 'uk', ' arrested', ' European', 'ent', ' warned']
+#################################################
+Key:  ['p', ' US', 'z', ' One', ' But', ' season', ' In', ' support', ' behind', ' 0']
+Value:  [' mark', ' federal', ' Kevin', ' road', ' offering', ' camera', ' remaining', ' massive', ' Central', 'ated']
+#################################################
+Key:  ['K', ' at', ' ever', ' six', ' event', ' than', 'k', ' report', ' plans', ' court']
+Value:  [' found', ' word', ' right', 'uk', 'ai', ' fire', ' part', ' developed', ' firms', 'UR']
+#################################################
+Key:  [' president', ' would', ' 100', ' 15', ' now', ' thing', ' v', ' all', ' US', ' students']
+Value:  [' recovery', 'is', ' toward', ' key', ' cover', ' camera', ' fans', ' returned', ' discovered', ' Turkey']
+#################################################
+Key:  ['d', ' need', ' 21', ' more', ' on', ' believe', ' just', ' since', ' many', ' t']
+Value:  ['end', ' treated', ' just', ' estate', 'AM', 'ent', 'uk', ' camera', ' name', 'is']
+#################################################
+Key:  [' love', ' working', ' out', ' oil', ' Z', ' 2016', ' 24', ' lead', 'E', 'u']
+Value:  [' experienced', ' blue', '21', ' federal', ' markets', ' attorney', ' president', ' existing', 'ment', ' whether']
+#################################################
+Key:  [' 24', ' her', 'the', '9', 'S', ' person', ' oil', ' at', ' which', ' director']
+Value:  ['ner', ' Executive', ' r', 'P', ' for', ' mission', 'ide', ' because', ' minute', ' actions']
+#################################################
+Key:  ['."', ' so', 'G', ' but', ' financial', ' released', ' 0', ' president', ' You', ' former']
+Value:  [' r', 'ir', ' toward', ' just', ' services', ' stock', ' vice', ' camera', 'R', 'AM']
+#################################################
+Key:  [' any', ' going', ' 0', ' would', ' To', ')', ' seen', ' over', ' work', ' continue']
+Value:  ['is', 'ed', ' stock', 'ane', ' federal', ' company', ' m', ' r', ' markets', ' couldn']
+#################################################
+Key:  [' service', ' higher', 'im', ' story', 'ia', ' their', ' state', ' seen', ' City', ' Twitter']
+Value:  [' Army', ' receiving', ' If', ' allegations', ' spring', 'game', ' probably', ' Coast', ' killing', ' disease']
+#################################################
+Key:  [' possible', ' k', ' point', ' food', ' feel', 'm', 'i', ' which', ' face', ' a']
+Value:  [' Lake', ' Miami', 'is', 'en', ' for', ' m', ' victim', ' sure', ' shared', ' arrested']
+#################################################
+Key:  [' One', 'P', ' If', ' place', ' lost', ' support', ' working', 'M', ' statement', ' last']
+Value:  [' just', ' vice', "'m", ' federal', ' countries', ' flight', 'is', ' services', ' center', 'U']
+#################################################
+Key:  [' love', '%', ' $', ' before', '</s>', ' head', ' To', ' become', 'on', '�']
+Value:  ['is', ' Lake', '.', ' services', 'ert', ' actions', 'res', ' markets', ' Kh', ' located']
+#################################################
+Key:  [' is', 'ie', ' Monday', ' Inc', ' building', ' process', ' F', ' San', ' around', ' 21']
+Value:  [' r', ' fuel', ' piece', ' toward', 'is', ' estate', ' word', ' enforcement', ' dividend', 'au']
+#################################################
+Key:  [' strong', ' South', ' While', ' season', ' another', ' rating', ' local', ' percent', 'le', 'to']
+Value:  [' wide', ' Michael', 'na', ' committee', ' understand', ' feet', ' C', 'Our', ' whatever', ' Sept']
+#################################################
+Key:  ['%', ' With', ' front', ' what', ' taking', ' plan', ' community', ' not', '9', ' done']
+Value:  [' stock', ' blue', ' vice', ' tech', ' Report', ' longer', ' America', ' season', ' m', ' services']
+#################################################
+Key:  [' 17', ' high', ' $', ' York', 'et', 'u', ' water', 'im', ' least', ' total']
+Value:  [' college', ' waiting', ' camera', ' key', ' residents', ' considering', ' Report', '/', ' request', ' IN']
+#################################################
+Key:  [' 21', ' away', ' key', ' top', 'v', ' says', ' most', 'a', ' services', ' times']
+Value:  [' camera', ' federal', 'ir', ' Report', ' feel', 'ill', ' r', ' m', "'m", ' services']
+#################################################
+Key:  [' which', 'il', ' 4', ' don', ' came', ' security', ' already', ' doesn', ' video', ' keep']
+Value:  [' $', ' your', ' attorney', ' programme', ' toward', ' markets', 'is', ' After', ' stock', ' host']
+#################################################
+Key:  [' next', ' am', ' sure', ' make', ' then', ' 5', ' cent', ' One', ':', 'F']
+Value:  ['ir', 'ond', ' m', 'ane', ' stock', 'ide', ' Group', ' vice', ' blue', 'h']
+#################################################
+Key:  [' global', ' For', ' your', 'up', ' 2', ' Police', ' some', ' share', ' several', ' building']
+Value:  [' feel', ' training', ' remains', ' 5', ' warned', 's', ' actions', ' stock', ' because', ' walking']
+#################################################
+Key:  ['E', ' won', ' some', 're', 'the', ' your', ' others', ' issue', ' If', ' so']
+Value:  [' treated', ' federal', ' word', ' camera', 'ir', ' French', ' environmental', ' Mark', ' just', 'ra']
+#################################################
+Key:  [')', ' but', ' later', ' see', ' once', ' played', ' US', ' de', 'os', ' City']
+Value:  [' services', ' m', 'ide', 'ane', ' mark', ' Executive', ' events', 'ity', '"', ' longer']
+#################################################
+Key:  [' behind', ' held', ' 2', ' 30', ' continue', 'g', ' would', 'old', ' said', ' John']
+Value:  ['U', ' Lake', ' r', ' #', 'ans', ' Week', ' because', ' school', ' living', ' him']
+#################################################
+Key:  ['C', ' work', 'el', ' While', ' Tuesday', ' where', "'ll", '�', ' were', ' another']
+Value:  [' smart', 'ir', ' X', ' mark', ' wide', ' earnings', ' sister', ' An', ' member', 'game']
+#################################################
+Key:  [' rate', ' State', ' water', 'C', ').', ' 2', 'to', ' order', ' man', 'el']
+Value:  [' federal', ' Report', ' m', ' waiting', ' positions', ' toward', 'ide', ' company', ' trust', ' vehicle']
+#################################################
+Key:  [' when', ' rate', ' again', ' young', ' National', ' 2015', ' another', ' continue', '�', ' about']
+Value:  [' treated', 'uk', ' director', ' waiting', ' claimed', ' Chicago', ' Group', ' the', ' remain', ' Bar']
+#################################################
+Key:  [' issue', ' J', ' thing', ' done', '9', ' number', ' really', ' You', ' oil', ':']
+Value:  [' r', ' 2010', ' $', ' Corporation', ' energy', ' actions', 'So', ' stock', ' original', ' social']
+#################################################
+Key:  [' development', ' security', '.,', ' they', ' C', ' North', ' business', 'us', ' won', ' people']
+Value:  [' attorney', ' da', ' news', '22', ' responded', ' never', ' m', ' August', ' advice', ' They']
+#################################################
+Key:  [' It', 'ë', ' need', ' set', ' t', ' still', ' R', ' While', ' high', ' right']
+Value:  [' services', ' actions', 'ane', ' college', 's', ' attorney', ' camera', ' bit', 't', ' Your']
+#################################################
+Key:  [' York', 'le', 'H', ' young', ' rate', ' able', 'at', ' my', ' million', 'ur']
+Value:  [' r', ' markets', ' mark', 'is', ' vice', ' paying', ' Group', 'ors', ' college', ' Chris']
+#################################################
+Key:  [' 2018', '9', ' being', ' 4', 'p', ' than', ' 5', ')', 'ak', ' be']
+Value:  [' core', ' stock', ' word', ' services', ' weapons', ' federal', ' games', ' space', ' approved', ' America']
+#################################################
+Key:  [' And', ' am', "'m", ' --', ' being', '%', ' our', ' Police', ' but', ' during']
+Value:  [' Miami', ' balance', ' ahead', ' estate', ' just', ' calls', ' stories', ' revenue', 'ization', ' mission']
+#################################################
+Key:  [' was', ' done', ' high', ' thing', '."', ' played', ' never', ' where', ' they', ' half']
+Value:  [' m', ' professional', 'ane', ' treated', ' watching', ' vice', 'ians', ' recent', ' college', ' whether']
+#################################################
+Key:  [' director', ')', ' hit', ' said', ' on', ' was', ' Inc', ' good', ' statement', ' 0']
+Value:  [' treated', ' longer', ' toward', ' America', 'ir', ' vice', 'ma', ' prevent', ' biggest', ' Paris']
+#################################################
+Key:  [' don', ' much', ' sure', ' started', ' former', '<s>', 'ed', 'E', ' K', ' based']
+Value:  [' forces', ' blue', ' Corp', 'em', ' segment', ' anyone', ' $', ' treated', 'ter', ' college']
+#################################################
+Key:  [' also', '<pad>', ' 2018', ' look', 'ak', ' again', ' open', ' went', ' 2016', ' name']
+Value:  [' attorney', "'m", ' vice', ' markets', ' Report', ' services', 'ide', ' camera', ' r', ' m']
+#################################################
+Key:  [' seven', 'G', ' what', ' got', ' woman', ' comes', ' 3', ' week', ' North', ' (']
+Value:  [' actions', ' federal', ' Report', ' markets', 'ane', ' m', ' weapons', ' r', 'ed', ' toward']
+#################################################
+Key:  [' law', ' 2016', ' 2', '0', 'com', 'f', ' American', ' In', ' there', ' another']
+Value:  [' $', 'uk', ' since', 'is', 'ane', ' my', 'old', '3', 'ger', ' countries']
+#################################################
+Key:  [' week', ' South', "'", ' Trump', ' then', 're', ' news', ' provide', ' without', 'G']
+Value:  [' Report', ' federal', ' m', ' toward', ' r', ' Group', ' longer', 'is', ' weapons', ' L']
+#################################################
+Key:  [' water', ' likely', 'g', 'D', ' high', '-', 'et', ' because', 'ch', ' service']
+Value:  [' same', 'men', ' information', ' --', ' waiting', ' smaller', ' Group', ' stock', ' camera', 'h']
+#################################################
+Key:  [' an', 's', ' M', 'C', ' News', 'ly', ' around', ' high', '4', ' such']
+Value:  [' Group', ' film', ' m', ' president', ' £', 'ep', ' Start', ' Report', ' treated', ' environmental']
+#################################################
+Key:  [' face', ' experience', ' December', '8', ' [', ' 11', ' are', ' One', ' 50', ' early']
+Value:  [' estate', ' vice', 'ane', ' woman', ' weapons', ' After', ' America', ' cover', 'ide', 'ans']
+#################################################
+Key:  [' data', 'al', ' which', 'I', ' should', ' second', ' and', ' make', ' best', ' fire']
+Value:  [' experienced', ' markets', 'is', ' stock', ' weapons', ' Paul', ' standards', ' m', ' details', ' piece']
+#################################################
+Key:  [' forward', ' has', ' little', '30', ' 2017', ' its', ' three', ' family', ' run', ' though']
+Value:  ['29', ' federal', ' Our', ' energy', 'ath', ' markets', ' light', ' least', ' creating', ' agree']
+#################################################
+Key:  [').', ' released', 'el', ' water', 'in', '<s>', ' hit', 'This', ' find', ' come']
+Value:  [' just', ' experienced', ' main', ' longer', ' creating', 'ir', ' markets', "'m", ' retail', ' word']
+#################################################
+Key:  [' any', 'an', ' system', ' want', ' &', ' R', ' things', ' those', ' there', ' too']
+Value:  ['29', ' estate', ' enforcement', ' stock', ' vice', ' --', ' bit', ' around', ' White', 'h']
+#################################################
+Key:  [' expected', ' will', ' Trump', ' game', ' With', '�', ' water', ' another', ' C', ' me']
+Value:  ['ai', ' m', ' •', ' baby', ' This', ' Lake', ' toward', 'na', 'ated', ' flight']
+#################################################
+Key:  ['1', ' States', ' line', ' between', ' 24', ' We', ' cent', ' its', ' great', ' which']
+Value:  [' stock', 'ane', ' federal', ' services', 'is', ' experienced', 'Â', ' dividend', ' School', ' 35']
+#################################################
+Key:  [' working', 'ia', ' market', ' 30', ' president', ' hard', ' being', ' L', 'k', ' believe']
+Value:  [' attorney', ' r', ' through', 'is', ' m', 'our', ' Google', ' cover', ' college', 'ats']
+#################################################
+Key:  ['ch', ' where', ' several', '00', '!', ' late', 'u', ' something', ' people', ' percent']
+Value:  [' federal', ' r', "'m", ' stock', ' toward', ' markets', ' sk', 'is', ' energy', ' winter']
+#################################################
+Key:  ['p', ' hit', 're', ' average', 'g', ' found', 'le', '),', ' never', ' financial']
+Value:  [' toward', ' Report', ' stock', ' r', ' college', 'Â', 'is', ' m', 'ond', 'ide']
+#################################################
+Key:  [' change', ' school', 'G', '%', ' weeks', '1', ' return', ' announced', ' $', "'ve"]
+Value:  ['ir', ' woman', 'P', ' shared', ' training', ' minute', ' social', ' because', ' weapons', ' near']
+#################################################
+Key:  [' before', ' expected', ' full', ' among', ' outside', ' market', ' doesn', ' service', ' fire', '<unk>']
+Value:  [' m', ' experienced', ' college', ' Report', ' word', 'You', ' actions', ' stock', ' existing', 'ond']
+#################################################
+Key:  ['it', "'t", ' $', 'ed', ' due', ' position', ' video', ' shares', ' C', ' "']
+Value:  [' feet', ' camera', ' recently', ' vice', ' Bar', ' federal', 'ES', ' immediately', ' guard', ' services']
+#################################################
+Key:  [' president', 'h', ' years', ' current', '...', ' day', ' three', '�', ' government', 'le']
+Value:  [' treated', ' markets', ' actions', ' too', ' weapons', 'way', ' supporters', 'se', ' appeared', ' Group']
+#################################################
+Key:  ['ley', 'N', ' going', ' head', 'ers', 'com', ' three', ' front', ' company', ' [']
+Value:  [' mark', ' Fox', 'ir', ' economy', ' road', ' committed', ' m', ' na', ' combined', ' cloudy']
+#################################################
+Key:  [' St', ' service', ' To', ' job', '?', 'P', ' F', ' recent', 'o', ' n']
+Value:  ['ir', ' federal', ' camera', ' vice', 'ill', 'ast', ' designed', '"', ' stated', 'ven']
+#################################################

@@ -1,0 +1,302 @@
+Results for Roberta - Layer 9 - Without Sparsity
+-----------------------------------------
+Key:  [' behind', ' late', ' government', ' president', ' use', ' week', ' held', ' time', 'o', 'R']
+Value:  [' carry', 'qu', ' seeking', ' cars', ' basis', ' elections', ' Party', ' Times', ' removed', ' placed']
+#################################################
+Key:  [' behind', 'z', ' record', 'ing', ' small', 'k', ' how', ' S', ' issues', 'M']
+Value:  ['29', ' twice', ' meet', 'ings', ' wish', 'se', 'ach', ' From', ' completely', 'uf']
+#################################################
+Key:  ['ve', ' through', ' State', 'at', ' less', ' un', ' John', ' told', ' d', 'al']
+Value:  [' leader', ' Google', ' placed', ' People', ' Sh', ' session', ' focused', ' Of', ' Although', ' gets']
+#################################################
+Key:  [' water', ' I', ' next', ' federal', ' pay', 'ers', ' 2018', ' than', 'The', ' members']
+Value:  [' twice', ' kids', ' looking', ' helping', 'ka', 'ally', ' difference', ' Attorney', ' provides', ' Press']
+#################################################
+Key:  [' would', 'ar', ' better', ' her', ' statement', ' days', '%', ' they', 'AP', 'j']
+Value:  [' kids', ' documents', ' contact', ' stars', ' goals', ' protection', ' Robert', ' funds', ' increasing', ' attacks']
+#################################################
+Key:  [' St', 'This', ' thing', ' lot', ' her', ' much', ' High', ' added', 'le', ' we']
+Value:  ['als', ' programs', ' book', ' William', ' almost', ' dropped', ' Foundation', ' assets', "'", 'A']
+#################################################
+Key:  [' lead', ' S', ' 3', ',', ' un', '.,', ' season', ' able', ' any', ' three']
+Value:  ['ens', ' worked', ' Attorney', '_', ' special', ' Lee', ' attacks', ' allowed', ' committed', ' Those']
+#################################################
+Key:  [' expected', ' should', ' across', ' year', ' statement', ' used', ' between', ' love', ' come', ' increase']
+Value:  ['j', ' funds', ' kids', ' focus', ' June', ' status', ' south', ' below', ' pre', ' Peter']
+#################################################
+Key:  [' here', ' president', ' well', 'up', 'the', ' meeting', ' man', ' season', ' 6', ' keep']
+Value:  [' funds', 'uf', ' Army', '�', ' kids', 'al', ' twice', ' process', ' challenge', ' himself']
+#################################################
+Key:  [' North', 'v', ' reports', ' close', ' lot', 'H', ' 50', ' rights', 'im', ' released']
+Value:  [' standards', ' Facebook', ' daily', ' moved', ' Tuesday', ' mental', 'day', ' losses', ' Real', ' William']
+#################################################
+Key:  [' released', ' again', ' However', ' continue', ' team', ' 18', 'in', ').', 'old', ' members']
+Value:  [' kids', ' rising', ' along', ' accused', ' Real', ' Lee', ' Sc', ' Energy', ' Wall', ' twice']
+#################################################
+Key:  [' likely', "'ve", ' time', ' put', ' around', ' didn', ' must', ' right', ' major', ' use']
+Value:  ['als', ' States', ' twice', ' one', 'ED', ' son', ' looking', ' working', ' documents', 'month']
+#################################################
+Key:  [' North', ' billion', ' lost', ' 30', 'es', ' look', ' job', ' doesn', ' see', ' total']
+Value:  [' thought', ' doing', ' valued', ' due', ' Google', ' 2009', ' noted', ' however', ' Jones', ' L']
+#################################################
+Key:  [' win', '2', 'ers', ' well', ' from', ' under', ' did', ' seen', '...', ' earlier']
+Value:  [' reporting', ' spend', ' risks', ' pull', 'ger', ' file', ' presence', ' brain', ' moving', ' doing']
+#################################################
+Key:  [' use', ' government', ' 18', ' might', ' One', ' While', ' win', 'st', ' expected', ' F']
+Value:  [' kids', 'ack', ' one', 'za', ' Since', ' scheduled', 'ings', 'ens', ' brain', ' Russia']
+#################################################
+Key:  [' After', ' Trump', ' ever', ' with', ' games', ' time', ' United', ' b', ' little', 'ur']
+Value:  ['300', ' lack', 'als', ' programme', ' der', ' accused', ' programs', ' sc', ' kids', ' hour']
+#################################################
+Key:  ['k', ' high', ' open', ' always', ' possible', ' your', ' we', ' Department', ' become', ' as']
+Value:  ['als', ' kids', ' Community', 'j', ' wait', ' son', ' segment', ' Jones', ' fired', ' Virginia']
+#################################################
+Key:  [' know', ' will', ' issues', ' believe', ' local', ' off', ' go', ' area', ' left', '"']
+Value:  [' Sc', ' visit', ' kids', ' House', ' core', ' student', 'io', ' Of', ' remain', ' shut']
+#################################################
+Key:  ['v', '?', ' keep', ' rights', ' 19', ' deal', ' statement', ' 13', ' month', ' University']
+Value:  [' doing', ' kids', ' central', ' parties', ' remained', ' #', ' fall', ' nation', ' follow', 'ies']
+#################################################
+Key:  [' 2015', ' today', ' which', ' change', ' known', ' within', 'it', ' No', ' international', '30']
+Value:  [' documents', ' Robert', ' stars', ' lack', ' was', ' reporting', ' contact', ' are', 'ort', ' session']
+#################################################
+Key:  [' According', ' open', ' quarter', 'C', ' played', ' she', ' available', ' call', ' de', ' high']
+Value:  [' funds', ' feeling', ' kids', ' does', ' condition', ' article', 'ens', ' Year', ' feels', 'ay']
+#################################################
+Key:  [' with', ' campaign', 'd', ' York', ' three', ' &', ' which', ' case', ' billion', ' death']
+Value:  [' chairman', ' kids', ' baby', 'ort', ' save', ' 34', 'off', ' once', ' add', ' 2015']
+#################################################
+Key:  [' behind', ' won', ' people', 'man', ' president', ' John', ' January', ' asked', ' water', 'k']
+Value:  [' kids', ' Army', ' provides', 'P', ' attacks', ' manufacturing', ' in', ' recovery', ' Coast', ' parking']
+#################################################
+Key:  [' State', ' rate', ' young', ' Z', ' top', 'man', ' University', ' being', ' New', ' year']
+Value:  [' standards', ' attacks', ' were', ' overall', ' Sp', 'ok', ' account', ' brand', 'air', ' Lee']
+#################################################
+Key:  [' project', ' I', ' deal', ' international', ' our', ' July', ' It', ' May', 'The', ' then']
+Value:  [' funds', ' 300', ' internet', ' book', ' investment', 'ID', ' Share', 'ore', ' Image', ' how']
+#################################################
+Key:  [' which', ' will', ' second', ' were', ' once', ' 17', ' You', ' players', ' If', ' 30']
+Value:  [' twice', ' we', 'ens', ' son', ' stopped', ' Chicago', ' Capital', ' e', ' process', 'l']
+#################################################
+Key:  [',', '<s>', ' 100', ' months', 'to', ' taking', ' R', ' rating', ' I', ' home']
+Value:  [' himself', ' second', ' States', ' thinking', 'le', ' version', 'ig', ' details', ' exactly', 'id']
+#################################################
+Key:  [' and', ' P', ' much', ' live', ' 14', 'h', ' left', ' When', ' asked', ' won']
+Value:  [' session', ' Te', ' attempt', ' Lee', ' Commission', ' traffic', ' trade', ' residents', ' Star', ' King']
+#################################################
+Key:  [' following', ' Sunday', ' very', '7', '00', ' American', ' into', ' 17', ' v', ' my']
+Value:  ['berg', ' standards', ' squad', 'S', ' proposed', 'ation', '?', ' medical', ' 22', ' book']
+#################################################
+Key:  [' down', ' 2', ' that', "'ve", ' they', ' Mr', ' P', ' working', 'j', ' It']
+Value:  ['S', ' transfer', 'ID', ' Daniel', ' kids', ' friends', ' documents', ' stopped', ' if', 'ens']
+#################################################
+Key:  [' being', ' available', ' how', ' well', ' near', ' cost', ' t', ' love', ' 2', ' who']
+Value:  [' book', ' kids', ' w', '15', 's', ' Colorado', ' does', 'ians', ' helping', ' Although']
+#################################################
+Key:  [' women', ' provide', ' 3', ' &', ' --', ' weeks', ' year', ' might', ' Sunday', ' minutes']
+Value:  [' kids', ' Peter', ' tax', ' added', ' costs', ' del', ' Africa', ' sides', ' debt', ' perform']
+#################################################
+Key:  ["'t", ' S', ' an', ' point', 'ch', ' person', ' of', ' financial', ' saying', ' on']
+Value:  ['We', ' period', 'ron', 'u', 'age', ' accused', ' a', '�', ' commitment', ' ensure']
+#################################################
+Key:  ['...', ' need', ' A', ' best', ' but', ' after', ' 20', ' Facebook', ' provide', ' County']
+Value:  ['al', 'ation', ' chairman', 'et', 'D', ' Capital', ' medical', ' spend', ' session', ' Te']
+#################################################
+Key:  [' least', ' months', ' program', 'The', 'j', ' work', ' $', ',"', 'ers', ' early']
+Value:  [' kids', ' spend', ' looking', ' catch', ' twice', ' straight', ' £', ' one', ' conference', 'ens']
+#################################################
+Key:  [' support', ' live', 'N', ' M', '://', ' director', ' due', ' between', 'am', ' than']
+Value:  [' process', ' People', ' course', ' reports', ' decisions', ' removed', '/', 'yard', ' Jackson', ' 300']
+#################################################
+Key:  [' over', 'ar', ' Z', 'el', ' 2018', ' Wednesday', ' p', ' c', ' going', ' It']
+Value:  [' challenge', ' assets', ' funds', ' placed', ' leader', ' character', ' sixth', ' gas', ' 28', ' host']
+#################################################
+Key:  [' 3', ' two', ' West', ' campaign', 'We', ' half', 'en', ' area', '7', ' shot']
+Value:  [' standards', ' date', ' ready', ' Te', ' cases', 'wa', ' carried', ' article', 'K', ' Minister']
+#################################################
+Key:  [' fire', ' election', ' it', ' they', ' However', ' able', 'B', ' any', ' 30', ' here']
+Value:  [' protection', ' funds', ' risks', ' dropped', ' g', ' K', ' pull', 'for', ' Texas', ' Middle']
+#################################################
+Key:  [' take', ' others', ' led', ' 4', ' won', ' that', ' fire', ' next', "'s", ' sales']
+Value:  [' stuff', ' driving', ' makes', ' Real', ' book', 'ah', ' central', 'uf', ' alleged', ' Of']
+#################################################
+Key:  [' short', '3', ' not', ' rights', ' meeting', ' seven', ' include', ' more', 'ch', ' s']
+Value:  [' Robert', ' kids', ' contact', ' ad', ' attacks', ' Th', ' Tuesday', ' time', 'ek', ' once']
+#################################################
+Key:  ['year', ' play', 'up', ' without', 'at', 'It', ' plan', ' future', ' billion', ' such']
+Value:  [' kids', ' looking', ' one', ' boy', ' 21', ' ago', ' Jim', ' Real', ' second', ' anything']
+#################################################
+Key:  ['e', 'R', ' World', ',', ' �', ' West', ' of', ' After', ' health', ' January']
+Value:  [' Army', ' u', ' feeling', ' For', ' estimated', ' provides', 'za', ' @', '...', 'iv']
+#################################################
+Key:  [' family', ' further', ' County', ' shares', ' billion', ' 50', ' Department', '9', ' H', ' No']
+Value:  [' quickly', ' expressed', ' medical', ' 300', ' excited', ' above', ' added', ' estate', ' file', ' Los']
+#################################################
+Key:  [' might', 'er', ' political', ' due', ' first', ' high', ' 19', ' power', 'os', ' for']
+Value:  ['For', ' corporate', ' described', ' programs', ' funds', ' Mexico', ' well', 'There', ' As', 'wood']
+#################################################
+Key:  [' could', 'M', ' not', ' World', ' High', ' News', ' former', 'B', ' program', ' are']
+Value:  [' leader', ' placed', ' son', ' period', ' Texas', ' tournament', ' 2015', ' phone', ' fellow', ' We']
+#################################################
+Key:  [' reported', '.', ' around', ' before', ' but', ' Monday', ' international', ' young', ' [', ' start']
+Value:  [' kids', ' stuff', 'ally', ' States', ' me', ' joint', 'ka', ' risks', ' spend', ' concern']
+#################################################
+Key:  [' within', ' win', ' able', 'L', ' men', ' being', ' several', 'k', ' he', ' N']
+Value:  ['wood', ' spend', ' in', ' risks', ' protection', ' treated', ' cars', ' once', ' Central', ' adding']
+#################################################
+Key:  ['w', ' media', 'O', ' system', 'C', 'up', ' 24', ' market', ' held', "'re"]
+Value:  [' feeling', ' Three', ' faces', ' individual', 'ford', ' Attorney', ' of', ' responsible', ' x', ' i']
+#################################################
+Key:  [' around', ' case', '.', ' West', ' right', ' that', 'g', ' also', 'man', '5']
+Value:  ['ED', ' session', 'ness', ' move', ' goal', 'j', ' Tuesday', ' deliver', ' names', ' street']
+#################################################
+Key:  [' Ch', ' go', ' provide', '�', ' among', ' decision', ' should', ' long', ' played', ' has']
+Value:  ['ens', ' session', ' twice', ' core', ' remain', ' kids', 'ians', ' page', ' baby', ' Under']
+#################################################
+Key:  ['a', 'I', ' He', ' our', ' line', ' 4', ' data', 'o', ' each', 'g']
+Value:  [' difference', ' Real', ' business', ' sc', ' Houston', ' creating', ' a', ' support', ' advantage', ' push']
+#################################################
+Key:  [' using', ' series', ' West', ' low', ' v', ' me', ' early', 'on', ',"', ' experience']
+Value:  [' treated', ' Three', ' NBA', ' bar', ' session', ' chairman', ' @', ' carry', 'ata', ' forecast']
+#################################################
+Key:  [' July', ' free', ' is', ' students', ' average', ' side', ' lead', ' forward', 'in', ' [']
+Value:  [' election', ' goes', ' THE', ' completed', ' Virginia', ' carry', ' funds', 'af', ' chairman', ' central']
+#################################################
+Key:  ['We', ' post', ' why', ' government', ' fire', ' must', ' every', ' done', '3', ' will']
+Value:  [' limited', ' version', ' AP', ' Attorney', 'ings', 'nd', ' feeling', ' restaurant', ' valued', ' star']
+#################################################
+Key:  [' right', ' billion', '.', ' have', ' world', ' time', ' West', ' un', ' include', ' she']
+Value:  [' Instead', ' States', ' researchers', '5', ' documents', '<pad>', ' majority', ' Peter', ' Spain', ' Texas']
+#################################################
+Key:  [' many', ' released', ' d', ' South', '"', ' Trump', '0', ' often', ' average', "'t"]
+Value:  ['/', ' provides', ' manufacturing', ' speak', 'wa', ' helping', ' added', 'led', ' funds', ' G']
+#################################################
+Key:  [' July', ' live', ' "', 'e', ' K', ' start', 'at', ' those', 'O', ' story']
+Value:  [' difference', ' g', 'j', ' owns', ' once', ' 22', 'x', ' parts', ' focused', ' reporting']
+#################################################
+Key:  [' including', ' statement', ' plan', ' working', ' released', ' John', ' won', 're', ' final', ' record']
+Value:  [' kids', ' accused', 'ens', 'j', ' video', ' removed', 'men', ' course', ' manufacturing', ' produce']
+#################################################
+Key:  [' what', ' April', ' 25', ' why', ' b', ' having', ' minutes', ' little', "'ve", ' Friday']
+Value:  [' investment', ' ahead', ' removed', ' playing', ' kids', ' recent', ' confidence', ' considering', 'za', ' twice']
+#################################################
+Key:  [' 3', ' 14', ' so', ' low', ' government', ' return', ' went', ' part', ' report', ' US']
+Value:  [' Associated', 'AY', ' control', '300', ' running', ' evidence', ' men', ' eyes', ' nature', ' compared']
+#################################################
+Key:  [' face', ' States', ' 30', ' rate', ' which', ' keep', "'t", ' well', ' N', ' 2017']
+Value:  [' protection', ' kids', ' Foundation', ' minutes', ' party', '."', ' forced', ' violence', ' played', 'als']
+#################################################
+Key:  [' where', ' back', 'os', 'us', 'en', ' system', 'This', ' four', ' getting', ' plan']
+Value:  [' attacks', ' Attorney', 'ack', ' sector', 'Z', ' kids', ' Even', ' host', ' son', ' States']
+#################################################
+Key:  [' students', ' Facebook', ' Thursday', ' All', ' according', ' L', ' move', ' live', ' more', ' University']
+Value:  [' book', ' accused', ' Texas', ' @', ' attacks', ' Chris', ' 300', ' finish', ' Jordan', ' Tuesday']
+#################################################
+Key:  [' his', ' members', ' story', ' office', ' Police', ' held', ' while', ' during', ' However', ' On']
+Value:  [' funds', ' placed', ' leader', ' L', ' kids', ' talent', ' below', ' On', ' 300', ' game']
+#################################################
+Key:  [' plan', ' points', ' health', ' statement', ' four', ' big', ' live', ' 18', ' H', ' second']
+Value:  [' Ohio', ' book', ' of', 'S', 'qu', ' doing', '<pad>', ' Great', ' in', ' Day']
+#################################################
+Key:  [' might', ' York', ' making', ' reports', '�', ' However', ' several', ' here', ' young', ' he']
+Value:  [' Bank', ' mental', 'ig', ' considering', ' @', ' Investment', 'og', ' debt', ' announced', ' challenge']
+#################################################
+Key:  [' done', ' them', 'D', ' always', ' per', ' asked', ' rights', ' program', ' data', ' 6']
+Value:  [' Te', ' attacks', ' kids', ' reporting', ' chairman', ' The', 'air', ' Th', ' Minister', ' 70']
+#################################################
+Key:  ['k', ' as', ' another', ' political', ' hours', ' three', ' each', ' November', ' record', ' service']
+Value:  [' Great', ' ended', ' carry', ' Coast', ' twice', ' data', ' Virginia', ' dark', ' alleged', ' condition']
+#################################################
+Key:  ['."', ',', ' 2015', ' $', ' things', ' federal', 'f', ' past', ' However', ' I']
+Value:  ['+', ' Conference', 'ation', ' provides', ' Te', ' stopped', ' short', ' Par', ' stuff', ' REUTERS']
+#################################################
+Key:  ['3', ' After', ' report', ' issue', ' latest', ' coming', ' West', ' campaign', '�', ' N']
+Value:  [' carry', 'ack', ' talks', ' Houston', ' recovery', 'aw', ' spend', 'ge', ' domestic', '15']
+#################################################
+Key:  [' When', ' things', ' know', 'O', ' lead', '0', ' While', ' plan', '6', '�']
+Value:  [' centre', ' lead', ' contact', ' non', ' Robert', ' funds', ' and', ' alleged', ' Tuesday', 'ost']
+#################################################
+Key:  [' same', ' For', ' West', ' law', ' plan', ' within', ' current', ' the', ' c', ' lead']
+Value:  [' thought', '8', ' able', ' Public', ' 17', ' book', ' believed', '6', ' healthy', ' traffic']
+#################################################
+Key:  [' Z', ' local', ' E', ' January', ' held', ' According', ' lost', ' expected', 'ra', 'S']
+Value:  ['ens', 'ness', 'land', ' decisions', 'line', ' book', ' reached', ' ended', ' annual', ' support']
+#################################################
+Key:  [' West', ' m', 'H', ' cost', ' doing', ' South', ' area', ' 15', ' she', 'ur']
+Value:  [' necessary', ' quality', ' focus', ' driving', ' u', '(', ' feeling', ' Let', ' 7', ' We']
+#################################################
+Key:  ['im', ' decision', "'s", ' because', ' any', 'al', ' record', ' expected', 'I', ' care']
+Value:  [' Texas', ' der', ' carry', ' added', 'ge', ' programme', ' behind', ' poll', 'ens', ' military']
+#################################################
+Key:  [' along', ' reported', ' new', 'z', ' am', ' For', ' doesn', ' those', 'R', ' then']
+Value:  ['ry', ' catch', 'ond', ' parents', ' still', ' changing', ' carry', ' include', ' star', ' la']
+#################################################
+Key:  [' said', ' job', ' early', ' --', 'k', ' near', ' these', ' director', ' since', ' United']
+Value:  [' E', 'We', ' played', ' kids', ' application', ' deliver', 'als', ' campaign', ' spending', ' image']
+#################################################
+Key:  ['It', ';', ' need', ' expected', ' The', ' 11', ' We', ' have', ' Facebook', ' officials']
+Value:  ['market', ' book', ' feeling', ' whatever', ' citizens', ' street', ' leader', ' time', ' dropped', '60']
+#################################################
+Key:  [' like', ' another', ' never', ' early', 'E', ' Ch', 'es', ' trade', ' start', ' J']
+Value:  [' kids', ' looking', ' ad', 'al', ' determined', ' quarterback', ' lead', ' think', ' intelligence', ' Alex']
+#################################################
+Key:  [' likely', ' saying', '%', ' all', ' took', ' held', ' St', ' R', ' how', ' so']
+Value:  [' leader', ' placed', 'ary', ' Southern', ' Day', ' C', ' book', ' account', ' video', ' mid']
+#################################################
+Key:  ['ic', ' June', ' e', ' far', 'A', 'O', 'im', ' live', ' [', ' students']
+Value:  ['IC', ' kids', 'S', ' charged', 'io', ' amid', ' multiple', ' looking', ' table', 'ED']
+#################################################
+Key:  [' de', ' those', ' morning', ' might', 'g', '<s>', ' project', ' --', ' open', ' high']
+Value:  [' funds', ' protection', 'als', ' Community', ' Committee', ' panel', ' her', 'ron', ' probably', ' close']
+#################################################
+Key:  [' early', ' which', 'a', ' call', ' late', ' State', 'h', '—', ' an', ' find']
+Value:  ['men', ' talks', ' Robert', ' star', ' Chicago', ' Chief', ' victims', ' Jackson', ' amid', ' twice']
+#################################################
+Key:  [' issues', ' along', ' s', ' likely', ',', 'on', '),', ' near', ' based', ' Thursday']
+Value:  ['pe', 'ally', ' Br', ' excited', ' star', ' owns', ' nearly', ' IN', ' in', ' love']
+#################################################
+Key:  [' top', ' still', "'", ' L', ' point', ' going', ' One', ' D', ' order', ' working']
+Value:  [' kids', ' protection', ' Attorney', ' nation', ' dropped', ' spend', ' Mike', ' the', ' g', ' doesn']
+#################################################
+Key:  [' D', 'man', ' sales', ' most', ' history', ' financial', 'B', ' available', ' young', ' water']
+Value:  [' carry', ' funds', ' running', 'uk', ' data', ' Boston', ' Star', '�', ' are', 'st']
+#################################################
+Key:  [' these', 're', " '", ' based', ' rights', ' some', 'al', ' coming', ' not', '�']
+Value:  [' period', ' Te', '&', ' Tom', 'ann', 'res', 'iv', ' Tuesday', 'q', ' We']
+#################################################
+Key:  [' need', ' and', 'n', 's', ' 17', ' end', ' May', ' students', ' any', ' life']
+Value:  [' follow', ' goes', ' £', ' kids', ' Another', ' qu', ' charges', ' Press', 'nd', ').']
+#################################################
+Key:  [' campaign', ' final', ' social', ' Facebook', ' won', 'in', ' across', ' three', ' than', ' State']
+Value:  ['<pad>', 'D', ' Jim', ' anyone', 'ach', ' i', ' Texas', ' plays', 'TV', ' doing']
+#################################################
+Key:  ['),', ' told', ' may', ' doesn', ' great', ' need', ' statement', '"', ' than', ' five']
+Value:  [' documents', 'wood', 'ians', ' charged', ' Under', ' York', ' was', ' stay', ' Thomas', ' reporting']
+#################################################
+Key:  ['ra', ' once', ' went', 'ers', ' When', ' led', ' much', "'ll", " '", ' hit']
+Value:  [' standards', 'ians', '29', ' special', ' del', ' focused', ' Under', ' road', ' push', ' doesn']
+#################################################
+Key:  [' rate', ' young', ' State', ' didn', ' meeting', ' country', ' with', ' need', ' post', ' same']
+Value:  [' Real', ' version', ' file', ' doing', ' Jordan', ' #', ' crowd', "'ve", ' Facebook', ' kids']
+#################################################
+Key:  [' me', ' change', ' city', ' According', ' rights', ' 21', ' points', ' company', ' January', ' former']
+Value:  [' Under', 'ians', 'j', ' straight', 'als', ' attacks', 'S', ' moving', ' declared', ' course']
+#################################################
+Key:  ['.', ' home', ' love', 'g', ' between', ' change', 'in', ' city', 'ar', ' would']
+Value:  [' book', ' investment', ' decisions', ' stopped', ' leaving', ' (@', ' said', ' Russia', 'ier', 'wood']
+#################################################
+Key:  ['ley', ' reports', 's', ' v', ' says', ' car', ' win', '3', ' job', ' come']
+Value:  [' documents', ' kids', ' stars', '60', ' street', ' Te', ' figure', ' w', ' remain', ' debt']
+#################################################
+Key:  [' held', ' likely', ' 2016', ' another', ' 12', ' An', ' K', ' public', '),', ' she']
+Value:  ['ge', ' L', 'q', ' challenge', ' above', ' 20', ' determined', 's', ' States', ' Facebook']
+#################################################
+Key:  ['ch', ' 2015', ' within', ' West', ' country', ' rate', ' shares', ' don', '7', ' City']
+Value:  [' discuss', ' conversation', '�', ' That', ' population', 'AM', ' strategy', ' marketing', ' kids', ' opinion']
+#################################################
+Key:  [' members', ' out', ' John', ' would', ' second', ' life', ' people', ' might', ' percent', ' not']
+Value:  [' carry', 'q', ' couldn', ' States', 'om', 'ne', '45', ' •', ' kids', ' Virginia']
+#################################################
+Key:  [' years', ' car', ' thing', ' both', 'ur', ',', ' our', ' China', ' 24', 'ly']
+Value:  [' kids', ' one', 've', ' Daniel', '�', ' under', ' talent', 'w', ' Three', ' Women']
+#################################################

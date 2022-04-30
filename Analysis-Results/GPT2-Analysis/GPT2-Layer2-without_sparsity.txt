@@ -1,0 +1,302 @@
+Results for GPT2 - Layer 2 - Without Sparsity
+-----------------------------------------
+Key:  [' then', ' i', ' head', ' site', ' en', 'ote', ' relations', ' opp', ' 29', ' turned']
+Value:  ['�', '\x1e', 'oc', '(', '�', ' or', 'clud', 'tern', '�', ' some']
+#################################################
+Key:  [' economic', ' El', ' far', ' top', ' jo', 'ashington', ' God', 'hes', 'atic', ' polic']
+Value:  ['oc', 'ident', 'ld', ' of', 'ell', 'irst', 'ite', 'qu', ' pre', 'ue']
+#################################################
+Key:  [' economic', 'omes', 'ify', ' respons', ' t', '�', 'ink', ' 4', ' char', 'dd']
+Value:  ['\x1e', 'ign', 'ens', ' an', 'ause', ' cons', ' would', '�', ' do', ' time']
+#################################################
+Key:  [' expected', 'time', '_', '........', ' more', 'ual', 'ensive', ' involved', ' en', ' call']
+Value:  ['st', 'oc', '�', '�', ' m', '\x11', '\x05', ' V', 'ign', '�']
+#################################################
+Key:  [' economic', ' playing', ' fl', 'urn', ' game', ' particular', ' information', 'ency', ' her', ' typ']
+Value:  ['�', 'h', ' was', ' work', ' kn', 'ut', ' bec', 'ok', 'ory', 'fter']
+#################################################
+Key:  [' economic', ' polic', ' design', 'ond', 'ade', 'atives', 'rict', 'ple', 'sp', 'ool']
+Value:  [' In', '�', ' en', '�', ' was', '--', ']', 'ue', ' c', 'h']
+#################################################
+Key:  ['.,', ' qu', 'ach', ' away', ' whe', 'ved', ' cre', ' chang', ' *', ' name']
+Value:  [' cont', '\x0e', '\x14', 'im', 'pl', 'ime', '�', 'U', '�', 'ans']
+#################################################
+Key:  [' pred', ' ent', ' impro', '�', '39', 'rug', ' <', 'OM', ' all', 'itch']
+Value:  ['h', 'E', '�', '\x15', ' on', '\x05', '�', ' 201', '�', ' our']
+#################################################
+Key:  [' economic', '�', 'ides', ' invest', ' proper', '\\', ' (', 'uture', ' inst', ' Q']
+Value:  ['\x0e', 'ons', '�', 'ing', 'fore', '\x17', ' out', ',', '�', ' was']
+#################################################
+Key:  [' economic', ' polic', ' interview', '�', 'ian', ' understand', '\x05', ' mar', ' En', '\x14']
+Value:  [' ', '@', 'ions', ' co', 'our', ' L', '�', '�', '�', '�']
+#################################################
+Key:  [' economic', '�', ' polic', 'lect', 'ote', 'ond', 'alth', ' government', ' cour', ' terms']
+Value:  ['�', ' 5', ' time', ' or', ' N', ' ne', ' pl', ' man', ' C', 'ce']
+#################################################
+Key:  [' economic', ' polic', ' k', 'US', ' issues', ' 30', ' received', ' end', ' offic', ' m']
+Value:  ['�', '\x1e', '(', '>', ' want', ' from', 'ot', ' do', ' ne', ' ']
+#################################################
+Key:  ['igh', ' God', ');', ' legal', ' York', ' information', ' bas', 'OT', ' drug', 'rap']
+Value:  ['ov', '\x03', '�', 'h', 'qu', 'ull', '�', ',"', '�', ' his']
+#################################################
+Key:  [' fe', ' protect', 'ze', ' red', ' When', ' So', ' indust', ' gr', ' poss', ' other']
+Value:  ['�', 'X', 'i', 'oc', '�', '�', ' In', ' over', 'o', ' ag']
+#################################################
+Key:  ["'", ' Ph', ' company', 'ong', 'Ch', ' Mag', ' mass', 'aim', ' ab', 'vert']
+Value:  ['�', ' out', ' 2', ' year', 'ul', 'B', ' play', 'oc', 'ov', '?']
+#################################################
+Key:  ['_', 'oth', ' after', ' &', 'ual', '�', 'ond', '�', ' Democr', ' �']
+Value:  ['ne', '�', 'ity', 'ra', 'h', 'ove', '\x0f', ' res', ' 6', ' "']
+#################################################
+Key:  [' Mag', 'aking', 'ons', 'nd', ' (', ' upd', ' six', ' saf', 'ase', 'ake']
+Value:  ['�', 'h', '2', ' a', 'ens', 'ere', '�', ' app', ',', '�']
+#################################################
+Key:  [' economic', ' fl', 'oth', '201', ' Mag', ' polic', ' doc', ' stat', 'ues', ' police']
+Value:  ['�', '�', '+', 'it', ' been', 'tern', 'ious', ' act', ' also', ' will']
+#################################################
+Key:  [' A', 'www', ' economic', 'ase', 'ory', 'ari', ' milit', 'set', ' played', ' somet']
+Value:  ['h', '(', 'ast', '�', 'ak', ' also', '�', '�', ' en', '�']
+#################################################
+Key:  [' economic', ' polic', ' being', '�', ' industry', 'ate', ' getting', ' threat', ' training', 'itter']
+Value:  ['sel', ' was', 'ock', ' will', '�', '�', ':', ' they', '�', '�']
+#################################################
+Key:  [' economic', 'ian', 'Re', '_', 'EC', ' deep', ' outside', ' God', 'pite', ' Republic']
+Value:  ['oc', '\x1e', ' time', '�', 'h', ' rec', ' In', ' P', ' [', '(']
+#################################################
+Key:  ['ying', ' diff', 'asing', ' invest', ' imm', 'cy', ' candid', ' run', 'ition', 'ivil']
+Value:  ['�', ' like', 'rough', ' fe', ' o', '�', ' ag', 'ly', ' add', ' te']
+#################################################
+Key:  [' economic', ' polic', 'i', ' role', ' outside', ' stat', ' (', ' group', ' Dr', '�']
+Value:  ['�', ' was', 'ast', 'h', '�', '\x1e', 'ater', ':', '�', '�']
+#################################################
+Key:  [' economic', ' though', ' 2013', ').', '39', ' poss', ' evidence', 'R', ' impro', 'uck']
+Value:  ['�', '�', '�', ' con', '�', '"', 'ord', 'iz', ' people', '�']
+#################################################
+Key:  ['ran', 'atives', 'im', ' sw', ' lost', 'ole', 'en', ' while', 'orld', ' him']
+Value:  ['own', 'one', 'int', ' f', ' ne', ' the', '0', 'so', '\x1e', ' p']
+#################################################
+Key:  ['ration', 'ory', 'go', ' respons', ' Oct', ' So', 'itions', 'ton', 'ink', 'up']
+Value:  ['h', ' sc', '�', '�', 'reat', 'ent', '�', ' G', 'ain', 'n']
+#################################################
+Key:  [' economic', 'the', ' count', 'ove', '�', ' days', 'eks', ' dem', 'er', ' city']
+Value:  ['ence', 'if', ' bec', '�', ' 0', 'ay', 'ock', 'h', 'u', '00']
+#################################################
+Key:  [' economic', '�', 'ising', 'ton', ' Mag', ' Che', 'enn', 'ound', '\r', 'Ad']
+Value:  [' D', 'ru', '�', 'ate', ' o', '�', '/', ' ar', ' 2', 'clud']
+#################################################
+Key:  [' diff', 'atives', ' inj', ' So', ' S', 'izing', 'be', '0000', ' require', 'bl']
+Value:  ['\x1e', 'ov', 'er', 'ad', ' they', '(', '\x1c', ' ne', '�', 'ook']
+#################################################
+Key:  [' economic', ' polic', ' compet', ' your', 'ase', ' Add', 'isk', ' points', 'US', ' [']
+Value:  ['\x1e', ' W', 'ge', '�', ' D', 'are', '�', ' my', '�', ' sh']
+#################################################
+Key:  ['ire', ',', ' deal', ' (', '\x00', 'ief', ' ord', 'eks', '...', ' back']
+Value:  ['ri', ' get', 'ions', 'al', ' year', 'ast', ' by', 'art', 'ib', ' some']
+#################################################
+Key:  [' economic', ' polic', 'St', 'aking', ' try', ' fl', 'ccording', ' fore', ' |', ' Mag']
+Value:  ['�', 'gh', 'ter', ' In', '�', 'end', ' ha', '�', ' just', 'ed']
+#################################################
+Key:  [' polic', ' dest', ' economic', '[', 'ied', 'ocr', ' federal', ' given', ' San', ' though']
+Value:  ['ast', '�', 'oc', ' 5', '�', 'end', 'lic', 'ident', '�', ' L']
+#################################################
+Key:  [' economic', ' Oct', 'int', ' dou', 'ilities', '�', 'wards', 'ies', ' chall', ' position']
+Value:  ['�', '�', 'h', ' K', 'xt', 'ther', ' if', '�', ' will', 'per']
+#################################################
+Key:  [' economic', 'erv', ' Mag', 'ip', ' while', ' However', '�', '�', ' can', 'R']
+Value:  [' re', 'ight', 'ack', ' B', '�', '\x1c', '�', '\x1f', 'ong', ' E']
+#################################################
+Key:  ['�', 'ach', ' ke', ' media', '�', 'oe', 'uary', 'oke', 'ged', 'ittee']
+Value:  ['�', ' bl', 'im', '3', 'k', '�', ' out', ' k', ' I', 'ph']
+#################################################
+Key:  [' economic', 'ocr', 'onse', ' an', ' big', 'vert', '�', 's', 'rict', ' p']
+Value:  ['art', ' The', ' ne', '�', 'an', ' time', 'ine', '�', ' at', ' 5']
+#################################################
+Key:  [' interview', ' two', ' diff', 'go', 'The', ' signific', ' ur', ' fl', ' stand', ' sn']
+Value:  ['�', 'h', ' ne', 'ere', ' and', 'oc', 'ous', ' may', 'ict', '�']
+#################################################
+Key:  [' economic', ' diff', ' getting', ' position', ' very', 'izing', ' opp', ' sol', ' comes', ' original']
+Value:  ['�', '\x1f', 'ies', 'ir', '\x1e', ' see', '�', '@', 'ult', '\x1c']
+#################################################
+Key:  [' polic', ' an', 'icle', 'AS', ' vict', 'ach', 'pe', ' manag', '__', 'ittee']
+Value:  ['�', ' U', 'ub', '�', ' also', 'ree', 'able', ' st', 'pl', '."']
+#################################################
+Key:  [' economic', ' community', ' social', ' Dep', 'ten', ' too', ' ref', 'LL', ' However', ' major']
+Value:  ['\x1f', ' ab', ' are', ' F', 'ic', 'hing', 'ces', '�', '\x11', '\x7f']
+#################################################
+Key:  [' economic', 'aring', 'ensive', ' story', ' char', 'erv', 'go', ' A', ' charg', 'int']
+Value:  ['�', 'ident', 'st', '�', ' de', 'on', 'red', ' fe', 'oc', 'wn']
+#################################################
+Key:  [' av', ' polic', 'ian', ' deep', 'itions', '35', ' H', 'ables', 'ton', ' too']
+Value:  [' by', ' pe', 'V', '�', '�', '�', 'ire', 'ld', '�', 'ew']
+#################################################
+Key:  [' made', 'ing', ' far', 'bers', '35', ' economic', 'AS', ' user', 'er', '�']
+Value:  [' c', '�', 'ove', 'us', ' tr', 'ict', ' I', '�', 'ph', ' two']
+#################################################
+Key:  [' economic', ' imm', ' special', ' rep', ' supp', '==', 'hel', ' even', 'www', ' creat']
+Value:  ['�', '^', ' was', "'", '�', ' which', 'red', '�', '�', 'oy']
+#################################################
+Key:  [' economic', ' (', ' diff', '�', 'itions', ' playing', '\x03', 'ope', 'ink', ' polic']
+Value:  ['ast', 'ack', ' as', ' my', 'ount', '\x03', '�', ' o', ' a', ' H']
+#################################################
+Key:  ['ition', ' lost', ' Mich', 'im', ' ra', 'ic', ' evidence', ' once', ' near', ' man']
+Value:  ['�', 'ia', 'oy', '\x03', 'ark', ' ad', ' out', '<', 'nt', '\x1a']
+#################################################
+Key:  [' proper', 'down', ' Oct', 'ially', 'irl', ' economic', 'atives', '=', ' website', 'form']
+Value:  ['wn', 'el', ' most', 'ject', 'ine', ':', '{', 'amp', 'if', 'ind']
+#################################################
+Key:  [' dep', 'This', '\\', ' G', ' S', ' stri', 'How', 'ran', ' sim', 'itter']
+Value:  ['�', ' I', 'ry', '�', ' sp', ' time', 'out', 'ach', '\\', '\r']
+#################################################
+Key:  [' economic', ' Mag', ' area', '8', ' her', ' President', 'ond', 'ering', 'bers', ' Trump']
+Value:  ['�', '�', ' sa', ' ne', ' back', '_', 'ard', 'ade', 'ile', '�']
+#################################################
+Key:  [' month', ' p', ' rather', ' rese', 'ened', ' read', ' polic', 'igh', '�', 'wh']
+Value:  ['�', 'h', ' res', ' 1', ' H', '�', ' U', 't', '\r', 'I']
+#################################################
+Key:  [' economic', ' dest', 'book', ' age', ' diff', ' clear', '�', 'une', 'pos', ' World']
+Value:  ['�', 'h', ' cons', 'um', ' sh', ' off', 'oc', 'ven', ' was', 'E']
+#################################################
+Key:  [' economic', ' outside', 'pite', ' manag', ' game', ' gr', ' being', ' will', '_', 'uture']
+Value:  ['cc', '�', '\x1f', '�', ' qu', '�', '_', 't', '�', 'o']
+#################################################
+Key:  [' particip', 'ction', '�', 'hern', 'ild', 'ey', ' though', ' Pro', 'ope', ' every']
+Value:  ['�', '\x1e', ' did', 'very', '�', ' wh', ' cons', ' was', 'lic', ' pl']
+#################################################
+Key:  [' economic', ' polic', 'ly', ' fact', ' according', 'ope', 'On', ' cr', 'ord', 'orts']
+Value:  ['h', ' ne', 'ite', 'ip', 'en', "'t", ' which', ' Y', 'oc', '�']
+#################################################
+Key:  [' economic', ' polic', 'ey', 'itive', 't', 'oc', ' bott', ' too', ',"', ' ch']
+Value:  ['�', 'ain', 'ign', 'ur', '(', '�', 'port', ' need', ' bl', '\t']
+#################################################
+Key:  [' economic', 'where', ' After', ' hours', '�', ' sugg', ' evidence', ' wrong', 'pos', ' deb']
+Value:  ['ne', '�', ' re', ' at', ' h', 'ell', 'ast', 'th', ' le', 'U']
+#################################################
+Key:  [' economic', 'ink', ' Q', '\x1d', 'rop', ' late', ' H', ' direct', ' A', '�']
+Value:  ['�', 'h', ' ne', ' 5', 'E', '\x7f', 'ill', 'est', ' kn', 'act']
+#################################################
+Key:  [' economic', ' log', ' diff', ' story', 'vent', 'C', ' specific', 'ove', ' A', ' dr']
+Value:  ['ft', '�', ' pol', ' J', 'ter', ' D', ' but', '(', '�', '00']
+#################################################
+Key:  [' Dr', ' Sh', 'ail', ' economic', ' deep', 'pro', ' kill', ' range', 'iety', 'body']
+Value:  ['�', ' was', '�', 'gh', 'X', ' more', ' pl', ' H', 'ff', ' app']
+#################################################
+Key:  [' economic', ' makes', 'igh', 'ibility', ']', '&', 'up', 'R', ' access', 'cept']
+Value:  ['ly', 'her', ' b', '�', ' cont', 'ake', 'ant', 'z', '/', '&']
+#################################################
+Key:  [' economic', ' diff', ' count', '�', ' though', 'arn', 'red', ' 198', ' big', ' X']
+Value:  ['�', ' ne', ' e', 'B', '\x1e', 'ime', 'ri', 'X', '�', ' The']
+#################################################
+Key:  ['R', ' H', ' pred', ' economic', 'An', '39', 'ute', 'ile', ' game', ' days']
+Value:  ['ol', ' c', 'ell', ' will', 'very', 'ade', 'ance', '�', ' know', ' just']
+#################################################
+Key:  ['ries', ' party', ' interview', ' rem', ' playing', ' economic', ' God', ' TH', 'ality', ' Q']
+Value:  ['�', ' j', ' The', 'oy', '<', '�', 'are', 'erv', ';', 'ose']
+#################################################
+Key:  [' pred', ' economic', 'icles', ' countries', ' sm', ' polic', ' <', 'ified', ' going', '____']
+Value:  ['�', 'oc', ' one', 'og', '�', ' C', 'c', ' l', ' sc', ' �']
+#################################################
+Key:  [' g', ' deep', ' Mag', ' grou', ' more', 'AS', ' started', ' somet', 'ire', 'avy']
+Value:  ['h', 'ations', ' per', ' 19', '\n', '�', 'ater', '�', ' (', ' g']
+#################################################
+Key:  ['ial', ' Mich', 'let', ' char', 'er', ' It', ' particip', 'iqu', 'ull', ' economic']
+Value:  ['�', ' was', 'ont', ' ab', 'ear', '�', 'K', ' your', '."', 've']
+#################################################
+Key:  [' economic', ' run', ' recent', 'amp', ' game', ' sett', ' expect', ' found', '�', ' Oct']
+Value:  ['h', '�', 'hing', '�', 'et', ' ne', '�', 'oc', '}', ' him']
+#################################################
+Key:  ['oes', 'ully', ' article', ' cred', ' lower', ' now', '\n', ' ch', ' expect', ' run']
+Value:  ['�', 'h', '�', ' V', ' st', ' sc', 'port', 'it', 'ild', ' un']
+#################################################
+Key:  [' economic', ' polic', 'ars', 'ency', 'atic', 'oth', '�', 'aint', ' rather', ' squ']
+Value:  [' ne', '\x1e', ' He', ' was', ' comp', ' into', 'irst', 'us', 'cl', 'very']
+#################################################
+Key:  [' economic', ' count', ' polic', 'ase', 'her', ' --', ' ch', 'ese', '0', ' much']
+Value:  ['able', ' ex', 'ions', '2', '�', ' cons', ' her', ' tw', 'ub', 'oc']
+#################################################
+Key:  ['39', 'ric', ' Ed', ' pred', 'for', 'ize', 'epend', ' human', ' match', 'icles']
+Value:  ['\x1e', '*', 'The', ' than', '�', '�', 'se', ' c', '2', ' 2']
+#################################################
+Key:  [' economic', 'ell', 'ink', 'OR', ' playing', ' ag', 'ary', 'aces', ' ex', ' results']
+Value:  ['�', '�', 'll', ' co', ' tw', 'ull', ' all', 'if', 'vel', ' sc']
+#################################################
+Key:  [' economic', ' diff', ' char', ' sw', ' Oct', ' building', 'ond', 'time', ' according', ' polic']
+Value:  ['�', ' ne', 'ith', '�', '�', ' de', ' will', 'act', ' so', '�']
+#################################################
+Key:  [' economic', ' polic', ' char', ' compl', '\x05', ' 2012', 'ET', 'conom', ' sw', ' Med']
+Value:  ['�', ' been', ' he', '�', ' work', ' L', ' after', ' play', 'wn', 'ate']
+#################################################
+Key:  [' needs', ' her', ' story', '�', ' step', ' am', ' Rep', 'ople', 'U', ' miss']
+Value:  ['�', ' y', '�', ' did', 'ort', '\x1f', ' dis', ' p', '�', '�']
+#################################################
+Key:  [' outside', ' Euro', ' news', ' deter', '�', 'imum', ' ab', ' cou', ' run', ' big']
+Value:  ['our', '�', ' people', 'ord', ' kn', 'ul', '�', 'o', '�', '[']
+#################################################
+Key:  ['oth', ' It', ' too', ' count', ' started', ' space', 'What', ' sent', '�', 'IC']
+Value:  ['�', ' will', '\\', '3', 'ens', ' bet', 'il', 'ild', 'S', '�']
+#################################################
+Key:  [' economic', ' count', 'att', 'ag', 'ition', '�', ' mind', ' coll', 'ase', 'J']
+Value:  ['�', ' r', '�', ' am', ' who', '\x1b', ' O', 'if', ' again', ' an']
+#################################################
+Key:  ['\xa0', 'ink', ' pull', ' Q', ' job', ' Dr', 'olog', 'ind', 'ia', 'ype']
+Value:  ['�', 'al', 'ite', 'oll', 'P', 'ru', 'am', '�', ' te', '�']
+#################################################
+Key:  [' economic', ' loss', ' playing', '_', ' polic', 'ren', 'pite', ' a', '\xa0', ' suff']
+Value:  ['�', ' 19', 'ove', 'm', ' work', 'ill', 'ly', ' 2', '�', '�']
+#################################################
+Key:  [' economic', ' head', ' appear', '�', 'icle', ' outside', 'pro', ' polic', ' serious', 'ensive']
+Value:  ['�', 'ra', 'd', 'od', 'ag', ' ne', '�', 'nd', 'if', '�']
+#################################################
+Key:  ['ese', ' single', 'iqu', '�', ' (', '�', ' cell', ' offer', ' playing', ' It']
+Value:  ['(', '�', 'll', ' U', 'ail', '\x11', 'ra', '\x07', ' had', 'ib']
+#################################################
+Key:  ['Wh', '�', ' g', 'aged', '201', 'www', 'red', ' �', 'ild', 'ands']
+Value:  ['irst', 'ol', 'ild', 'ual', '--', 'ood', '�', 'V', ' who', '4']
+#################################################
+Key:  [' economic', ' ob', 'ot', 'erv', ' every', ' associ', 'uss', ' problems', ' expect', 'ren']
+Value:  ['h', '3', 'et', '--', ' 201', '�', 'ide', ' when', '�', '�']
+#################################################
+Key:  [' economic', ' pred', ' You', ',', 'red', 'On', ' military', ' cr', 'rict', '�']
+Value:  ['\x14', ' wor', '�', 'ook', ' part', 'oll', ' c', 'ite', ' It', '@']
+#################################################
+Key:  [' economic', 'igh', ']', 'An', ' pred', ' News', ' state', ' Washington', ' who', '07']
+Value:  [' k', 'ces', '�', 'red', ' att', 'il', ' be', '�', 'Q', ' "']
+#################################################
+Key:  ['ric', '39', ' announ', ' economic', ' Ed', ' ent', 'rug', '____', ' object', 'itch']
+Value:  ['h', '�', ' was', '4', ' cons', 'k', 'ite', 'oc', 'f', '�']
+#################################################
+Key:  [' economic', ' rele', 'orm', ' seen', ' six', ' exist', ' social', ' dest', ' sw', 'LL']
+Value:  ['�', ' was', 'oc', 'lic', 'ith', 'age', 'ough', ' she', 'F', 'ated']
+#################################################
+Key:  ['oth', ' government', ' av', ' ret', '�', 'omet', ' How', 'sy', 'ries', 'ied']
+Value:  ['�', ' ne', ' was', 'il', 'ure', '\x1e', ' E', 'se', 'art', ' new']
+#################################################
+Key:  [' economic', '201', ' p', ' sw', ' an', '�', '�', ' space', ' It', '�']
+Value:  ['�', ' sc', '\x07', ' also', 'X', 'B', 'ber', ' con', '00', 'is']
+#################################################
+Key:  [' economic', ' polic', 'ase', ' her', ' early', 'ox', 'set', ' o', ' here', ' ide']
+Value:  ['oc', '|', 'r', 'ail', ' un', ' app', ' new', 'ople', 'c', 'ject']
+#################################################
+Key:  [' economic', ' polic', '�', 'ensive', ' inc', ' subject', '\x05', 'ple', 'ome', 'ashington']
+Value:  [' was', 'ast', ' ne', ' In', 'ue', 'll', '�', "'", ' I', ' 2']
+#################################################
+Key:  [' economic', ' into', 'ended', '>', ' polic', 'ext', ' proper', ' two', 'ple', 'ors']
+Value:  ['�', ' would', 'ph', ' ', '�', ' work', 'ill', '/', 'ri', 'av']
+#################################################
+Key:  [' economic', ' polic', '\x05', ' diff', ' effect', 'ator', '\x03', ' i', '�', 'AS']
+Value:  ['�', ' two', 'ost', 'c', ' s', ' fe', 'b', ' 19', 'amp', 'j']
+#################################################
+Key:  [' economic', ' polic', 'ci', 'erv', ' made', 'ank', 'dd', ' soft', ' her', ' lab']
+Value:  ['h', '\x07', 'ost', ' He', ' has', '�', '�', '\x11', 'ock', 'iz']
+#################################################
+Key:  [' economic', ' issues', ' here', ' design', ' av', ' o', ' interview', ' 20', ' offic', 'stand']
+Value:  ['�', ' was', '\x0e', ' than', 'ri', 'ph', 'ary', 'age', ' 6', '�']
+#################################################
+Key:  [' text', ' They', 'rit', ' To', 'lev', ' protect', ' *', ' risk', ' gu', '�']
+Value:  ['ite', '!', 'ight', ' E', ' was', ' will', '�', ' con', '�', 'A']
+#################################################
+Key:  [' economic', ' polic', ' i', ' forward', 'aur', ' try', ' t', '\\', '(', '08']
+Value:  ['�', 'ut', 'i', ' is', 'oc', "'", '�', ' see', '>', " '"]
+#################################################
+Key:  [' economic', ' impro', '39', 'ame', ' polic', 'H', 'rop', ' page', 'ric', '�']
+Value:  [' ne', 'h', '\x1e', ' In', '�', '�', ' with', ' 201', 'very', '�']
+#################################################
